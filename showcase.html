@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0b0e1a">
+<meta name="description" content="A trading-card collection snapshot shared from ScanVault by True North Interactive.">
+<title>Collection Showcase — ScanVault</title>
+<style>
+:root{
+  --bg:#0b0e1a; --bg2:#10162e; --card:#151b36; --line:#26305a;
+  --txt:#eef1ff; --mut:#9aa3c7; --gold:#f2b73c; --cyan:#53dbff;
+  --good:#3ddc84; --bad:#ff5d5d;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; min-height:100vh; color:var(--txt);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  background:
+    radial-gradient(900px 480px at 50% -120px, rgba(83,219,255,.10), transparent 60%),
+    radial-gradient(700px 420px at 85% 10%, rgba(242,183,60,.07), transparent 60%),
+    var(--bg);
+}
+.wrap{max-width:860px;margin:0 auto;padding:28px 18px 60px}
+.hero{text-align:center;padding:34px 18px 26px}
+.kicker{display:inline-block;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--cyan);
+  border:1px solid rgba(83,219,255,.35);border-radius:999px;padding:6px 14px;margin-bottom:14px}
+.hero h1{margin:0 0 6px;font-size:clamp(22px,4.5vw,32px);letter-spacing:.01em}
+.hero h1 .gold{color:var(--gold)}
+.total{font-size:clamp(44px,10vw,76px);font-weight:800;color:var(--gold);margin:10px 0 2px;
+  text-shadow:0 0 34px rgba(242,183,60,.25)}
+.sub{color:var(--mut);font-size:14px;margin:0}
+.sub b{color:var(--txt)}
+.sec{margin-top:30px}
+.sec h2{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);
+  border-bottom:1px solid var(--line);padding-bottom:8px;margin:0 0 14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.card .art{aspect-ratio:5/7;background:linear-gradient(150deg,#1c2450,#10142b);display:flex;align-items:center;justify-content:center}
+.card .art img{width:100%;height:100%;object-fit:cover;display:block}
+.card .art .ph{font-size:34px;color:var(--mut);opacity:.5}
+.card .ci{padding:9px 10px}
+.card .nm{font-size:13px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card .st{font-size:11px;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
+.card .vl{font-size:14px;font-weight:800;color:var(--cyan);margin-top:5px}
+.movers{display:flex;flex-direction:column;gap:8px}
+.mrow{display:flex;align-items:center;justify-content:space-between;gap:10px;
+  background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
+.mrow .mn{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.delta{font-size:13px;font-weight:800;padding:4px 10px;border-radius:999px;flex:none}
+.delta.up{color:#06281a;background:var(--good)}
+.delta.down{color:#3d0a0a;background:var(--bad)}
+.cta-wrap{text-align:center;margin-top:38px;padding:26px 18px;border:1px solid var(--line);
+  border-radius:18px;background:linear-gradient(150deg,#141b3a,#0d1226)}
+.cta-wrap p{color:var(--mut);font-size:14px;margin:0 0 16px}
+.btn-gold{display:inline-block;background:var(--gold);color:#1a1405;font-weight:800;font-size:16px;
+  padding:14px 28px;border-radius:14px;text-decoration:none;box-shadow:0 8px 28px rgba(242,183,60,.28)}
+.btn-gold:active{transform:scale(.98)}
+.fine{margin-top:22px;text-align:center;color:var(--mut);font-size:12px;line-height:1.6}
+.fine b{color:var(--txt)}
+.empty{text-align:center;padding:70px 20px}
+.empty h1{font-size:24px;margin:0 0 10px}
+.empty p{color:var(--mut);font-size:15px;line-height:1.6;max-width:440px;margin:0 auto 24px}
+.hidden{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div id="showcase" class="hidden">
+    <div class="hero">
+      <span class="kicker">ScanVault collection showcase</span>
+      <h1 id="scTitle"><span class="gold">Collection</span></h1>
+      <div class="total" id="scTotal">$0</div>
+      <p class="sub" id="scSub"></p>
+    </div>
+    <div class="sec">
+      <h2>Top cards</h2>
+      <div class="grid" id="scTop"></div>
+    </div>
+    <div class="sec" id="scMoversSec">
+      <h2>Biggest movers</h2>
+      <div class="movers" id="scMovers"></div>
+    </div>
+    <div class="cta-wrap">
+      <p>This is a snapshot shared by its owner — no account needed to view it.<br>Want one for your own collection?</p>
+      <a class="btn-gold" href="https://truenorth-interactive.github.io/">Get ScanVault — track your own collection</a>
+    </div>
+    <p class="fine">Made with <b>ScanVault</b> by <b>True North Interactive</b>.<br>
+    This page is fully static: your visit is not tracked, and nothing is stored or sent anywhere.</p>
+  </div>
+  <div id="broken" class="hidden">
+    <div class="empty">
+      <h1>This showcase link looks broken or empty.</h1>
+      <p>The link may have been copied incompletely, or it was made by an older version of ScanVault. Ask the owner to generate a fresh share link.</p>
+      <a class="btn-gold" href="https://truenorth-interactive.github.io/">Get ScanVault — track your own collection</a>
+      <p class="fine">Made with <b>ScanVault</b> by <b>True North Interactive</b>.</p>
+    </div>
+  </div>
+</div>
+<script>
+'use strict';
+// Pure logic first (no DOM at import time) so this script can be validated
+// with a real module import in node: the extraction appends an export list.
+function decodePayload(hash) {
+  try {
+    if (!hash) return null;
+    var h = hash.charAt(0) === '#' ? hash.slice(1) : hash;
+    if (!h) return null;
+    return JSON.parse(decodeURIComponent(atob(h)));
+  } catch (e) { return null; }
+}
+function isValidPayload(p) {
+  return !!(p && typeof p === 'object' && !Array.isArray(p) &&
+    Number.isFinite(p.totalValue) && Number.isFinite(p.cardCount) &&
+    Array.isArray(p.top10));
+}
+function escHtml(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, function (m) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m];
+  });
+}
+function fmtUSD(v) {
+  var n = Number(v);
+  if (!Number.isFinite(n)) n = 0;
+  return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+}
+function fmtDelta(d) {
+  var n = Number(d);
+  if (!Number.isFinite(n)) n = 0;
+  return (n > 0 ? '+' : '') + n.toFixed(1) + '%';
+}
+// Render-model: plain data the DOM writer consumes (kept separate so the
+// pure layer stays testable without a browser).
+function showcaseModel(p) {
+  var top = p.top10.slice(0, 10).map(function (c) {
+    return {
+      name: String(c.name || 'Unknown card'),
+      set: String(c.set || ''),
+      value: Number.isFinite(c.value) ? c.value : 0,
+      imageUrl: String(c.imageUrl || '')
+    };
+  });
+  var movers = Array.isArray(p.biggestMovers) ? p.biggestMovers.slice(0, 5).map(function (m) {
+    return {
+      name: String(m.name || 'Unknown card'),
+      delta: Number.isFinite(m.delta) ? m.delta : 0
+    };
+  }) : [];
+  return {
+    genre: String(p.genre || 'Collection'),
+    totalValue: p.totalValue,
+    cardCount: p.cardCount,
+    asOf: String(p.asOf || ''),
+    top: top,
+    movers: movers
+  };
+}
+function cardArtHTML(c) {
+  if (c.imageUrl) {
+    return '<div class="art"><img loading="lazy" src="' + escHtml(c.imageUrl) + '" alt="' + escHtml(c.name) + '"' +
+      ' onerror="this.parentNode.innerHTML=\'<span class=&quot;ph&quot;>&#10022;</span>\'"></div>';
+  }
+  return '<div class="art"><span class="ph">✦</span></div>';
+}
+// DOM writer — runs only in a browser.
+function renderShowcase() {
+  var payload = decodePayload(window.location.hash);
+  var ok = isValidPayload(payload);
+  document.getElementById('showcase').classList.toggle('hidden', !ok);
+  document.getElementById('broken').classList.toggle('hidden', ok);
+  if (!ok) return;
+  var m = showcaseModel(payload);
+  document.title = escHtml(m.genre) + ' collection — ScanVault showcase';
+  document.getElementById('scTitle').innerHTML = escHtml(m.genre) + ' <span class="gold">collection</span>';
+  document.getElementById('scTotal').textContent = fmtUSD(m.totalValue);
+  document.getElementById('scSub').innerHTML =
+    '<b>' + m.cardCount.toLocaleString('en-US') + '</b> cards' +
+    (m.asOf ? ' · snapshot ' + escHtml(m.asOf) : '');
+  document.getElementById('scTop').innerHTML = m.top.map(function (c) {
+    return '<div class="card">' + cardArtHTML(c) +
+      '<div class="ci"><div class="nm">' + escHtml(c.name) + '</div>' +
+      (c.set ? '<div class="st">' + escHtml(c.set) + '</div>' : '') +
+      '<div class="vl">' + escHtml(fmtUSD(c.value)) + '</div></div></div>';
+  }).join('');
+  var mvSec = document.getElementById('scMoversSec');
+  if (m.movers.length) {
+    mvSec.classList.remove('hidden');
+    document.getElementById('scMovers').innerHTML = m.movers.map(function (r) {
+      var cls = r.delta > 0 ? 'up' : (r.delta < 0 ? 'down' : 'up');
+      return '<div class="mrow"><span class="mn">' + escHtml(r.name) + '</span>' +
+        '<span class="delta ' + cls + '">' + escHtml(fmtDelta(r.delta)) + '</span></div>';
+    }).join('');
+  } else {
+    mvSec.classList.add('hidden');
+  }
+}
+if (typeof document !== 'undefined' && typeof window !== 'undefined') {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', renderShowcase);
+  } else {
+    renderShowcase();
+  }
+}
+</script>
+</body>
+</html>
