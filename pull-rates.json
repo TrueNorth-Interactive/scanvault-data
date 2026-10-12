@@ -1120,9 +1120,9 @@
      },
      {
       "rarity": "Mega Hyper Rare",
-      "pctPerPack": 0.08,
+      "pctPerPack": 0.079,
       "oneInX": 1260,
-      "perBox": 0.03
+      "perBox": 0.029
      }
     ]
    },
@@ -1159,9 +1159,9 @@
      },
      {
       "rarity": "Mega Hyper Rare",
-      "pctPerPack": 0.08,
+      "pctPerPack": 0.079,
       "oneInX": 1260,
-      "perBox": 0.03
+      "perBox": 0.029
      }
     ]
    },
@@ -1204,9 +1204,9 @@
      },
      {
       "rarity": "Mega Hyper Rare",
-      "pctPerPack": 0.19,
+      "pctPerPack": 0.185,
       "oneInX": 540,
-      "perBox": 0.07
+      "perBox": 0.067
      }
     ]
    },
@@ -1243,7 +1243,7 @@
      },
      {
       "rarity": "Mega Hyper Rare",
-      "pctPerPack": 0.06,
+      "pctPerPack": 0.056,
       "oneInX": 1786,
       "perBox": 0.02
      }
@@ -1282,9 +1282,9 @@
      },
      {
       "rarity": "Mega Hyper Rare",
-      "pctPerPack": 0.1,
+      "pctPerPack": 0.105,
       "oneInX": 956,
-      "perBox": 0.04
+      "perBox": 0.038
      }
     ]
    },
@@ -1321,9 +1321,9 @@
      },
      {
       "rarity": "Mega Hyper Rare",
-      "pctPerPack": 0.09,
+      "pctPerPack": 0.093,
       "oneInX": 1081,
-      "perBox": 0.03
+      "perBox": 0.033
      }
     ]
    }
