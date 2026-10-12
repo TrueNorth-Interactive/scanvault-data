@@ -1326,6 +1326,45 @@
       "perBox": 0.033
      }
     ]
+   },
+   "30th": {
+    "name": "30th Celebration",
+    "packsPerBox": 36,
+    "source": "TCGplayer Authentication Center via Sportskeeda (3,000+ packs opened)",
+    "sourceUrl": "https://www.sportskeeda.com/pokemon/pokemon-tcg-pull-rates-30th-celebration-set",
+    "confidence": "case-data",
+    "tiers": [
+     {
+      "rarity": "Double Rare",
+      "pctPerPack": 21.02,
+      "oneInX": 4.76,
+      "perBox": 7.57
+     },
+     {
+      "rarity": "Illustration Rare",
+      "pctPerPack": 19.72,
+      "oneInX": 5.07,
+      "perBox": 7.1
+     },
+     {
+      "rarity": "Classic Collection",
+      "pctPerPack": 10.15,
+      "oneInX": 9.85,
+      "perBox": 3.65
+     },
+     {
+      "rarity": "Special Illustration Rare",
+      "pctPerPack": 4.88,
+      "oneInX": 20.49,
+      "perBox": 1.76
+     },
+     {
+      "rarity": "Futuristic Rare",
+      "pctPerPack": 0.83,
+      "oneInX": 120.48,
+      "perBox": 0.3
+     }
+    ]
    }
   },
   "eraAverages": {},

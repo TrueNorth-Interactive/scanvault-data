@@ -2616,5 +2616,27 @@
     "setId": "ARI",
     "type": "gift-set",
     "upc": ""
+  },
+  {
+    "genre": "pokemon",
+    "id": "me06-deltareign-etb",
+    "msrpUSD": 59.99,
+    "name": "Mega Evolution — Delta Reign Elite Trainer Box",
+    "releaseDate": "2026-11-06",
+    "set": "Delta Reign",
+    "setId": "me06",
+    "type": "etb",
+    "upc": ""
+  },
+  {
+    "genre": "onepiece",
+    "id": "op-op18-box",
+    "msrpUSD": 119.76,
+    "name": "One Piece Card Game — The Dominance of God Booster Box [OP-18]",
+    "releaseDate": "2026-11-20",
+    "set": "The Dominance of God",
+    "setId": "op18",
+    "type": "booster-box",
+    "upc": "810199503806"
   }
 ]
