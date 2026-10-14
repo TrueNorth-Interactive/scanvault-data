@@ -1,0 +1,1 @@
+{"_note":"ScanVault remote app config. Values here override the APK-bundled defaults so keys and endpoints can be rotated without shipping a new build. Fetched daily (4s cap); the bundled values always apply when offline or unreachable.","ocrSpaceKey":"K81987937288957","version":1}
