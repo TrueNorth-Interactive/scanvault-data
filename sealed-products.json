@@ -2638,5 +2638,71 @@
     "setId": "op18",
     "type": "booster-box",
     "upc": "810199503806"
+  },
+  {
+    "genre": "yugioh",
+    "id": "ygo-magnificent-maestros-box",
+    "msrpUSD": 34.99,
+    "name": "Yu-Gi-Oh! TCG: Magnificent Maestros Box",
+    "releaseDate": "2026-11-13",
+    "set": "Magnificent Maestros",
+    "setId": "MAMS",
+    "type": "collection",
+    "upc": "083717873280"
+  },
+  {
+    "genre": "mtg",
+    "id": "mtg-festival-in-a-box-atlanta-2026",
+    "msrpUSD": 249.99,
+    "name": "Magic: The Gathering — Festival in a Box: Atlanta 2026",
+    "releaseDate": "2026-10-19",
+    "set": "Mystery Booster Commander Edition",
+    "setId": "",
+    "type": "collection",
+    "upc": ""
+  },
+  {
+    "genre": "pokemon",
+    "id": "pkm-deck-crafters-collection-2026",
+    "msrpUSD": 9.99,
+    "name": "Pokémon TCG: Deck Crafter's Collection (2026)",
+    "releaseDate": "2026-10-23",
+    "set": "",
+    "setId": "",
+    "type": "collection",
+    "upc": ""
+  },
+  {
+    "genre": "onepiece",
+    "id": "op-eb05-heroines-precious-box",
+    "msrpUSD": null,
+    "name": "One Piece Card Game — ONE PIECE HEROINES PRECIOUS BOX [EB-05]",
+    "releaseDate": "2026-10-31",
+    "set": "Heroines Edition vol.2",
+    "setId": "eb05",
+    "type": "gift-set",
+    "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "lor-hyperia-city-illumineers-trove",
+    "msrpUSD": 49.99,
+    "name": "Disney Lorcana: Hyperia City Illumineer's Trove",
+    "releaseDate": "2026-10-23",
+    "set": "Hyperia City",
+    "setId": "",
+    "type": "trove",
+    "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "lor-hyperia-city-booster-display",
+    "msrpUSD": null,
+    "name": "Disney Lorcana: Hyperia City Booster Display",
+    "releaseDate": "2026-10-23",
+    "set": "Hyperia City",
+    "setId": "",
+    "type": "booster-box",
+    "upc": ""
   }
 ]

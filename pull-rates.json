@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-19",
  "pokemon": {
   "sets": {
    "sv1": {
@@ -2806,6 +2806,168 @@
       "oneInX": 55.56,
       "perBox": 0.54,
       "note": "Per-pack as stated in article (note: differs from the usual 1.5%)",
+      "ev": false
+     }
+    ]
+   },
+   "msh": {
+    "name": "Marvel Super Heroes",
+    "packsPerBox": 30,
+    "source": "Collecting Magic: The Gathering | Marvel Super Heroes (Wizards of the Coast)",
+    "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes",
+    "confidence": "publisher",
+    "tiers": [
+     {
+      "rarity": "Rare (dedicated slot, main set)",
+      "pctPerPack": 76.1,
+      "oneInX": 1.31,
+      "perBox": 22.83,
+      "note": "Per-slot, main-set figure only; scene 1.0% rare, logo 2.4% rare, panel 1.9% rare in same slot",
+      "evKeys": [
+       "Rare"
+      ]
+     },
+     {
+      "rarity": "Mythic Rare (dedicated slot, main set)",
+      "pctPerPack": 16.6,
+      "oneInX": 6.02,
+      "perBox": 4.98,
+      "note": "Per-slot, main-set figure only; scene 0.8% mythic, logo 0.7% mythic, panel <1% mythic in same slot",
+      "evKeys": [
+       "Mythic Rare"
+      ]
+     },
+     {
+      "rarity": "Rare (wildcard slot, main set)",
+      "pctPerPack": 16.8,
+      "oneInX": 5.95,
+      "perBox": 5.04,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Rare"
+      ]
+     },
+     {
+      "rarity": "Mythic Rare (wildcard slot, main set)",
+      "pctPerPack": 2.1,
+      "oneInX": 47.62,
+      "perBox": 0.63,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Mythic Rare"
+      ]
+     },
+     {
+      "rarity": "Foil Rare (foil slot, main set)",
+      "pctPerPack": 5.9,
+      "oneInX": 16.95,
+      "perBox": 1.77,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Rare"
+      ]
+     },
+     {
+      "rarity": "Foil Mythic Rare (foil slot, main set)",
+      "pctPerPack": 1.2,
+      "oneInX": 83.33,
+      "perBox": 0.36,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Mythic Rare"
+      ]
+     },
+     {
+      "rarity": "Source Material card (any, non-foil)",
+      "pctPerPack": 4.17,
+      "oneInX": 24.0,
+      "perBox": 1.25,
+      "note": "Article states 1 in 24 Play Boosters; replaces a common; 60 different cards at equal rates",
+      "ev": false
+     },
+     {
+      "rarity": "Headliner: The Mind Stone (cosmic foil)",
+      "pctPerPack": 1.0,
+      "oneInX": 100.0,
+      "perBox": 0.3,
+      "note": "Collector Boosters only: 1% of Collector Boosters have a headliner; perBox is per 30 packs for comparison only",
+      "ev": false
+     }
+    ]
+   },
+   "hob": {
+    "name": "The Hobbit",
+    "packsPerBox": 30,
+    "source": "Collecting Magic: The Gathering | The Hobbit (Wizards of the Coast, via Playing MTG)",
+    "sourceUrl": "https://playingmtg.com/collecting-magic-the-gathering-the-hobbit-the-four-most-important-things-to-know/",
+    "confidence": "publisher",
+    "tiers": [
+     {
+      "rarity": "Rare (dedicated slot, main set)",
+      "pctPerPack": 82.9,
+      "oneInX": 1.21,
+      "perBox": 24.87,
+      "note": "Per-slot, main-set figure only; rare scene 1.8%, dragon hoard rare 2.3%, book cover rare <1% in same slot",
+      "evKeys": [
+       "Rare"
+      ]
+     },
+     {
+      "rarity": "Mythic Rare (dedicated slot, main set)",
+      "pctPerPack": 11.1,
+      "oneInX": 9.01,
+      "perBox": 3.33,
+      "note": "Per-slot, main-set figure only; dragon hoard/book cover mythic <1% each in same slot",
+      "evKeys": [
+       "Mythic Rare"
+      ]
+     },
+     {
+      "rarity": "Rare (wildcard slot, main set)",
+      "pctPerPack": 17.3,
+      "oneInX": 5.78,
+      "perBox": 5.19,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Rare"
+      ]
+     },
+     {
+      "rarity": "Mythic Rare (wildcard slot, main set)",
+      "pctPerPack": 2.3,
+      "oneInX": 43.48,
+      "perBox": 0.69,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Mythic Rare"
+      ]
+     },
+     {
+      "rarity": "Foil Rare (foil slot, main set)",
+      "pctPerPack": 7.1,
+      "oneInX": 14.08,
+      "perBox": 2.13,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Rare"
+      ]
+     },
+     {
+      "rarity": "Foil Mythic Rare (foil slot, main set)",
+      "pctPerPack": 1.0,
+      "oneInX": 100.0,
+      "perBox": 0.3,
+      "note": "Per-slot as stated",
+      "evKeys": [
+       "Mythic Rare"
+      ]
+     },
+     {
+      "rarity": "Book Cover card (any, play booster)",
+      "pctPerPack": 7.5,
+      "oneInX": 13.33,
+      "perBox": 2.25,
+      "note": "Combined play-booster exposure: non-foil booster-fun 4.2% rare + 3.3% mythic; foil booster-fun 4.6% rare + 3.6% mythic; dedicated-slot <1% lines",
       "ev": false
      }
     ]

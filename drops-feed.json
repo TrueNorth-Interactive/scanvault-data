@@ -1,1 +1,51 @@
-{"pokemon":[{"name":"30th Celebration Booster Bundle & Mini Tins","releaseDate":"2026-10-02","note":"New ways to pull the 30th Celebration set — a Booster Bundle and Mini Tins. The 128-card set itself launched September 16.","icon":"img/drops/30th-celebration.png","iconKind":"logo"},{"name":"30th Celebration Battle Decks","releaseDate":"2026-10-30","note":"Two ready-to-play decks headlined by Espeon ex and Umbreon ex.","icon":"img/drops/30th-celebration.png","iconKind":"logo"},{"name":"Mega Evolution — Delta Reign","releaseDate":"2026-11-06","note":"The next main Mega Evolution expansion. Prerelease events run October 24 to November 1 at local game stores.","icon":"img/drops/delta-reign.png","iconKind":"logo"},{"name":"30th Celebration ex Tins & Binder Collection","releaseDate":"2026-12-04","note":"The final 30th Celebration wave — ex Tins and a Binder Collection.","icon":"img/drops/30th-celebration.png","iconKind":"logo"}],"onepiece":[{"name":"EB-05 Heroines Edition Vol. 2","releaseDate":"2026-10-30","note":"Extra Booster: ONE PIECE Heroines Edition vol. 2 — a smaller side set between main releases."},{"name":"OP-18 The Dominance of God","releaseDate":"2026-11-20","note":"Main booster set. Official price $4.99 per pack.","icon":"img/drops/op18-dominance-of-god.webp","iconKind":"cover"},{"name":"ST37 & ST38 Starter Decks","releaseDate":"2026-12-18","note":"Two new starter decks — 51 cards each, with 10 DON!! cards and a 3-card bonus pack."}]}
+{
+  "pokemon": [
+    {
+      "name": "30th Celebration Booster Bundle & Mini Tins",
+      "releaseDate": "2026-10-02",
+      "note": "New ways to pull the 30th Celebration set — a Booster Bundle and Mini Tins. The 128-card set itself launched September 16.",
+      "icon": "img/drops/30th-celebration.png",
+      "iconKind": "logo"
+    },
+    {
+      "name": "30th Celebration Battle Decks",
+      "releaseDate": "2026-10-30",
+      "note": "Two ready-to-play decks headlined by Espeon ex and Umbreon ex.",
+      "icon": "img/drops/30th-celebration.png",
+      "iconKind": "logo"
+    },
+    {
+      "name": "Mega Evolution — Delta Reign",
+      "releaseDate": "2026-11-06",
+      "note": "The next main Mega Evolution expansion. Prerelease events run October 24 to November 1 at local game stores.",
+      "icon": "img/drops/delta-reign.png",
+      "iconKind": "logo"
+    },
+    {
+      "name": "30th Celebration ex Tins & Binder Collection",
+      "releaseDate": "2026-12-04",
+      "note": "The final 30th Celebration wave — ex Tins and a Binder Collection.",
+      "icon": "img/drops/30th-celebration.png",
+      "iconKind": "logo"
+    }
+  ],
+  "onepiece": [
+    {
+      "name": "EB-05 Heroines Edition Vol. 2",
+      "releaseDate": "2026-10-30",
+      "note": "Extra Booster: ONE PIECE Heroines Edition vol. 2 — a smaller side set between main releases."
+    },
+    {
+      "name": "OP-18 The Dominance of God",
+      "releaseDate": "2026-11-20",
+      "note": "Main booster set. Official price $4.99 per pack.",
+      "icon": "img/drops/op18-dominance-of-god.webp",
+      "iconKind": "cover"
+    },
+    {
+      "name": "ST37 & ST38 Starter Decks",
+      "releaseDate": "2026-12-18",
+      "note": "Two new starter decks — 51 cards each, with 10 DON!! cards and a 3-card bonus pack."
+    }
+  ]
+}
