@@ -2704,5 +2704,137 @@
     "setId": "",
     "type": "booster-box",
     "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt01-box",
+    "name": "BT-01: Booster New Evolution — Booster Box",
+    "set": "BT-01: Booster New Evolution",
+    "setId": "BT-01",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2021-01-29",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt05-box",
+    "name": "BT-05: Booster Battle Of Omni — Booster Box",
+    "set": "BT-05: Booster Battle Of Omni",
+    "setId": "BT-05",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2021-08-06",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt06-box",
+    "name": "BT-06: Booster Double Diamond — Booster Box",
+    "set": "BT-06: Booster Double Diamond",
+    "setId": "BT-06",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2021-11-26",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-ex04-box",
+    "name": "EX-04: Theme Booster Alternative Being — Booster Box",
+    "set": "EX-04: Theme Booster Alternative Being",
+    "setId": "EX-04",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2022-12-16",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt13-box",
+    "name": "BT-13: Booster Versus Royal Knights — Booster Box",
+    "set": "BT-13: Booster Versus Royal Knights",
+    "setId": "BT-13",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2023-04-21",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt14-box",
+    "name": "BT-14: Booster Blast Ace — Booster Box",
+    "set": "BT-14: Booster Blast Ace",
+    "setId": "BT-14",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2023-08-11",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt15-box",
+    "name": "BT-15: Booster Exceed Apocalypse — Booster Box",
+    "set": "BT-15: Booster Exceed Apocalypse",
+    "setId": "BT-15",
+    "type": "box",
+    "msrpUSD": 95.76,
+    "releaseDate": "2024-02-09",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-st07-deck",
+    "name": "ST-7: Starter Deck Gallantmon",
+    "set": "ST-7: Starter Deck Gallantmon",
+    "setId": "ST-7",
+    "type": "gift",
+    "msrpUSD": 9.99,
+    "releaseDate": "2021-10-08",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-st12-deck",
+    "name": "ST-12: Starter Deck Jesmon",
+    "set": "ST-12: Starter Deck Jesmon",
+    "setId": "ST-12",
+    "type": "gift",
+    "msrpUSD": 9.99,
+    "releaseDate": "2022-10-14",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-bt01-03-special",
+    "name": "BT01-03: Release Special Booster Ver.1.0 — Special Booster",
+    "set": "BT01-03: Release Special Booster Ver.1.0",
+    "setId": "BT01-03",
+    "type": "booster-box",
+    "msrpUSD": 143.64,
+    "releaseDate": "2020-11-27",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-lm02-tamer",
+    "name": "LM-02: Special Booster Digimon Tamers 25th Set — Tamer Goods Set",
+    "set": "LM-02: Special Booster Digimon Tamers 25th Set",
+    "setId": "LM-02",
+    "type": "booster-box",
+    "msrpUSD": 59.99,
+    "releaseDate": "2024-08-23",
+    "upc": ""
+  },
+  {
+    "genre": "digimon",
+    "id": "digi-pb12-anniv",
+    "name": "PB-12E: Digimon Card Game 2nd Anniversary Set",
+    "set": "PB-12E: Digimon Card Game 2nd Anniversary Set",
+    "setId": "PB-12E",
+    "type": "gift",
+    "msrpUSD": 49.99,
+    "releaseDate": "2022-11-25",
+    "upc": ""
   }
 ]
