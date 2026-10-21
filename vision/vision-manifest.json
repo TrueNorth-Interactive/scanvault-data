@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "genre": "pokemon",
+ "model": "dinov2-small-int8",
+ "dim": 384,
+ "count": 5985,
+ "indexFile": "vision-pokemon-index.json",
+ "wholeFile": "vision-pokemon-whole.f16",
+ "artFile": "vision-pokemon-art.f16",
+ "modelFile": "dinov2-small-quantized.onnx"
+}
