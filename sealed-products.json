@@ -2836,5 +2836,49 @@
     "msrpUSD": 49.99,
     "releaseDate": "2022-11-25",
     "upc": ""
+  },
+  {
+    "genre": "onepiece",
+    "id": "op-ts03-mini-case",
+    "msrpUSD": 11.99,
+    "name": "One Piece Card Game — Mini Case Set [TS-03] (Luffy/Shanks/Hancock)",
+    "releaseDate": "2026-10-30",
+    "set": "Mini Case Set",
+    "setId": "ts03",
+    "type": "collection",
+    "upc": ""
+  },
+  {
+    "genre": "onepiece",
+    "id": "op-gc2026-heroines-gift",
+    "msrpUSD": 44.99,
+    "name": "One Piece Card Game — Gift Collection -ONE PIECE Heroines- [GC-2026]",
+    "releaseDate": "2026-11-20",
+    "set": "Heroines Edition vol.2",
+    "setId": "eb05",
+    "type": "gift-set",
+    "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "lor-hyperia-city-starter",
+    "msrpUSD": 29.99,
+    "name": "Disney Lorcana: Hyperia City 2-Player Starter Set",
+    "releaseDate": "2026-10-23",
+    "set": "Hyperia City",
+    "setId": "",
+    "type": "collection",
+    "upc": ""
+  },
+  {
+    "genre": "yugioh",
+    "id": "ygo-beyond-the-brave-box",
+    "msrpUSD": 107.76,
+    "name": "Yu-Gi-Oh! TCG: Beyond the Brave Booster Box",
+    "releaseDate": "2026-10-09",
+    "set": "Beyond the Brave",
+    "setId": "",
+    "type": "booster-box",
+    "upc": ""
   }
 ]
