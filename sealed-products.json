@@ -2880,5 +2880,95 @@
     "setId": "",
     "type": "booster-box",
     "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "win-booster-box",
+    "name": "Winterspell — Booster Box (24 packs)",
+    "releaseDate": "2026-02-13",
+    "set": "Winterspell",
+    "setId": "WIN",
+    "type": "booster-box",
+    "upc": "4050368988812"
+  },
+  {
+    "genre": "lorcana",
+    "id": "win-trove",
+    "name": "Winterspell — Illumineer’s Trove",
+    "releaseDate": "2026-02-13",
+    "set": "Winterspell",
+    "setId": "WIN",
+    "type": "trove",
+    "upc": "4050368988409"
+  },
+  {
+    "genre": "lorcana",
+    "id": "win-collection-starter-stitch",
+    "name": "Winterspell — Collection Starter Set (Stitch Edition)",
+    "releaseDate": "2026-03-13",
+    "set": "Winterspell",
+    "setId": "WIN",
+    "type": "collection",
+    "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "wun-booster-box",
+    "name": "Wilds Unknown — Booster Box (24 packs)",
+    "releaseDate": "2026-05-08",
+    "set": "Wilds Unknown",
+    "setId": "WUN",
+    "type": "booster-box",
+    "upc": "4050368988874"
+  },
+  {
+    "genre": "lorcana",
+    "id": "wun-trove",
+    "name": "Wilds Unknown — Illumineer’s Trove",
+    "releaseDate": "2026-05-08",
+    "set": "Wilds Unknown",
+    "setId": "WUN",
+    "type": "trove",
+    "upc": "4050368988645"
+  },
+  {
+    "genre": "lorcana",
+    "id": "wun-2player-starter",
+    "name": "Wilds Unknown — 2-Player Starter Set (Elastigirl & Buzz Lightyear)",
+    "releaseDate": "2026-05-08",
+    "set": "Wilds Unknown",
+    "setId": "WUN",
+    "type": "collection",
+    "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "aov-booster-box",
+    "name": "Attack of the Vine! — Booster Box (24 packs)",
+    "releaseDate": "2026-07-17",
+    "set": "Attack of the Vine!",
+    "setId": "AOV",
+    "type": "booster-box",
+    "upc": "4050368900425"
+  },
+  {
+    "genre": "lorcana",
+    "id": "aov-trove",
+    "name": "Attack of the Vine! — Illumineer’s Trove",
+    "releaseDate": "2026-07-17",
+    "set": "Attack of the Vine!",
+    "setId": "AOV",
+    "type": "trove",
+    "upc": ""
+  },
+  {
+    "genre": "lorcana",
+    "id": "aov-collection-starter-rapunzel",
+    "name": "Attack of the Vine! — Collection Starter Set (Rapunzel Edition)",
+    "releaseDate": "2026-09-04",
+    "set": "Attack of the Vine!",
+    "setId": "AOV",
+    "type": "collection",
+    "upc": ""
   }
 ]

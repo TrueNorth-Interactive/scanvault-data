@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-26",
  "pokemon": {
   "sets": {
    "sv1": {
@@ -1977,6 +1977,48 @@
       "perBox": 24
      }
     ]
+   },
+   "BLGG": {
+    "name": "Battles of Legend: Glorious Gallery",
+    "packsPerBox": 24,
+    "source": "Konami pack configuration via Yugipedia set page (1 Secret Rare + 4 Ultra Rares per 5-card pack) and Southern Hobby (24 packs/box)",
+    "sourceUrl": "https://yugipedia.com/wiki/Battles_of_Legend:_Glorious_Gallery",
+    "confidence": "community",
+    "tiers": [
+     {
+      "rarity": "Ultra Rare",
+      "pctPerPack": 400,
+      "oneInX": 0.25,
+      "perBox": 96
+     },
+     {
+      "rarity": "Secret Rare",
+      "pctPerPack": 100,
+      "oneInX": 1,
+      "perBox": 24
+     }
+    ]
+   },
+   "MAMO": {
+    "name": "Magnificent Monsters",
+    "packsPerBox": 3,
+    "source": "Konami box configuration via retailer listings of Konami copy (3 packs x 5 Ultra Rares + 3 bonus Secret Rares per box)",
+    "sourceUrl": "https://katzenworld.shop/product/yu-gi-oh-tcg-magnificent-monsters-box-set-3-booster-packs-3-secret-rares/",
+    "confidence": "community",
+    "tiers": [
+     {
+      "rarity": "Ultra Rare",
+      "pctPerPack": 500,
+      "oneInX": 0.2,
+      "perBox": 15
+     },
+     {
+      "rarity": "Secret Rare (box bonus)",
+      "pctPerPack": 100,
+      "oneInX": 1,
+      "perBox": 3
+     }
+    ]
    }
   },
   "eraAverages": {
@@ -2090,22 +2132,17 @@
    {
     "key": "BLZD",
     "name": "Blazing Dominion",
-    "reason": "2026 core set; same reason as BPRO."
+    "reason": "2026 core set (TCG May 8, 2026). Konami composition only (10 Secret / 14 Ultra / 26 Super / 50 Common, 25 also Starlight); no set-specific opening aggregation or 2026 foil-split statement found in Oct 26, 2026 re-check. Generic 2016-era ratios (Super 75 / Ultra 16.67 / Secret 8.33) not carried over. Starlight rate unpublished."
    },
    {
     "key": "CORI",
     "name": "Chaos Origins",
-    "reason": "2026 core set; same reason as BPRO."
+    "reason": "2026 core set (TCG July 3, 2026). Konami composition only (10 Secret / 14 Ultra / 26 Super / 50 Common, 25 Starlight incl. 5 extended-art); no set-specific opening aggregation or 2026 foil-split statement found in Oct 26, 2026 re-check (one source states Konami has not revealed exact pull ratios for this set). Generic 2016-era ratios not carried over."
    },
    {
     "key": "BETB",
     "name": "Beyond the Brave",
-    "reason": "2026 core set; same reason as BPRO."
-   },
-   {
-    "key": "BLGG",
-    "name": "Battles of Legend: Glorious Gallery",
-    "reason": "2026 Battles of Legend; per-set configuration not verified in this pass (series format likely but not assumed)."
+    "reason": "2026 core set (TCG Oct 9, 2026) — under the 3-week rule as of Oct 26, 2026 (17 days); re-check after Oct 30, 2026. No BETB box-opening aggregate exists yet per Oct 2026 tracker (all tiers unknown)."
    },
    {
     "key": "MP23/MP24/MP25",
@@ -2971,6 +3008,267 @@
       "ev": false
      }
     ]
+   },
+   "ecl": {
+    "name": "Lorwyn Eclipsed",
+    "packsPerBox": 30,
+    "source": "Collecting Lorwyn Eclipsed (Wizards of the Coast)",
+    "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed",
+    "confidence": "publisher",
+    "tiers": [
+     {
+      "rarity": "Rare (dedicated slot)",
+      "pctPerPack": 82.8,
+      "oneInX": 1.21,
+      "perBox": 24.84
+     },
+     {
+      "rarity": "Mythic Rare (dedicated slot)",
+      "pctPerPack": 14.8,
+      "oneInX": 6.76,
+      "perBox": 4.44
+     },
+     {
+      "rarity": "Rare (wildcard slot)",
+      "pctPerPack": 20.0,
+      "oneInX": 5.0,
+      "perBox": 6.0
+     },
+     {
+      "rarity": "Mythic Rare (wildcard slot)",
+      "pctPerPack": 2.0,
+      "oneInX": 50.0,
+      "perBox": 0.6
+     },
+     {
+      "rarity": "Foil Rare (foil slot)",
+      "pctPerPack": 7.5,
+      "oneInX": 13.33,
+      "perBox": 2.25
+     },
+     {
+      "rarity": "Foil Mythic Rare (foil slot)",
+      "pctPerPack": 1.1,
+      "oneInX": 90.91,
+      "perBox": 0.33
+     },
+     {
+      "rarity": "Special Guests",
+      "pctPerPack": 1.82,
+      "oneInX": 55,
+      "perBox": 0.55
+     },
+     {
+      "rarity": "Rare or higher – exactly 2 in pack",
+      "pctPerPack": 27,
+      "oneInX": 3.7,
+      "perBox": 8.1
+     },
+     {
+      "rarity": "Rare or higher – exactly 3 in pack",
+      "pctPerPack": 2,
+      "oneInX": 50.0,
+      "perBox": 0.6
+     }
+    ]
+   },
+   "tmt": {
+    "name": "Teenage Mutant Ninja Turtles",
+    "packsPerBox": 30,
+    "source": "Collecting Magic: The Gathering | Teenage Mutant Ninja Turtles (Wizards of the Coast)",
+    "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles",
+    "confidence": "publisher",
+    "tiers": [
+     {
+      "rarity": "Rare (dedicated slot)",
+      "pctPerPack": 89.0,
+      "oneInX": 1.12,
+      "perBox": 26.7
+     },
+     {
+      "rarity": "Mythic Rare (dedicated slot)",
+      "pctPerPack": 9.2,
+      "oneInX": 10.87,
+      "perBox": 2.76
+     },
+     {
+      "rarity": "Rare (Legendary Turtle slot)",
+      "pctPerPack": 7.9,
+      "oneInX": 12.66,
+      "perBox": 2.37
+     },
+     {
+      "rarity": "Mythic Rare (Legendary Turtle slot)",
+      "pctPerPack": 3.4,
+      "oneInX": 29.41,
+      "perBox": 1.02
+     },
+     {
+      "rarity": "Rare (wildcard slot)",
+      "pctPerPack": 7.6,
+      "oneInX": 13.16,
+      "perBox": 2.28
+     },
+     {
+      "rarity": "Foil Rare (foil slot)",
+      "pctPerPack": 6.7,
+      "oneInX": 14.93,
+      "perBox": 2.01
+     },
+     {
+      "rarity": "Source Material (non-foil)",
+      "pctPerPack": 3.57,
+      "oneInX": 28,
+      "perBox": 1.07
+     },
+     {
+      "rarity": "Rare or higher – exactly 2 in pack",
+      "pctPerPack": 25,
+      "oneInX": 4.0,
+      "perBox": 7.5
+     },
+     {
+      "rarity": "Rare or higher – exactly 3 in pack",
+      "pctPerPack": 3,
+      "oneInX": 33.33,
+      "perBox": 0.9
+     }
+    ]
+   },
+   "sos": {
+    "name": "Secrets of Strixhaven",
+    "packsPerBox": 30,
+    "source": "Collecting Secrets of Strixhaven (Wizards of the Coast)",
+    "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven",
+    "confidence": "publisher",
+    "tiers": [
+     {
+      "rarity": "Rare (dedicated slot)",
+      "pctPerPack": 83.7,
+      "oneInX": 1.19,
+      "perBox": 25.11
+     },
+     {
+      "rarity": "Mythic Rare (dedicated slot)",
+      "pctPerPack": 14.1,
+      "oneInX": 7.09,
+      "perBox": 4.23
+     },
+     {
+      "rarity": "Borderless Elder Dragon / planeswalker / dual land (dedicated slot, rare-or-mythic combined)",
+      "pctPerPack": 1.6,
+      "oneInX": 62.5,
+      "perBox": 0.48,
+      "note": "Article gives 1.6% combined, no rare/mythic split"
+     },
+     {
+      "rarity": "Rare (wildcard slot)",
+      "pctPerPack": 19.5,
+      "oneInX": 5.13,
+      "perBox": 5.85
+     },
+     {
+      "rarity": "Mythic Rare (wildcard slot)",
+      "pctPerPack": 1.9,
+      "oneInX": 52.63,
+      "perBox": 0.57
+     },
+     {
+      "rarity": "Mystical Archive Rare (Archive slot)",
+      "pctPerPack": 9.6,
+      "oneInX": 10.42,
+      "perBox": 2.88
+     },
+     {
+      "rarity": "Mystical Archive Mythic Rare (Archive slot)",
+      "pctPerPack": 2.9,
+      "oneInX": 34.48,
+      "perBox": 0.87
+     },
+     {
+      "rarity": "Foil Rare (foil slot)",
+      "pctPerPack": 6.7,
+      "oneInX": 14.93,
+      "perBox": 2.01
+     },
+     {
+      "rarity": "Foil Mythic Rare (foil slot)",
+      "pctPerPack": 1.1,
+      "oneInX": 90.91,
+      "perBox": 0.33
+     },
+     {
+      "rarity": "Special Guests",
+      "pctPerPack": 1.82,
+      "oneInX": 55,
+      "perBox": 0.55
+     },
+     {
+      "rarity": "Rare or higher – exactly 2 in pack",
+      "pctPerPack": 33,
+      "oneInX": 3.03,
+      "perBox": 9.9
+     },
+     {
+      "rarity": "Rare or higher – exactly 3 in pack",
+      "pctPerPack": 6,
+      "oneInX": 16.67,
+      "perBox": 1.8
+     }
+    ]
+   },
+   "fra": {
+    "name": "Reality Fracture",
+    "packsPerBox": 30,
+    "source": "Collecting Reality Fracture (Wizards of the Coast, published Sept 8, 2026)",
+    "sourceUrl": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture",
+    "confidence": "publisher",
+    "tiers": [
+     {
+      "rarity": "Rare (dedicated slot)",
+      "pctPerPack": 83.3,
+      "oneInX": 1.2,
+      "perBox": 24.99
+     },
+     {
+      "rarity": "Mythic Rare (dedicated slot)",
+      "pctPerPack": 15.8,
+      "oneInX": 6.33,
+      "perBox": 4.74
+     },
+     {
+      "rarity": "Rare (echoed pairs slot)",
+      "pctPerPack": 6.7,
+      "oneInX": 14.93,
+      "perBox": 2.01,
+      "note": "Article groups 3 echoed-pairs cards in one bullet (88.9/6.7/1.4); not stated whether per-card or group-level — recorded literally, NOT multiplied by 3"
+     },
+     {
+      "rarity": "Mythic Rare (echoed pairs slot)",
+      "pctPerPack": 1.4,
+      "oneInX": 71.43,
+      "perBox": 0.42,
+      "note": "Same grouping ambiguity as the echoed Rare tier — recorded literally"
+     },
+     {
+      "rarity": "Foil Rare (foil slot)",
+      "pctPerPack": 6.0,
+      "oneInX": 16.67,
+      "perBox": 1.8
+     },
+     {
+      "rarity": "Foil Mythic Rare (foil slot)",
+      "pctPerPack": 1.2,
+      "oneInX": 83.33,
+      "perBox": 0.36
+     },
+     {
+      "rarity": "Special Guests",
+      "pctPerPack": 1.82,
+      "oneInX": 55,
+      "perBox": 0.55
+     }
+    ]
    }
   },
   "eraAverages": {},
@@ -2984,7 +3282,8 @@
    "All '<1%' packaging/article figures (e.g. foil borderless mythic planeswalker, exactly-4 rares) omitted as not numerically quantifiable without inventing a value",
    "Pre-Play-Booster sets in the app's live Scryfall list (2022-2023: DMU, BRO, ONE, MOM, WOE, LCI and earlier) not included: they used Draft/Set Boosters with different structures and no single comparable Play Booster collation was used here",
    "2024 non-Standard Play Booster sets (e.g. MH3 Modern Horizons 3) and post-EOE 2025 sets (Spider-Man, Avatar: The Last Airbender etc., as listed live by Scryfall) are out of the researched scope and listed as gaps, not filled with era averages",
-   "Collector Boosters excluded throughout - different pack structure and odds"
+   "Collector Boosters excluded throughout - different pack structure and odds",
+   "tmt: wildcard-slot and foil-slot mythic rates are '<1%' in the WotC article — no numeric tier recorded"
   ],
   "eraNotes": [
    {
@@ -3733,6 +4032,128 @@
       "ev": false
      }
     ]
+   },
+   "OP-16": {
+    "name": "The Time of Battle",
+    "packsPerBox": 24,
+    "source": "tcgtalk OP16 Hit Rates & Case Opening (multiple documented English openings: 2 single-box sessions, a 4-box session, a full 12-box case; 432 EN packs + 576 JP packs, EN/JP reported separately)",
+    "sourceUrl": "https://tcgtalk.com/guides/op16-pull-rates-case-opening",
+    "confidence": "community",
+    "tiers": [
+     {
+      "rarity": "SR",
+      "pctPerPack": 22.92,
+      "oneInX": 4.36,
+      "perBox": 5.5,
+      "note": "Conflict: TeamFunFamily 6-7/box, Cambridge TCG 7-9/box EN; tcgtalk range 4-7/box adopted as the only OP-16-specific stated-sample source; midpoint used."
+     },
+     {
+      "rarity": "Alt Art / Parallel",
+      "pctPerPack": 3.47,
+      "oneInX": 28.8,
+      "perBox": 0.8333
+     },
+     {
+      "rarity": "Alt Art Leader",
+      "pctPerPack": 1.04,
+      "oneInX": 96,
+      "perBox": 0.25
+     },
+     {
+      "rarity": "SEC",
+      "pctPerPack": 2.78,
+      "oneInX": 36,
+      "perBox": 0.6667
+     },
+     {
+      "rarity": "SP",
+      "pctPerPack": 0.69,
+      "oneInX": 144,
+      "perBox": 0.1667
+     },
+     {
+      "rarity": "Gold DON!!",
+      "pctPerPack": 0.69,
+      "oneInX": 144,
+      "perBox": 0.1667
+     }
+    ]
+   },
+   "OP-17": {
+    "name": "The World's Strongest Warriors",
+    "packsPerBox": 24,
+    "source": "tcgtalk OP17 Pull Rates & Case Opening — 1,000+ Packs (three full 12-box cases plus additional boxes, 1,000+ packs, English)",
+    "sourceUrl": "https://tcgtalk.com/guides/op17-pull-rates-case-opening",
+    "confidence": "community",
+    "tiers": [
+     {
+      "rarity": "SR",
+      "pctPerPack": 29.17,
+      "oneInX": 3.43,
+      "perBox": 7
+     },
+     {
+      "rarity": "Alt Art / Parallel",
+      "pctPerPack": 3.47,
+      "oneInX": 28.8,
+      "perBox": 0.8333
+     },
+     {
+      "rarity": "Alt Art Leader",
+      "pctPerPack": 1.39,
+      "oneInX": 72,
+      "perBox": 0.3333
+     },
+     {
+      "rarity": "SEC",
+      "pctPerPack": 1.74,
+      "oneInX": 57.6,
+      "perBox": 0.4167
+     },
+     {
+      "rarity": "SP",
+      "pctPerPack": 0.69,
+      "oneInX": 144,
+      "perBox": 0.1667
+     },
+     {
+      "rarity": "Treasure Rare",
+      "pctPerPack": 0.35,
+      "oneInX": 288,
+      "perBox": 0.0833
+     },
+     {
+      "rarity": "Gold DON!!",
+      "pctPerPack": 0.35,
+      "oneInX": 288,
+      "perBox": 0.0833
+     },
+     {
+      "rarity": "Platinum (Diamond) DON!!",
+      "pctPerPack": 0.35,
+      "oneInX": 288,
+      "perBox": 0.0833
+     },
+     {
+      "rarity": "Panda Man Alt Art",
+      "pctPerPack": 2.43,
+      "oneInX": 41.14,
+      "perBox": 0.5833
+     },
+     {
+      "rarity": "Manga Rare",
+      "pctPerPack": 0.17,
+      "oneInX": 576,
+      "perBox": 0.0417
+     },
+     {
+      "rarity": "Pirates Crew Alt Art",
+      "pctPerPack": 0.1,
+      "oneInX": 960,
+      "perBox": 0.025,
+      "note": "Order-of-magnitude only: ~1 or fewer observed grails in three cases; Samurai Sword Tokyo cites ~1 in 338 JP boxes."
+     }
+    ]
    }
   },
   "eraAverages": {
@@ -3842,7 +4263,12 @@
    "OP-01 to OP-13: Bandai publishes set composition and box configuration (24 packs/box, 12 boxes/case) but no official pull ratios - no 'publisher'-confidence rates exist for any set",
    "PRB-01: only the Manga God Pack rate is sourced; normal SR/SEC/alt-art per-box rates for PRB-01 not found",
    "OP-09: 'error case / god case' openings with multiple Mangas/SPs are anecdotal single-case reports - excluded from rates",
-   "Treasure Rare (OP-09 onward, 1 card type per set): no sourced pull rate found - not included as a tier"
+   "Treasure Rare (OP-09 onward except OP-17, 1 card type per set): no sourced pull rate found - not included as a tier (OP-17: ~1/case per tcgtalk 1,000+ pack sample)",
+   "OP-14: no tracker article or stated-sample aggregation found in Oct 26, 2026 re-check (retailer marketing + conflicting single-case anecdotes only; JP/EN products differ) - not added",
+   "OP-15: only per-set tracker table (tcgtalk) is internally inconsistent on SR (3-4/box vs 7-9/box EN consensus) and mixes JP/EN figures - table not adopted",
+   "EB-03: no per-box/per-case rate table exists (Samurai Sword Tokyo states no per-box table; god-pack estimate ~1 in 15 cases is small-sample self-reported) - not added",
+   "EB-04: single-carton anecdotes only; JP-only standalone product (EN content split into OP14-EB04/OP15-EB04) - not added",
+   "OP-16: Manga Rare and Treasure Rare tiers not sourced (Manga: 0 in documented EN case; TR: single Vista in one case, source calls it windfall not a rate) - excluded"
   ],
   "eraNotes": [
    {
