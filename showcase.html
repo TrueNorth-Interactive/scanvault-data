@@ -185,7 +185,14 @@ function cardArtHTML(c) {
 }
 // DOM writer — runs only in a browser.
 function renderShowcase() {
-  var payload = decodePayload(window.location.hash);
+  // Short links served by the share Worker carry the payload as an
+  // injected global (never in the URL: setting location.hash put the
+  // whole payload in the address bar, so copying the link after opening
+  // pasted a long URL again and defeated the short link). Long fragment
+  // links still decode from the hash as before.
+  var payload = (typeof window.__SV_PAYLOAD__ !== 'undefined' && window.__SV_PAYLOAD__)
+    ? window.__SV_PAYLOAD__
+    : decodePayload(window.location.hash);
   var ok = isValidPayload(payload);
   document.getElementById('showcase').classList.toggle('hidden', !ok);
   document.getElementById('broken').classList.toggle('hidden', ok);
