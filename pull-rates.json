@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-30",
  "pokemon": {
   "sets": {
    "sv1": {
@@ -2019,6 +2019,50 @@
       "perBox": 3
      }
     ]
+   },
+   "BETB": {
+    "name": "Beyond the Brave",
+    "packsPerBox": 24,
+    "source": "tcgtalk Beyond the Brave community opening tally — 350 packs (13 booster boxes + 8 mini boxes + loose packs) from the first 2.5 weeks after release; denominators differ by tier and are stated per tier",
+    "sourceUrl": "https://tcgtalk.com/guides/beyond-the-brave-yugioh-pull-rates",
+    "confidence": "community",
+    "tiers": [
+     {
+      "rarity": "Super Rare",
+      "pctPerPack": 75.7,
+      "oneInX": 1.32,
+      "perBox": 18,
+      "note": "Guide table: about 109 Super-only in 144 counted packs (75.7%); per-box figure derived as 24 foil slots minus 4 Ultra minus 1.83 Secret minus 0.6 chase = about 18"
+     },
+     {
+      "rarity": "Ultra Rare",
+      "pctPerPack": 16.67,
+      "oneInX": 6,
+      "perBox": 4,
+      "note": "8 pulls in 48 counted packs (two boxes, exactly 4 each, stated independently by two openers); thin denominator, matches the 2016-era ratio"
+     },
+     {
+      "rarity": "Secret Rare",
+      "pctPerPack": 7.64,
+      "oneInX": 13.09,
+      "perBox": 1.83,
+      "note": "11 pulls in 144 counted packs, confirmed independently by four openers"
+     },
+     {
+      "rarity": "Over-frame Ultra Rare",
+      "pctPerPack": 1.28,
+      "oneInX": 78,
+      "perBox": 0.31,
+      "note": "4 pulls in 312 booster-box packs (about 1 in 3.3 boxes)"
+     },
+     {
+      "rarity": "Starlight Rare",
+      "pctPerPack": 1.28,
+      "oneInX": 78,
+      "perBox": 0.31,
+      "note": "Any frame: 4 pulls in 312 booster-box packs (about 1 in 3.3 boxes); split was 3 standard-frame + 1 Over-frame Starlight — the Over-frame split rests on a single observation and is not recorded as its own tier"
+     }
+    ]
    }
   },
   "eraAverages": {
@@ -2138,11 +2182,6 @@
     "key": "CORI",
     "name": "Chaos Origins",
     "reason": "2026 core set (TCG July 3, 2026). Konami composition only (10 Secret / 14 Ultra / 26 Super / 50 Common, 25 Starlight incl. 5 extended-art); no set-specific opening aggregation or 2026 foil-split statement found in Oct 26, 2026 re-check (one source states Konami has not revealed exact pull ratios for this set). Generic 2016-era ratios not carried over."
-   },
-   {
-    "key": "BETB",
-    "name": "Beyond the Brave",
-    "reason": "2026 core set (TCG Oct 9, 2026) — under the 3-week rule as of Oct 26, 2026 (17 days); re-check after Oct 30, 2026. No BETB box-opening aggregate exists yet per Oct 2026 tracker (all tiers unknown)."
    },
    {
     "key": "MP23/MP24/MP25",
