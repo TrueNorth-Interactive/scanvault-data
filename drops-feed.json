@@ -27,6 +27,11 @@
       "note": "The final 30th Celebration wave — ex Tins and a Binder Collection.",
       "icon": "img/drops/30th-celebration.png",
       "iconKind": "logo"
+    },
+    {
+      "name": "Mega Evolution — Flowing Fists",
+      "releaseDate": "2027-02-05",
+      "note": "First English Mega Evolution set of 2027, led by Mega Lucario Z ex. Date reported, not yet officially confirmed by TPCI — text-only until official art is public."
     }
   ],
   "onepiece": [
@@ -46,6 +51,16 @@
       "name": "ST37 & ST38 Starter Decks",
       "releaseDate": "2026-12-18",
       "note": "Two new starter decks — 51 cards each, with 10 DON!! cards and a 3-card bonus pack."
+    },
+    {
+      "name": "EB-06 Extra Booster",
+      "releaseDate": "2027-01-29",
+      "note": "Extra Booster opening 2027; theme not yet announced by Bandai. Date reported by trade press — text-only until official art is public."
+    },
+    {
+      "name": "OP-19",
+      "releaseDate": "2027-03-05",
+      "note": "First numbered One Piece set of 2027; name/theme not yet announced by Bandai. Five new Leaders reported. Text-only until official art is public."
     }
   ]
 }
