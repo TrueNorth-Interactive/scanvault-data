@@ -52,7 +52,8 @@
     "set": "151",
     "setId": "sv35",
     "type": "etb",
-    "upc": "820650853159"
+    "upc": "820650853159",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv35-151-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -970,7 +971,8 @@
     "msrpUSD": 69.99,
     "upc": "",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv35-pc-151-etb.jpg"
   },
   {
     "id": "sv04-pc-etb",
@@ -1361,7 +1363,8 @@
     "set": "2025 Mega-Pack Tin",
     "setId": "2025-mega-pack-tin",
     "type": "tin",
-    "upc": "083717868705"
+    "upc": "083717868705",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2025-mega-pack-tin.webp"
   },
   {
     "genre": "onepiece",
@@ -2340,7 +2343,8 @@
     "set": "Final Fantasy",
     "setId": "fin",
     "type": "bundle",
-    "upc": "195166271224"
+    "upc": "195166271224",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fin-chocobo.png"
   },
   {
     "genre": "mtg",
@@ -2494,7 +2498,8 @@
     "set": "The First Chapter",
     "setId": "TFC",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/tfc-trove.jpg"
   },
   {
     "genre": "lorcana",
