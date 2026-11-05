@@ -167,9 +167,20 @@ def main():
             assert p["image"].startswith(
                 "https://raw.githubusercontent.com/"
                 "TrueNorth-Interactive/scanvault-data/main/"), p
+    # No-op path (Nov 4 fix): on a no-change day the lineup is
+    # byte-identical to the committed file, so git add stages nothing
+    # and the old staged-assertion failed the run. Compare first and
+    # exit cleanly instead -- a no-change day is a success, not a
+    # failure, and must not produce a failure report.
+    new_text = json.dumps(out, indent=2, ensure_ascii=False) + "\n"
+    if os.path.exists(OUT):
+        with open(OUT) as f:
+            if f.read() == new_text:
+                print("\nNO CHANGE: lineup identical to the published "
+                      "file; nothing to commit.")
+                return 0
     with open(OUT, "w") as f:
-        json.dump(out, f, indent=2, ensure_ascii=False)
-        f.write("\n")
+        f.write(new_text)
     git("add", "hot-products.json")
     staged = git("diff", "--cached", "--name-only").split()
     assert staged == ["hot-products.json"], staged
