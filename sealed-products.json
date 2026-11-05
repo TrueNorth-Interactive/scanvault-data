@@ -270,7 +270,7 @@
     "type": "etb",
     "releaseDate": "2020-08-14",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650807312",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh03-etb.jpg"
   },
@@ -282,7 +282,7 @@
     "type": "etb",
     "releaseDate": "2020-09-25",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650805455",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh35-championspath-etb.jpg"
   },
@@ -390,7 +390,7 @@
     "type": "etb",
     "releaseDate": "2021-10-08",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650809439",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh25-celebrations-etb.jpg"
   },
@@ -460,7 +460,7 @@
     "type": "etb",
     "releaseDate": "2022-11-11",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650851070",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh12-etb.jpg"
   },
@@ -661,7 +661,7 @@
     "type": "etb",
     "releaseDate": "2019-11-01",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650806056",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm12-etb.jpg"
   },
@@ -915,7 +915,7 @@
     "type": "etb",
     "releaseDate": "2026-04-24",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "196214152038",
     "genre": "pokemon"
   },
   {
@@ -926,7 +926,7 @@
     "type": "etb",
     "releaseDate": "2026-06-19",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "196214154117",
     "genre": "pokemon"
   },
   {
@@ -937,7 +937,7 @@
     "type": "etb",
     "releaseDate": "2026-08-14",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "196214157422",
     "genre": "pokemon"
   },
   {
@@ -948,7 +948,7 @@
     "type": "etb",
     "releaseDate": "2026-10-02",
     "msrpUSD": 149.99,
-    "upc": "",
+    "upc": "196214158801",
     "genre": "pokemon"
   },
   {
@@ -971,7 +971,7 @@
     "type": "etb",
     "releaseDate": "2023-03-31",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "0820650854576",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -983,7 +983,7 @@
     "type": "etb",
     "releaseDate": "2023-06-09",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "0820650853678",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1008,7 +1008,7 @@
     "type": "etb",
     "releaseDate": "2023-09-22",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "0820650854668",
     "genre": "pokemon",
     "exclusive": "pokemon-center",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv35-pc-151-etb.jpg"
@@ -1227,7 +1227,7 @@
     "set": "2014 Mega-Tin: Brotherhood of the Fire Fist - Tiger King",
     "setId": "2014-mega-tin-brotherhood-of-the-fire-fist-tiger-king",
     "type": "tin",
-    "upc": "",
+    "upc": "083717898382",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2014-tiger-king.jpg"
   },
   {
@@ -1239,7 +1239,7 @@
     "set": "2014 Mega-Tin: Bujintei Susanowo",
     "setId": "2014-mega-tin-bujintei-susanowo",
     "type": "tin",
-    "upc": "",
+    "upc": "083717898399",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2014-bujintei-susanowo.jpg"
   },
   {
@@ -2665,7 +2665,7 @@
     "set": "Rise of the Floodborn",
     "setId": "ROF",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368982506",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/rof-trove.jpg"
   },
   {
@@ -2677,7 +2677,7 @@
     "set": "Into the Inklands",
     "setId": "INK",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368982926",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ink-trove.jpg"
   },
   {
@@ -2689,7 +2689,7 @@
     "set": "Ursula's Return",
     "setId": "URS",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368983527",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/urs-trove.jpg"
   },
   {
@@ -2701,7 +2701,7 @@
     "set": "Shimmering Skies",
     "setId": "SSK",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368983961",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ssk-trove.png"
   },
   {
@@ -2713,7 +2713,7 @@
     "set": "Azurite Sea",
     "setId": "AZS",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368984326",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/azs-trove.jpg"
   },
   {
@@ -2749,7 +2749,7 @@
     "set": "Whispers in the Well",
     "setId": "WHI",
     "type": "booster-box",
-    "upc": "",
+    "upc": "4050368900043",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/whi-booster-box.jpg"
   },
   {
@@ -2761,7 +2761,7 @@
     "set": "The First Chapter",
     "setId": "TFC",
     "type": "gift-set",
-    "upc": "",
+    "upc": "4050368981752",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/tfc-gift-set.jpg"
   },
   {
@@ -2773,7 +2773,7 @@
     "set": "Azurite Sea",
     "setId": "AZS",
     "type": "gift-set",
-    "upc": "",
+    "upc": "4050368984357",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/azs-stitch-gift-set.jpg"
   },
   {
@@ -2797,7 +2797,7 @@
     "set": "Delta Reign",
     "setId": "me06",
     "type": "etb",
-    "upc": ""
+    "upc": "196214165809"
   },
   {
     "genre": "onepiece",
@@ -2844,7 +2844,7 @@
     "set": "",
     "setId": "",
     "type": "collection",
-    "upc": ""
+    "upc": "196214156647"
   },
   {
     "genre": "onepiece",
@@ -2867,7 +2867,7 @@
     "set": "Hyperia City",
     "setId": "",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368901132",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/lor-hyperia-city-illumineers-trove.png"
   },
   {
@@ -2879,7 +2879,7 @@
     "set": "Hyperia City",
     "setId": "",
     "type": "booster-box",
-    "upc": "",
+    "upc": "4050368900982",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/lor-hyperia-city-booster-display.png"
   },
   {
@@ -2914,7 +2914,7 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2021-11-26",
-    "upc": "",
+    "upc": "811039035587",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt06-box.webp"
   },
   {
@@ -2938,7 +2938,7 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2023-04-21",
-    "upc": "",
+    "upc": "810059781429",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt13-box.jpg"
   },
   {
@@ -2950,7 +2950,7 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2023-08-11",
-    "upc": "",
+    "upc": "810059781917",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt14-box.jpg"
   },
   {
@@ -2962,7 +2962,7 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2024-02-09",
-    "upc": "",
+    "upc": "810059783904",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt15-box.jpg"
   },
   {
@@ -2974,7 +2974,7 @@
     "type": "gift",
     "msrpUSD": 9.99,
     "releaseDate": "2021-10-08",
-    "upc": "",
+    "upc": "811039035655",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-st07-deck.jpg"
   },
   {
@@ -2986,7 +2986,7 @@
     "type": "gift",
     "msrpUSD": 9.99,
     "releaseDate": "2022-10-14",
-    "upc": "",
+    "upc": "811039037659",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-st12-deck.jpg"
   },
   {
@@ -2998,7 +2998,7 @@
     "type": "booster-box",
     "msrpUSD": 143.64,
     "releaseDate": "2020-11-27",
-    "upc": "",
+    "upc": "811039034320",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt01-03-special.webp"
   },
   {
@@ -3021,7 +3021,7 @@
     "type": "gift",
     "msrpUSD": 49.99,
     "releaseDate": "2022-11-25",
-    "upc": "",
+    "upc": "811039039035",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-pb12-anniv.webp"
   },
   {
@@ -3069,7 +3069,7 @@
     "set": "Beyond the Brave",
     "setId": "",
     "type": "booster-box",
-    "upc": "",
+    "upc": "083717872719",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ygo-beyond-the-brave-box.jpg"
   },
   {
@@ -3102,7 +3102,7 @@
     "set": "Winterspell",
     "setId": "WIN",
     "type": "collection",
-    "upc": "",
+    "upc": "4050368900265",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/win-collection-starter-stitch.png"
   },
   {
@@ -3135,7 +3135,7 @@
     "set": "Wilds Unknown",
     "setId": "WUN",
     "type": "collection",
-    "upc": "",
+    "upc": "4050368988546",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/wun-2player-starter.png"
   },
   {
@@ -3157,7 +3157,7 @@
     "set": "Attack of the Vine!",
     "setId": "AOV",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368900579",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/aov-trove.png"
   },
   {
@@ -3168,7 +3168,7 @@
     "set": "Attack of the Vine!",
     "setId": "AOV",
     "type": "collection",
-    "upc": "",
+    "upc": "4050368900319",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/aov-collection-starter-rapunzel.png"
   },
   {
@@ -3180,7 +3180,7 @@
     "set": "Battles of Legend: Glorious Gallery",
     "setId": "blgg",
     "type": "booster-box",
-    "upc": ""
+    "upc": "083717871941"
   },
   {
     "genre": "yugioh",
@@ -3191,6 +3191,6 @@
     "set": "Magnificent Monsters",
     "setId": "mamo",
     "type": "box",
-    "upc": ""
+    "upc": "083717873037"
   }
 ]
