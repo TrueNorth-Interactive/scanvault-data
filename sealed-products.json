@@ -20,7 +20,7 @@
     "set": "Scarlet & Violet",
     "setId": "sv01",
     "type": "etb",
-    "upc": "",
+    "upc": "820650854590",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv01-miraidon-etb.png"
   },
   {
@@ -188,7 +188,7 @@
     "set": "Journey Together",
     "setId": "sv09",
     "type": "etb",
-    "upc": ""
+    "upc": "196214108554"
   },
   {
     "genre": "pokemon",
@@ -211,7 +211,7 @@
     "set": "Black Bolt",
     "setId": "sv11",
     "type": "etb",
-    "upc": "",
+    "upc": "196214113664",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv11-blackbolt-etb.jpg"
   },
   {
@@ -223,7 +223,7 @@
     "set": "White Flare",
     "setId": "sv11",
     "type": "etb",
-    "upc": "",
+    "upc": "196214113619",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv11-whiteflare-etb.png"
   },
   {
@@ -258,7 +258,7 @@
     "type": "etb",
     "releaseDate": "2020-05-01",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650807008",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh02-etb.jpg"
   },
@@ -294,7 +294,7 @@
     "type": "etb",
     "releaseDate": "2020-11-13",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650807688",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh04-etb.jpg"
   },
@@ -306,7 +306,7 @@
     "type": "etb",
     "releaseDate": "2021-02-19",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650808173",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh45-shiningfates-etb.jpg"
   },
@@ -425,7 +425,7 @@
     "type": "etb",
     "releaseDate": "2022-05-27",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650850394",
     "genre": "pokemon"
   },
   {
@@ -436,7 +436,7 @@
     "type": "etb",
     "releaseDate": "2022-07-01",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650850509",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh105-pogo-etb.jpg"
   },
@@ -472,7 +472,7 @@
     "type": "etb",
     "releaseDate": "2023-01-20",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650851476",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh125-crownzenith-etb.jpg"
   },
@@ -506,7 +506,7 @@
     "type": "etb",
     "releaseDate": "2017-05-05",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650802263",
     "genre": "pokemon"
   },
   {
@@ -517,7 +517,7 @@
     "type": "etb",
     "releaseDate": "2017-08-04",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650802416",
     "genre": "pokemon"
   },
   {
@@ -528,7 +528,7 @@
     "type": "etb",
     "releaseDate": "2017-10-06",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650803192",
     "genre": "pokemon"
   },
   {
@@ -539,7 +539,7 @@
     "type": "etb",
     "releaseDate": "2017-11-03",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650802607",
     "genre": "pokemon"
   },
   {
@@ -572,7 +572,7 @@
     "type": "etb",
     "releaseDate": "2018-05-04",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650804335",
     "genre": "pokemon"
   },
   {
@@ -583,7 +583,7 @@
     "type": "etb",
     "releaseDate": "2018-08-03",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650804502",
     "genre": "pokemon"
   },
   {
@@ -594,7 +594,7 @@
     "type": "etb",
     "releaseDate": "2018-09-07",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650804793",
     "genre": "pokemon"
   },
   {
@@ -605,7 +605,7 @@
     "type": "etb",
     "releaseDate": "2018-11-02",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650804670",
     "genre": "pokemon"
   },
   {
@@ -616,7 +616,7 @@
     "type": "etb",
     "releaseDate": "2019-02-01",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650804984",
     "genre": "pokemon"
   },
   {
@@ -627,7 +627,7 @@
     "type": "etb",
     "releaseDate": "2019-05-03",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650805639",
     "genre": "pokemon"
   },
   {
@@ -638,7 +638,7 @@
     "type": "etb",
     "releaseDate": "2019-08-02",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650805844",
     "genre": "pokemon"
   },
   {
@@ -695,7 +695,7 @@
     "type": "etb",
     "releaseDate": "2014-08-13",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650109317",
     "genre": "pokemon"
   },
   {
@@ -706,7 +706,7 @@
     "type": "etb",
     "releaseDate": "2014-11-05",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650109416",
     "genre": "pokemon"
   },
   {
@@ -739,7 +739,7 @@
     "type": "etb",
     "releaseDate": "2015-05-06",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650800276",
     "genre": "pokemon"
   },
   {
@@ -750,7 +750,7 @@
     "type": "etb",
     "releaseDate": "2015-08-12",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650800337",
     "genre": "pokemon"
   },
   {
@@ -783,7 +783,7 @@
     "type": "etb",
     "releaseDate": "2016-02-03",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650800795",
     "genre": "pokemon"
   },
   {
@@ -794,7 +794,7 @@
     "type": "etb",
     "releaseDate": "2016-05-02",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650801235",
     "genre": "pokemon"
   },
   {
@@ -805,7 +805,7 @@
     "type": "etb",
     "releaseDate": "2016-02-22",
     "msrpUSD": 49.99,
-    "upc": "",
+    "upc": "820650801488",
     "genre": "pokemon"
   },
   {
@@ -816,7 +816,7 @@
     "type": "etb",
     "releaseDate": "2016-08-03",
     "msrpUSD": 39.99,
-    "upc": "",
+    "upc": "820650801433",
     "genre": "pokemon"
   },
   {
@@ -893,7 +893,7 @@
     "type": "etb",
     "releaseDate": "2025-11-14",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "196214124813",
     "genre": "pokemon"
   },
   {
@@ -904,7 +904,7 @@
     "type": "etb",
     "releaseDate": "2026-01-30",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "196214132474",
     "genre": "pokemon"
   },
   {
@@ -959,7 +959,7 @@
     "type": "etb",
     "releaseDate": "2023-03-31",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "820650853425",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1057,7 +1057,7 @@
     "type": "etb",
     "releaseDate": "2024-05-24",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "820650857997",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1069,7 +1069,7 @@
     "type": "etb",
     "releaseDate": "2024-09-13",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "820650859236",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1105,7 +1105,7 @@
     "type": "etb",
     "releaseDate": "2025-03-28",
     "msrpUSD": 69.99,
-    "upc": "",
+    "upc": "196214108561",
     "genre": "pokemon",
     "exclusive": "pokemon-center",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv09-pc-etb.webp"
@@ -1154,7 +1154,7 @@
     "type": "etb",
     "releaseDate": "2021-10-08",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "820650809866",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1166,7 +1166,7 @@
     "type": "etb",
     "releaseDate": "2021-11-12",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "820650809941",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1178,7 +1178,7 @@
     "type": "etb",
     "releaseDate": "2022-02-25",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "820650850066",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1190,7 +1190,7 @@
     "type": "etb",
     "releaseDate": "2022-09-09",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "820650851353",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1202,7 +1202,7 @@
     "type": "etb",
     "releaseDate": "2022-11-11",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "820650851629",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1214,7 +1214,7 @@
     "type": "etb",
     "releaseDate": "2023-01-20",
     "msrpUSD": 59.99,
-    "upc": "",
+    "upc": "820650851872",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1287,7 +1287,7 @@
     "set": "2016 Mega-Tin: Kaiba & Obelisk the Tormentor",
     "setId": "2016-mega-tin-kaiba-obelisk-the-tormentor",
     "type": "tin",
-    "upc": "",
+    "upc": "083717828617",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2016-kaiba-obelisk.jpg"
   },
   {
@@ -1311,7 +1311,7 @@
     "set": "2017 Mega-Tin: Seto Kaiba",
     "setId": "2017-mega-tin-seto-kaiba",
     "type": "tin",
-    "upc": "",
+    "upc": "083717833895",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2017-seto-kaiba.jpg"
   },
   {
@@ -2653,7 +2653,7 @@
     "set": "The First Chapter",
     "setId": "TFC",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368981745",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/tfc-trove.jpg"
   },
   {
@@ -2725,7 +2725,7 @@
     "set": "Reign of Jafar",
     "setId": "ROJ",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368985101",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/roj-trove.jpg"
   },
   {
@@ -2737,7 +2737,7 @@
     "set": "Whispers in the Well",
     "setId": "WHI",
     "type": "trove",
-    "upc": "",
+    "upc": "4050368987860",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/whi-trove.jpg"
   },
   {
@@ -2785,7 +2785,7 @@
     "set": "Archazia's Island",
     "setId": "ARI",
     "type": "gift-set",
-    "upc": "",
+    "upc": "4050368985170",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ari-lilo-gift-box.png"
   },
   {
@@ -2902,7 +2902,7 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2021-08-06",
-    "upc": "",
+    "upc": "811039035310",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt05-box.jpg"
   },
   {
@@ -3033,7 +3033,7 @@
     "set": "Mini Case Set",
     "setId": "ts03",
     "type": "collection",
-    "upc": "",
+    "upc": "810199503257",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-ts03-mini-case.png"
   },
   {
