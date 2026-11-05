@@ -90,7 +90,14 @@ def main():
     ap.add_argument("--live", action="store_true",
                     help="publish the new lineup (default: dry-run)")
     args = ap.parse_args()
-    today = datetime.date.today().isoformat()
+    # Toronto date, ALWAYS: date.today() follows the ambient timezone,
+    # which differs between execution contexts (cron worker = Toronto,
+    # exec shell = UTC). In the evening hours that flips the `updated`
+    # stamp by a day and breaks the no-change comparison. The app's
+    # audience is Toronto, so the watcher's day is Toronto's day.
+    from zoneinfo import ZoneInfo
+    today = datetime.datetime.now(
+        ZoneInfo("America/Toronto")).date().isoformat()
 
     with open(CATALOG) as f:
         prods = json.load(f)
@@ -167,18 +174,24 @@ def main():
             assert p["image"].startswith(
                 "https://raw.githubusercontent.com/"
                 "TrueNorth-Interactive/scanvault-data/main/"), p
-    # No-op path (Nov 4 fix): on a no-change day the lineup is
-    # byte-identical to the committed file, so git add stages nothing
-    # and the old staged-assertion failed the run. Compare first and
-    # exit cleanly instead -- a no-change day is a success, not a
-    # failure, and must not produce a failure report.
+    # No-op path (Nov 4 fix): on a no-change day the lineup is identical
+    # to the committed file, so git add stages nothing and the old
+    # staged-assertion failed the run. Compare the LINEUP (not the
+    # `updated` stamp, which is informational) and exit cleanly -- a
+    # no-change day is a success, not a failure, and must not produce
+    # a failure report or a date-only commit.
     new_text = json.dumps(out, indent=2, ensure_ascii=False) + "\n"
     if os.path.exists(OUT):
-        with open(OUT) as f:
-            if f.read() == new_text:
+        try:
+            with open(OUT) as f:
+                existing = json.load(f)
+            existing_lineup = {g: existing.get(g) for g in GENRES}
+            if existing_lineup == lineup:
                 print("\nNO CHANGE: lineup identical to the published "
                       "file; nothing to commit.")
                 return 0
+        except (json.JSONDecodeError, OSError):
+            pass
     with open(OUT, "w") as f:
         f.write(new_text)
     git("add", "hot-products.json")
