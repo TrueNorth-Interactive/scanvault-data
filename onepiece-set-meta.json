@@ -1,0 +1,572 @@
+{
+ "OP-01": {
+  "name": "Romance Dawn",
+  "releaseDate": "2022-12-02",
+  "total": 121,
+  "variants": 154,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP01-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP01-001",
+  "rep_name": "Roronoa Zoro (001)"
+ },
+ "OP-02": {
+  "name": "Paramount War",
+  "releaseDate": "2023-03-01",
+  "total": 121,
+  "variants": 154,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP02-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP02-001",
+  "rep_name": "Edward.Newgate (001)"
+ },
+ "OP-03": {
+  "name": "Pillars of Strength",
+  "releaseDate": "2023-06-01",
+  "total": 127,
+  "variants": 154,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP03-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP03-001",
+  "rep_name": "Portgas.D.Ace"
+ },
+ "OP-04": {
+  "name": "Kingdoms of Intrigue",
+  "releaseDate": "2023-09-01",
+  "total": 130,
+  "variants": 155,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP03-070_p1.jpg",
+  "iconKind": "card",
+  "rep_code": "OP03-070",
+  "rep_name": "Monkey.D.Luffy (Dash Pack)"
+ },
+ "OP-05": {
+  "name": "Awakening of the New Era",
+  "releaseDate": "2023-12-01",
+  "total": 125,
+  "variants": 154,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP05-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP05-001",
+  "rep_name": "Sabo (001)"
+ },
+ "OP-06": {
+  "name": "Wings of the Captain",
+  "releaseDate": "2024-03-01",
+  "total": 126,
+  "variants": 151,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP06-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP06-001",
+  "rep_name": "Uta"
+ },
+ "OP-07": {
+  "name": "500 Years in the Future",
+  "releaseDate": "2024-06-01",
+  "total": 126,
+  "variants": 151,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP07-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP07-001",
+  "rep_name": "Monkey.D.Dragon (001)"
+ },
+ "EB-01": {
+  "name": "Extra Booster: Memorial Collection",
+  "releaseDate": "2024-05-03",
+  "total": 61,
+  "variants": 80,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/EB01-001.jpg",
+  "iconKind": "card",
+  "rep_code": "EB01-001",
+  "rep_name": "Kouzuki Oden"
+ },
+ "OP-08": {
+  "name": "Two Legends",
+  "releaseDate": "2024-09-01",
+  "total": 126,
+  "variants": 151,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP08-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP08-001",
+  "rep_name": "Tony Tony.Chopper (001)"
+ },
+ "OP-09": {
+  "name": "Emperors in the New World",
+  "releaseDate": "2024-12-01",
+  "total": 127,
+  "variants": 159,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP09-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP09-001",
+  "rep_name": "Shanks (001)"
+ },
+ "OP-10": {
+  "name": "Royal Blood",
+  "releaseDate": "2025-03-01",
+  "total": 126,
+  "variants": 151,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP10-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP10-001",
+  "rep_name": "Smoker (001)"
+ },
+ "OP-11": {
+  "name": "A Fist of Divine Speed",
+  "releaseDate": "2025-06-01",
+  "total": 127,
+  "variants": 156,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP11-001.jpg",
+  "iconKind": "card",
+  "rep_code": "OP11-001",
+  "rep_name": "Koby (001)"
+ },
+ "EB-02": {
+  "name": "Extra Booster: Anime 25th Collection",
+  "releaseDate": "2025-05-09",
+  "total": 87,
+  "variants": 105,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/EB02-001.jpg",
+  "iconKind": "card",
+  "rep_code": "EB02-001",
+  "rep_name": "Karoo"
+ },
+ "OP-12": {
+  "name": "Legacy of the Master",
+  "releaseDate": "2025-09-01",
+  "total": 127,
+  "variants": 155,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP10-063_p3.jpg",
+  "iconKind": "card",
+  "rep_code": "OP10-063",
+  "rep_name": "Vinsmoke Sanji (TR)"
+ },
+ "PRB-01": {
+  "name": "Premium Booster - The Best",
+  "releaseDate": "2024-11-01",
+  "total": 110,
+  "variants": 317,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/PRB01-001.jpg",
+  "iconKind": "card",
+  "rep_code": "PRB01-001",
+  "rep_name": "Sanji (PRB01-001)"
+ },
+ "PRB-02": {
+  "name": "Premium Booster - The Best - Vol. 2",
+  "releaseDate": "2025-10-03",
+  "total": 173,
+  "variants": 314,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/PRB02-001.jpg",
+  "iconKind": "card",
+  "rep_code": "PRB02-001",
+  "rep_name": "Koby"
+ },
+ "OP-13": {
+  "name": "Carrying On His Will",
+  "releaseDate": "2025-12-01",
+  "total": 129,
+  "variants": 174,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP13-001_8pgvmZO.jpg",
+  "iconKind": "card",
+  "rep_code": "OP13-001",
+  "rep_name": "Monkey.D.Luffy (001)"
+ },
+ "OP14-EB04": {
+  "name": "The Azure Sea's Seven",
+  "releaseDate": "2026-01-16",
+  "total": 160,
+  "variants": 200,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP14-001_rxvzQZQ.jpg",
+  "iconKind": "card",
+  "rep_code": "OP14-001",
+  "rep_name": "Trafalgar Law - OP14-001"
+ },
+ "EB-03": {
+  "name": "Extra Booster: One Piece Heroines Edition",
+  "releaseDate": "2026-02-20",
+  "total": 66,
+  "variants": 94,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/EB03-001_0dBLyMa.jpg",
+  "iconKind": "card",
+  "rep_code": "EB03-001",
+  "rep_name": "Nefeltari Vivi (001)"
+ },
+ "OP15-EB04": {
+  "name": "Adventure on Kami's Island",
+  "releaseDate": "2026-04-03",
+  "total": 158,
+  "variants": 201,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP15-001_YhftEiD.jpg",
+  "iconKind": "card",
+  "rep_code": "OP15-001",
+  "rep_name": "Krieg (OP15-001)"
+ },
+ "OP-16": {
+  "name": "The Time of Battle",
+  "releaseDate": "2026-06-12",
+  "total": 125,
+  "variants": 155,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP16-001_xBcGSbE.jpg",
+  "iconKind": "card",
+  "rep_code": "OP16-001",
+  "rep_name": "Portgas.D.Ace (001)"
+ },
+ "OP-17": {
+  "name": "The World's Strongest Warriors",
+  "releaseDate": "",
+  "total": 130,
+  "variants": 169,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/OP17-001_95Y4V0x.jpg",
+  "iconKind": "card",
+  "rep_code": "OP17-001",
+  "rep_name": "Edward.Newgate (001)"
+ },
+ "ST-01": {
+  "name": "Starter Deck 1: Straw Hat Crew",
+  "releaseDate": "2022-12-02",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST01-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST01-001",
+  "rep_name": "Monkey.D.Luffy (001)"
+ },
+ "ST-02": {
+  "name": "Starter Deck 2: Worst Generation",
+  "releaseDate": "2022-12-02",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST02-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST02-001",
+  "rep_name": "Eustass\"Captain\"Kid (001)"
+ },
+ "ST-03": {
+  "name": "Starter Deck 3: The Seven Warlords of The Sea",
+  "releaseDate": "2022-12-02",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST03-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST03-001",
+  "rep_name": "Crocodile (001)"
+ },
+ "ST-04": {
+  "name": "Starter Deck 4: Animal Kingdom Pirates",
+  "releaseDate": "2022-12-02",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST04-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST04-001",
+  "rep_name": "Kaido (001)"
+ },
+ "ST-05": {
+  "name": "Starter Deck 5: Film Edition",
+  "releaseDate": "2023-06-01",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST05-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST05-001",
+  "rep_name": "Shanks"
+ },
+ "ST-06": {
+  "name": "Starter Deck 6: Absolute Justice",
+  "releaseDate": "2023-06-01",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST06-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST06-001",
+  "rep_name": "Sakazuki"
+ },
+ "ST-07": {
+  "name": "Starter Deck 7: Big Mom Pirates",
+  "releaseDate": "2023-09-01",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST07-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST07-001",
+  "rep_name": "Charlotte Linlin"
+ },
+ "ST-08": {
+  "name": "Starter Deck 8: Monkey.D.Luffy",
+  "releaseDate": "2023-09-01",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST08-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST08-001",
+  "rep_name": "Monkey.D.Luffy (001)"
+ },
+ "ST-09": {
+  "name": "Starter Deck 9: Yamato",
+  "releaseDate": "2023-09-01",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST09-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST09-001",
+  "rep_name": "Yamato (001)"
+ },
+ "ST-10": {
+  "name": "Ultra Deck: The Three Captains",
+  "releaseDate": "2023-12-01",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST10-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST10-001",
+  "rep_name": "Trafalgar Law (001)"
+ },
+ "ST-11": {
+  "name": "Starter Deck 11: Uta",
+  "releaseDate": "2024-03-01",
+  "total": 5,
+  "variants": 5,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST11-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST11-001",
+  "rep_name": "Uta (001)"
+ },
+ "ST-12": {
+  "name": "Starter Deck 12: Zoro and Sanji",
+  "releaseDate": "2024-03-01",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST12-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST12-001",
+  "rep_name": "Roronoa Zoro & Sanji"
+ },
+ "ST-13": {
+  "name": "Ultra Deck: The Three Brothers",
+  "releaseDate": "2024-06-01",
+  "total": 19,
+  "variants": 35,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST13-001_wV6zdZw.jpg",
+  "iconKind": "card",
+  "rep_code": "ST13-001",
+  "rep_name": "Sabo (001)"
+ },
+ "ST-14": {
+  "name": "Starter Deck 14: 3D2Y",
+  "releaseDate": "2024-09-01",
+  "total": 17,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST14-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST14-001",
+  "rep_name": "Monkey.D.Luffy (001)"
+ },
+ "ST-15": {
+  "name": "Starter Deck 15: RED Edward.Newgate",
+  "releaseDate": "2024-10-25",
+  "total": 13,
+  "variants": 13,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST15-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST15-001",
+  "rep_name": "Atmos"
+ },
+ "ST-16": {
+  "name": "Starter Deck 16: GREEN Uta",
+  "releaseDate": "2024-10-25",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST16-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST16-001",
+  "rep_name": "Uta (ST16-001)"
+ },
+ "ST-17": {
+  "name": "Starter Deck 17: BLUE Donquixote Doflamingo",
+  "releaseDate": "2024-10-25",
+  "total": 10,
+  "variants": 10,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST17-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST17-001",
+  "rep_name": "Crocodile"
+ },
+ "ST-18": {
+  "name": "Starter Deck 18: PURPLE Monkey.D.Luffy",
+  "releaseDate": "2024-10-25",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST18-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST18-001",
+  "rep_name": "Uso-Hachi (ST18-001)"
+ },
+ "ST-19": {
+  "name": "Starter Deck 19: BLACK Smoker",
+  "releaseDate": "2024-10-25",
+  "total": 14,
+  "variants": 14,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST19-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST19-001",
+  "rep_name": "Smoker (ST19-001)"
+ },
+ "ST-20": {
+  "name": "Starter Deck 20: YELLOW Charlotte Katakuri",
+  "releaseDate": "2024-10-25",
+  "total": 11,
+  "variants": 11,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST20-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST20-001",
+  "rep_name": "Charlotte Katakuri (ST20-001)"
+ },
+ "ST-21": {
+  "name": "Starter Deck EX: Gear 5",
+  "releaseDate": "2025-03-17",
+  "total": 17,
+  "variants": 32,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST21-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST21-001",
+  "rep_name": "Monkey.D.Luffy (001)"
+ },
+ "ST-23": {
+  "name": "Starter Deck 23: RED Shanks",
+  "releaseDate": "2025-06-06",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST23-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST23-001",
+  "rep_name": "Uta"
+ },
+ "ST-24": {
+  "name": "Starter Deck 24: GREEN Jewelry Bonney",
+  "releaseDate": "2025-06-06",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST24-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST24-001",
+  "rep_name": "Capone\"Gang\"Bege"
+ },
+ "ST-25": {
+  "name": "Starter Deck 25: BLUE Buggy",
+  "releaseDate": "2025-06-06",
+  "total": 14,
+  "variants": 17,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST25-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST25-001",
+  "rep_name": "Alvida"
+ },
+ "ST-26": {
+  "name": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy",
+  "releaseDate": "2025-06-06",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST14-010_Ge3CNVB.jpg",
+  "iconKind": "card",
+  "rep_code": "ST14-010",
+  "rep_name": "Brook (Reprint)"
+ },
+ "ST-27": {
+  "name": "Starter Deck 27: BLACK Marshall.D.Teach",
+  "releaseDate": "2025-06-06",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST27-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST27-001",
+  "rep_name": "Avalo Pizarro"
+ },
+ "ST-28": {
+  "name": "Starter Deck 28: GREEN/YELLOW Yamato",
+  "releaseDate": "2025-06-06",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST28-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST28-001",
+  "rep_name": "Ashura Doji"
+ },
+ "ST-22": {
+  "name": "Starter Deck 22: Ace & Newgate",
+  "releaseDate": "2025-09-05",
+  "total": 17,
+  "variants": 31,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST22-001_asHW7pp.jpg",
+  "iconKind": "card",
+  "rep_code": "ST22-001",
+  "rep_name": "Ace & Newgate"
+ },
+ "ST-30": {
+  "name": "Starter Deck EX: Luffy & Ace",
+  "releaseDate": "2026-06-19",
+  "total": 17,
+  "variants": 34,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST30-001_LM5IDx5.jpg",
+  "iconKind": "card",
+  "rep_code": "ST30-001",
+  "rep_name": "Luffy & Ace"
+ },
+ "ST-31": {
+  "name": "Starter Deck 31: RED Monkey.D.Luffy",
+  "releaseDate": "2026-07-11",
+  "total": 14,
+  "variants": 14,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST31-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST31-001",
+  "rep_name": "Sanji"
+ },
+ "ST-32": {
+  "name": "Starter Deck 32: GREEN Roronoa Zoro",
+  "releaseDate": "2026-07-11",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST32-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST32-001",
+  "rep_name": "Kin'emon"
+ },
+ "ST-33": {
+  "name": "Starter Deck 33: BLUE Kuzan",
+  "releaseDate": "2026-07-11",
+  "total": 14,
+  "variants": 14,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST33-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST33-001",
+  "rep_name": "Koby"
+ },
+ "ST-34": {
+  "name": "Starter Deck 34: PURPLE Charlotte Katakuri",
+  "releaseDate": "2026-07-11",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST34-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST34-001",
+  "rep_name": "Charlotte Katakuri (ST34-001)"
+ },
+ "ST-35": {
+  "name": "Starter Deck 35: RED/BLACK Sabo",
+  "releaseDate": "2026-07-11",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST35-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST35-001",
+  "rep_name": "Hack"
+ },
+ "ST-36": {
+  "name": "Starter Deck 36: YELLOW Eustass\"Captain\"Kid",
+  "releaseDate": "2026-07-11",
+  "total": 15,
+  "variants": 15,
+  "icon": "https://www.optcgapi.com/media/static/Card_Images/ST36-001.jpg",
+  "iconKind": "card",
+  "rep_code": "ST36-001",
+  "rep_name": "Cavendish"
+ }
+}
