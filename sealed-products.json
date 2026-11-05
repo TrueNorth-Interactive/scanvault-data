@@ -8,7 +8,8 @@
     "set": "Scarlet & Violet",
     "setId": "sv01",
     "type": "etb",
-    "upc": "820650853418"
+    "upc": "820650853418",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv01-koraidon-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -19,7 +20,8 @@
     "set": "Scarlet & Violet",
     "setId": "sv01",
     "type": "etb",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv01-miraidon-etb.png"
   },
   {
     "genre": "pokemon",
@@ -30,7 +32,8 @@
     "set": "Paldea Evolved",
     "setId": "sv02",
     "type": "etb",
-    "upc": "820650853661"
+    "upc": "820650853661",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv02-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -75,7 +78,8 @@
     "set": "Paradox Rift",
     "setId": "sv04",
     "type": "etb",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv04-ironvaliant-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -86,7 +90,8 @@
     "set": "Paldean Fates",
     "setId": "sv45",
     "type": "etb",
-    "upc": "820650856181"
+    "upc": "820650856181",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv45-paldeanfates-etb.webp"
   },
   {
     "genre": "pokemon",
@@ -97,7 +102,8 @@
     "set": "Temporal Forces",
     "setId": "sv05",
     "type": "etb",
-    "upc": "820650856570"
+    "upc": "820650856570",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv05-walkingwake-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -108,7 +114,8 @@
     "set": "Temporal Forces",
     "setId": "sv05",
     "type": "etb",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv05-ironleaves-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -119,7 +126,8 @@
     "set": "Twilight Masquerade",
     "setId": "sv06",
     "type": "etb",
-    "upc": "820650857980"
+    "upc": "820650857980",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv06-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -130,7 +138,8 @@
     "set": "Shrouded Fable",
     "setId": "sv64",
     "type": "etb",
-    "upc": "820650858536"
+    "upc": "820650858536",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv64-shroudedfable-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -141,7 +150,8 @@
     "set": "Stellar Crown",
     "setId": "sv07",
     "type": "etb",
-    "upc": "820650859229"
+    "upc": "820650859229",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv07-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -152,7 +162,8 @@
     "set": "Surging Sparks",
     "setId": "sv08",
     "type": "etb",
-    "upc": "820650859526"
+    "upc": "820650859526",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv08-surgingsparks-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -163,7 +174,8 @@
     "set": "Prismatic Evolutions",
     "setId": "sv08pt5",
     "type": "etb",
-    "upc": "196214105133"
+    "upc": "196214105133",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv08pt5-prismatic-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -185,7 +197,8 @@
     "set": "Destined Rivals",
     "setId": "sv10",
     "type": "etb",
-    "upc": "196214111523"
+    "upc": "196214111523",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv10-destinedrivals-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -196,7 +209,8 @@
     "set": "Black Bolt",
     "setId": "sv11",
     "type": "etb",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv11-blackbolt-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -207,7 +221,8 @@
     "set": "White Flare",
     "setId": "sv11",
     "type": "etb",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv11-whiteflare-etb.png"
   },
   {
     "id": "swsh01-zacian-etb",
@@ -218,7 +233,8 @@
     "releaseDate": "2020-02-07",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh01-zacian-etb.png"
   },
   {
     "id": "swsh01-zamazenta-etb",
@@ -229,7 +245,8 @@
     "releaseDate": "2020-02-07",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh01-zamazenta-etb.jpg"
   },
   {
     "id": "swsh02-etb",
@@ -240,7 +257,8 @@
     "releaseDate": "2020-05-01",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh02-etb.jpg"
   },
   {
     "id": "swsh03-etb",
@@ -251,7 +269,8 @@
     "releaseDate": "2020-08-14",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh03-etb.jpg"
   },
   {
     "id": "swsh35-championspath-etb",
@@ -262,7 +281,8 @@
     "releaseDate": "2020-09-25",
     "msrpUSD": 49.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh35-championspath-etb.jpg"
   },
   {
     "id": "swsh04-etb",
@@ -273,7 +293,8 @@
     "releaseDate": "2020-11-13",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh04-etb.jpg"
   },
   {
     "id": "swsh45-shiningfates-etb",
@@ -284,7 +305,8 @@
     "releaseDate": "2021-02-19",
     "msrpUSD": 49.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh45-shiningfates-etb.jpg"
   },
   {
     "id": "swsh05-singlestrike-etb",
@@ -295,7 +317,8 @@
     "releaseDate": "2021-03-19",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh05-singlestrike-etb.jpg"
   },
   {
     "id": "swsh05-rapidstrike-etb",
@@ -306,7 +329,8 @@
     "releaseDate": "2021-03-19",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh05-rapidstrike-etb.jpg"
   },
   {
     "id": "swsh06-icerider-etb",
@@ -317,7 +341,8 @@
     "releaseDate": "2021-06-18",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh06-icerider-etb.png"
   },
   {
     "id": "swsh06-shadowrider-etb",
@@ -328,7 +353,8 @@
     "releaseDate": "2021-06-18",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh06-shadowrider-etb.jpg"
   },
   {
     "id": "swsh07-espeon-etb",
@@ -339,7 +365,8 @@
     "releaseDate": "2021-08-27",
     "msrpUSD": 39.99,
     "upc": "820650808944",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh07-espeon-etb.jpg"
   },
   {
     "id": "swsh07-umbreon-etb",
@@ -350,7 +377,8 @@
     "releaseDate": "2021-08-27",
     "msrpUSD": 39.99,
     "upc": "820650808944",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh07-umbreon-etb.jpg"
   },
   {
     "id": "swsh25-celebrations-etb",
@@ -361,7 +389,8 @@
     "releaseDate": "2021-10-08",
     "msrpUSD": 49.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh25-celebrations-etb.jpg"
   },
   {
     "id": "swsh08-etb",
@@ -372,7 +401,8 @@
     "releaseDate": "2021-11-12",
     "msrpUSD": 39.99,
     "upc": "820650809330",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh08-etb.jpg"
   },
   {
     "id": "swsh09-etb",
@@ -405,7 +435,8 @@
     "releaseDate": "2022-07-01",
     "msrpUSD": 49.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh105-pogo-etb.jpg"
   },
   {
     "id": "swsh11-etb",
@@ -438,7 +469,8 @@
     "releaseDate": "2023-01-20",
     "msrpUSD": 49.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh125-crownzenith-etb.jpg"
   },
   {
     "id": "sm01-solgaleo-etb",
@@ -959,7 +991,8 @@
     "msrpUSD": 69.99,
     "upc": "",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv03-pc-etb.jpg"
   },
   {
     "id": "sv35-pc-151-etb",
@@ -1068,7 +1101,8 @@
     "msrpUSD": 69.99,
     "upc": "",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv09-pc-etb.webp"
   },
   {
     "id": "sv10-pc-etb",
@@ -1187,7 +1221,8 @@
     "set": "2014 Mega-Tin: Brotherhood of the Fire Fist - Tiger King",
     "setId": "2014-mega-tin-brotherhood-of-the-fire-fist-tiger-king",
     "type": "tin",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2014-tiger-king.jpg"
   },
   {
     "genre": "yugioh",
@@ -1198,7 +1233,8 @@
     "set": "2014 Mega-Tin: Bujintei Susanowo",
     "setId": "2014-mega-tin-bujintei-susanowo",
     "type": "tin",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2014-bujintei-susanowo.jpg"
   },
   {
     "genre": "yugioh",
@@ -1209,7 +1245,8 @@
     "set": "2015 Mega-Tin: Odd-Eyes Pendulum Dragon",
     "setId": "2015-mega-tin-odd-eyes-pendulum-dragon",
     "type": "tin",
-    "upc": "634746368966"
+    "upc": "634746368966",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2015-odd-eyes-pendulum-dragon.jpg"
   },
   {
     "genre": "yugioh",
@@ -1220,7 +1257,8 @@
     "set": "2015 Mega-Tin: Dark Rebellion Xyz Dragon",
     "setId": "2015-mega-tin-dark-rebellion-xyz-dragon",
     "type": "tin",
-    "upc": "083717824282"
+    "upc": "083717824282",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2015-dark-rebellion-xyz-dragon.jpg"
   },
   {
     "genre": "yugioh",
@@ -1231,7 +1269,8 @@
     "set": "2016 Mega-Tin: Yugi & Slifer the Sky Dragon",
     "setId": "2016-mega-tin-yugi-slifer-the-sky-dragon",
     "type": "tin",
-    "upc": "083717828600"
+    "upc": "083717828600",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2016-yugi-slifer.jpg"
   },
   {
     "genre": "yugioh",
@@ -1242,7 +1281,8 @@
     "set": "2016 Mega-Tin: Kaiba & Obelisk the Tormentor",
     "setId": "2016-mega-tin-kaiba-obelisk-the-tormentor",
     "type": "tin",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2016-kaiba-obelisk.jpg"
   },
   {
     "genre": "yugioh",
@@ -1253,7 +1293,8 @@
     "set": "2017 Mega-Tin: Yugi Muto & Yami Yugi",
     "setId": "2017-mega-tin-yugi-muto-yami-yugi",
     "type": "tin",
-    "upc": "083717833932"
+    "upc": "083717833932",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2017-yugi-muto-yami-yugi.jpg"
   },
   {
     "genre": "yugioh",
@@ -1264,7 +1305,8 @@
     "set": "2017 Mega-Tin: Seto Kaiba",
     "setId": "2017-mega-tin-seto-kaiba",
     "type": "tin",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2017-seto-kaiba.jpg"
   },
   {
     "genre": "yugioh",
@@ -1275,7 +1317,8 @@
     "set": "2018 Mega-Tin: Jaden Yuki",
     "setId": "2018-mega-tin-jaden-yuki",
     "type": "tin",
-    "upc": "083717838968"
+    "upc": "083717838968",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2018-jaden-yuki.jpg"
   },
   {
     "genre": "yugioh",
@@ -1286,7 +1329,8 @@
     "set": "2018 Mega-Tin: Yusei Fudo",
     "setId": "2018-mega-tin-yusei-fudo",
     "type": "tin",
-    "upc": "083717838975"
+    "upc": "083717838975",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2018-yusei-fudo.jpg"
   },
   {
     "genre": "yugioh",
@@ -1297,7 +1341,8 @@
     "set": "2019 Gold Sarcophagus Tin",
     "setId": "2019-gold-sarcophagus-tin",
     "type": "tin",
-    "upc": "083717844235"
+    "upc": "083717844235",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2019-gold-sarcophagus.png"
   },
   {
     "genre": "yugioh",
@@ -1308,7 +1353,8 @@
     "set": "2020 Tin of Lost Memories",
     "setId": "2020-tin-of-lost-memories",
     "type": "tin",
-    "upc": "083717849148"
+    "upc": "083717849148",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2020-tin-of-lost-memories.png"
   },
   {
     "genre": "yugioh",
@@ -1319,7 +1365,8 @@
     "set": "2021 Tin of Ancient Battles",
     "setId": "2021-tin-of-ancient-battles",
     "type": "tin",
-    "upc": "083717854197"
+    "upc": "083717854197",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2021-tin-of-ancient-battles.png"
   },
   {
     "genre": "yugioh",
@@ -1330,7 +1377,8 @@
     "set": "2022 Tin of the Pharaoh's Gods",
     "setId": "2022-tin-of-the-pharaohs-gods",
     "type": "tin",
-    "upc": "083717857228"
+    "upc": "083717857228",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2022-tin-of-the-pharaohs-gods.png"
   },
   {
     "genre": "yugioh",
@@ -1341,7 +1389,8 @@
     "set": "25th Anniversary Tin: Dueling Heroes",
     "setId": "25th-anniversary-tin-dueling-heroes",
     "type": "tin",
-    "upc": "083717861126"
+    "upc": "083717861126",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2023-dueling-heroes.jpg"
   },
   {
     "genre": "yugioh",
@@ -1352,7 +1401,8 @@
     "set": "25th Anniversary Tin: Dueling Mirrors",
     "setId": "25th-anniversary-tin-dueling-mirrors",
     "type": "tin",
-    "upc": "083717865063"
+    "upc": "083717865063",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2024-dueling-mirrors.jpg"
   },
   {
     "genre": "yugioh",
@@ -1375,7 +1425,8 @@
     "set": "Romance Dawn",
     "setId": "op01",
     "type": "booster-box",
-    "upc": "0811039038205"
+    "upc": "0811039038205",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op01-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1386,7 +1437,8 @@
     "set": "Paramount War",
     "setId": "op02",
     "type": "booster-box",
-    "upc": "811039039080"
+    "upc": "811039039080",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op02-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1397,7 +1449,8 @@
     "set": "Pillars of Strength",
     "setId": "op03",
     "type": "booster-box",
-    "upc": "810059780514"
+    "upc": "810059780514",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op03-box.png"
   },
   {
     "genre": "onepiece",
@@ -1408,7 +1461,8 @@
     "set": "Kingdoms of Intrigue",
     "setId": "op04",
     "type": "booster-box",
-    "upc": "810059781993"
+    "upc": "810059781993",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op04-box.png"
   },
   {
     "genre": "onepiece",
@@ -1419,7 +1473,8 @@
     "set": "Awakening of the New Era",
     "setId": "op05",
     "type": "booster-box",
-    "upc": "810059783546"
+    "upc": "810059783546",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op05-box.png"
   },
   {
     "genre": "onepiece",
@@ -1430,7 +1485,8 @@
     "set": "Wings of the Captain",
     "setId": "op06",
     "type": "booster-box",
-    "upc": "810059781139"
+    "upc": "810059781139",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op06-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1441,7 +1497,8 @@
     "set": "500 Years in the Future",
     "setId": "op07",
     "type": "booster-box",
-    "upc": "810059785076"
+    "upc": "810059785076",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op07-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1452,7 +1509,8 @@
     "set": "Two Legends",
     "setId": "op08",
     "type": "booster-box",
-    "upc": "810059787049"
+    "upc": "810059787049",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op08-box.png"
   },
   {
     "genre": "onepiece",
@@ -1463,7 +1521,8 @@
     "set": "Emperors in the New World",
     "setId": "op09",
     "type": "booster-box",
-    "upc": "810059787315"
+    "upc": "810059787315",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op09-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1474,7 +1533,8 @@
     "set": "Royal Blood",
     "setId": "op10",
     "type": "booster-box",
-    "upc": "810059789258"
+    "upc": "810059789258",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op10-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1485,7 +1545,8 @@
     "set": "A Fist of Divine Speed",
     "setId": "op11",
     "type": "booster-box",
-    "upc": "810059789463"
+    "upc": "810059789463",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op11-box.png"
   },
   {
     "genre": "onepiece",
@@ -1496,7 +1557,8 @@
     "set": "Legacy of the Master",
     "setId": "op12",
     "type": "booster-box",
-    "upc": "810158830943"
+    "upc": "810158830943",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op12-box.png"
   },
   {
     "genre": "onepiece",
@@ -1507,7 +1569,8 @@
     "set": "Carrying On His Will",
     "setId": "op13",
     "type": "booster-box",
-    "upc": "810158833524"
+    "upc": "810158833524",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op13-box.jpg"
   },
   {
     "genre": "onepiece",
@@ -1518,7 +1581,8 @@
     "set": "The Azure Sea's Seven",
     "setId": "op14",
     "type": "booster-box",
-    "upc": "810158836396"
+    "upc": "810158836396",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op14-box.png"
   },
   {
     "genre": "onepiece",
@@ -1529,7 +1593,8 @@
     "set": "Adventure on Kami's Island",
     "setId": "op15",
     "type": "booster-box",
-    "upc": "810158838444"
+    "upc": "810158838444",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op15-box.png"
   },
   {
     "genre": "onepiece",
@@ -1540,7 +1605,8 @@
     "set": "The Time of Battle",
     "setId": "op16",
     "type": "booster-box",
-    "upc": "810199500300"
+    "upc": "810199500300",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op16-box.png"
   },
   {
     "genre": "onepiece",
@@ -1551,7 +1617,8 @@
     "set": "The World's Strongest Warriors",
     "setId": "op17",
     "type": "booster-box",
-    "upc": "810199501970"
+    "upc": "810199501970",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op17-box.png"
   },
   {
     "genre": "onepiece",
@@ -1562,7 +1629,8 @@
     "set": "The Best",
     "setId": "prb01",
     "type": "booster-box",
-    "upc": "810059787285"
+    "upc": "810059787285",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-prb01-box.png"
   },
   {
     "genre": "onepiece",
@@ -1573,7 +1641,8 @@
     "set": "The Best Vol. 2",
     "setId": "prb02",
     "type": "booster-box",
-    "upc": "810158833463"
+    "upc": "810158833463",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-prb02-box.jpg"
   },
   {
     "genre": "mtg",
@@ -1584,7 +1653,8 @@
     "set": "Khans of Tarkir",
     "setId": "ktk",
     "type": "bundle",
-    "upc": "653569945048"
+    "upc": "653569945048",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-ktk-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1595,7 +1665,8 @@
     "set": "Fate Reforged",
     "setId": "frf",
     "type": "bundle",
-    "upc": "653569947608"
+    "upc": "653569947608",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-frf-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1606,7 +1677,8 @@
     "set": "Dragons of Tarkir",
     "setId": "dtk",
     "type": "bundle",
-    "upc": "630509286072"
+    "upc": "630509286072",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dtk-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1617,7 +1689,8 @@
     "set": "Magic Origins",
     "setId": "ori",
     "type": "bundle",
-    "upc": "630509298853"
+    "upc": "630509298853",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-ori-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1628,7 +1701,8 @@
     "set": "Battle for Zendikar",
     "setId": "bfz",
     "type": "bundle",
-    "upc": "630509304806"
+    "upc": "630509304806",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-bfz-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1639,7 +1713,8 @@
     "set": "Oath of the Gatewatch",
     "setId": "ogw",
     "type": "bundle",
-    "upc": "630509312719"
+    "upc": "630509312719",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-ogw-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1650,7 +1725,8 @@
     "set": "Shadows over Innistrad",
     "setId": "soi",
     "type": "bundle",
-    "upc": "630509388868"
+    "upc": "630509388868",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-soi-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1661,7 +1737,8 @@
     "set": "Eldritch Moon",
     "setId": "emn",
     "type": "bundle",
-    "upc": "630509399420"
+    "upc": "630509399420",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-emn-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1672,7 +1749,8 @@
     "set": "Kaladesh",
     "setId": "kld",
     "type": "bundle",
-    "upc": "630509408795"
+    "upc": "630509408795",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-kld-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1683,7 +1761,8 @@
     "set": "Aether Revolt",
     "setId": "aer",
     "type": "bundle",
-    "upc": "630509416042"
+    "upc": "630509416042",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-aer-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1694,7 +1773,8 @@
     "set": "Amonkhet",
     "setId": "akh",
     "type": "bundle",
-    "upc": "630509497010"
+    "upc": "630509497010",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-akh-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1705,7 +1785,8 @@
     "set": "Hour of Devastation",
     "setId": "hou",
     "type": "bundle",
-    "upc": "630509515295"
+    "upc": "630509515295",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-hou-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1716,7 +1797,8 @@
     "set": "Ixalan",
     "setId": "xln",
     "type": "bundle",
-    "upc": "630509545780"
+    "upc": "630509545780",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-xln-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1727,7 +1809,8 @@
     "set": "Rivals of Ixalan",
     "setId": "rix",
     "type": "bundle",
-    "upc": "630509550982"
+    "upc": "630509550982",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-rix-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1738,7 +1821,8 @@
     "set": "Dominaria",
     "setId": "dom",
     "type": "bundle",
-    "upc": "630509601424"
+    "upc": "630509601424",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dom-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1749,7 +1833,8 @@
     "set": "Core Set 2019",
     "setId": "m19",
     "type": "bundle",
-    "upc": "630509661220"
+    "upc": "630509661220",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-m19-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1760,7 +1845,8 @@
     "set": "Guilds of Ravnica",
     "setId": "grn",
     "type": "bundle",
-    "upc": "630509686667"
+    "upc": "630509686667",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-grn-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1771,7 +1857,8 @@
     "set": "Ravnica Allegiance",
     "setId": "rna",
     "type": "bundle",
-    "upc": "630509688296"
+    "upc": "630509688296",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-rna-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1782,7 +1869,8 @@
     "set": "War of the Spark",
     "setId": "war",
     "type": "bundle",
-    "upc": "630509753369"
+    "upc": "630509753369",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-war-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1793,7 +1881,8 @@
     "set": "Core Set 2020",
     "setId": "m20",
     "type": "bundle",
-    "upc": "630509774517"
+    "upc": "630509774517",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-m20-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1804,7 +1893,8 @@
     "set": "Throne of Eldraine",
     "setId": "eld",
     "type": "bundle",
-    "upc": "630509786305"
+    "upc": "630509786305",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-eld-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1815,7 +1905,8 @@
     "set": "Throne of Eldraine",
     "setId": "eld",
     "type": "bundle",
-    "upc": "630509897247"
+    "upc": "630509897247",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-eld-gift.jpg"
   },
   {
     "genre": "mtg",
@@ -1826,7 +1917,8 @@
     "set": "Theros Beyond Death",
     "setId": "thb",
     "type": "bundle",
-    "upc": "630509792429"
+    "upc": "630509792429",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-thb-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1837,7 +1929,8 @@
     "set": "Ikoria: Lair of Behemoths",
     "setId": "iko",
     "type": "bundle",
-    "upc": "630509905034"
+    "upc": "630509905034",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-iko-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1848,7 +1941,8 @@
     "set": "Core Set 2021",
     "setId": "m21",
     "type": "bundle",
-    "upc": "630509912650"
+    "upc": "630509912650",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-m21-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1859,7 +1953,8 @@
     "set": "Zendikar Rising",
     "setId": "znr",
     "type": "bundle",
-    "upc": "630509921584"
+    "upc": "630509921584",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-znr-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1870,7 +1965,8 @@
     "set": "Zendikar Rising",
     "setId": "znr",
     "type": "bundle",
-    "upc": "630509919628"
+    "upc": "630509919628",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-znr-gift.webp"
   },
   {
     "genre": "mtg",
@@ -1881,7 +1977,8 @@
     "set": "Kaldheim",
     "setId": "khm",
     "type": "bundle",
-    "upc": "630509921287"
+    "upc": "630509921287",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-khm-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1892,7 +1989,8 @@
     "set": "Strixhaven: School of Mages",
     "setId": "stx",
     "type": "bundle",
-    "upc": "630509959129"
+    "upc": "630509959129",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-stx-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1903,7 +2001,8 @@
     "set": "Modern Horizons 2",
     "setId": "mh2",
     "type": "bundle",
-    "upc": "195166125787"
+    "upc": "195166125787",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mh2-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1914,7 +2013,8 @@
     "set": "Adventures in the Forgotten Realms",
     "setId": "afr",
     "type": "bundle",
-    "upc": "630509982615"
+    "upc": "630509982615",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-afr-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1925,7 +2025,8 @@
     "set": "Adventures in the Forgotten Realms",
     "setId": "afr",
     "type": "bundle",
-    "upc": "630509983285"
+    "upc": "630509983285",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-afr-gift.png"
   },
   {
     "genre": "mtg",
@@ -1936,7 +2037,8 @@
     "set": "Innistrad: Midnight Hunt",
     "setId": "mid",
     "type": "bundle",
-    "upc": "630509987085"
+    "upc": "630509987085",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mid-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1947,7 +2049,8 @@
     "set": "Innistrad: Crimson Vow",
     "setId": "vow",
     "type": "bundle",
-    "upc": "630509993864"
+    "upc": "630509993864",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-vow-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -1958,7 +2061,8 @@
     "set": "Innistrad: Crimson Vow",
     "setId": "vow",
     "type": "bundle",
-    "upc": "630509995172"
+    "upc": "630509995172",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-vow-gift.jpg"
   },
   {
     "genre": "mtg",
@@ -1969,7 +2073,8 @@
     "set": "Kamigawa: Neon Dynasty",
     "setId": "neo",
     "type": "bundle",
-    "upc": "195166103143"
+    "upc": "195166103143",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-neo-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1980,7 +2085,8 @@
     "set": "Streets of New Capenna",
     "setId": "snc",
     "type": "bundle",
-    "upc": "195166121062"
+    "upc": "195166121062",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-snc-bundle.png"
   },
   {
     "genre": "mtg",
@@ -1991,7 +2097,8 @@
     "set": "Commander Legends: Battle for Baldur's Gate",
     "setId": "clb",
     "type": "bundle",
-    "upc": "195166182001"
+    "upc": "195166182001",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-clb-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2002,7 +2109,8 @@
     "set": "Dominaria United",
     "setId": "dmu",
     "type": "bundle",
-    "upc": "195166127897"
+    "upc": "195166127897",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dmu-bundle.webp"
   },
   {
     "genre": "mtg",
@@ -2013,7 +2121,8 @@
     "set": "The Brothers' War",
     "setId": "bro",
     "type": "bundle",
-    "upc": "195166151267"
+    "upc": "195166151267",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-bro-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2024,7 +2133,8 @@
     "set": "The Brothers' War",
     "setId": "bro",
     "type": "bundle",
-    "upc": "195166151540"
+    "upc": "195166151540",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-bro-gift.png"
   },
   {
     "genre": "mtg",
@@ -2035,7 +2145,8 @@
     "set": "Phyrexia: All Will Be One",
     "setId": "one",
     "type": "bundle",
-    "upc": "195166185750"
+    "upc": "195166185750",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-one-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2046,7 +2157,8 @@
     "set": "Phyrexia: All Will Be One",
     "setId": "one",
     "type": "bundle",
-    "upc": "195166214467"
+    "upc": "195166214467",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-one-compleat.png"
   },
   {
     "genre": "mtg",
@@ -2057,7 +2169,8 @@
     "set": "March of the Machine",
     "setId": "mom",
     "type": "bundle",
-    "upc": "195166208473"
+    "upc": "195166208473",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mom-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2068,7 +2181,8 @@
     "set": "March of the Machine: The Aftermath",
     "setId": "mat",
     "type": "bundle",
-    "upc": "195166213873"
+    "upc": "195166213873",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mat-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2079,7 +2193,8 @@
     "set": "The Lord of the Rings: Tales of Middle-earth",
     "setId": "ltr",
     "type": "bundle",
-    "upc": "195166205175"
+    "upc": "195166205175",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-ltr-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2090,7 +2205,8 @@
     "set": "The Lord of the Rings: Tales of Middle-earth",
     "setId": "ltr",
     "type": "bundle",
-    "upc": "195166205311"
+    "upc": "195166205311",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-ltr-gift.png"
   },
   {
     "genre": "mtg",
@@ -2101,7 +2217,8 @@
     "set": "Wilds of Eldraine",
     "setId": "woe",
     "type": "bundle",
-    "upc": "195166232096"
+    "upc": "195166232096",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-woe-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2112,7 +2229,8 @@
     "set": "The Lost Caverns of Ixalan",
     "setId": "lci",
     "type": "bundle",
-    "upc": "195166230412"
+    "upc": "195166230412",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-lci-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2123,7 +2241,8 @@
     "set": "The Lost Caverns of Ixalan",
     "setId": "lci",
     "type": "bundle",
-    "upc": "195166230054"
+    "upc": "195166230054",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-lci-gift.png"
   },
   {
     "genre": "mtg",
@@ -2134,7 +2253,8 @@
     "set": "Murders at Karlov Manor",
     "setId": "mkm",
     "type": "bundle",
-    "upc": "195166245744"
+    "upc": "195166245744",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mkm-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2145,7 +2265,8 @@
     "set": "Outlaws of Thunder Junction",
     "setId": "otj",
     "type": "bundle",
-    "upc": "195166252506"
+    "upc": "195166252506",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-otj-bundle.webp"
   },
   {
     "genre": "mtg",
@@ -2156,7 +2277,8 @@
     "set": "Modern Horizons 3",
     "setId": "mh3",
     "type": "bundle",
-    "upc": "195166253718"
+    "upc": "195166253718",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mh3-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2167,7 +2289,8 @@
     "set": "Modern Horizons 3",
     "setId": "mh3",
     "type": "bundle",
-    "upc": "195166253732"
+    "upc": "195166253732",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-mh3-gift.jpg"
   },
   {
     "genre": "mtg",
@@ -2178,7 +2301,8 @@
     "set": "Assassin's Creed",
     "setId": "acr",
     "type": "bundle",
-    "upc": "195166261386"
+    "upc": "195166261386",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-acr-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2189,7 +2313,8 @@
     "set": "Bloomburrow",
     "setId": "blb",
     "type": "bundle",
-    "upc": "195166257204"
+    "upc": "195166257204",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-blb-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2200,7 +2325,8 @@
     "set": "Duskmourn: House of Horror",
     "setId": "dsk",
     "type": "bundle",
-    "upc": "195166258935"
+    "upc": "195166258935",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dsk-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2211,7 +2337,8 @@
     "set": "Duskmourn: House of Horror",
     "setId": "dsk",
     "type": "bundle",
-    "upc": "195166266923"
+    "upc": "195166266923",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dsk-nightmare.png"
   },
   {
     "genre": "mtg",
@@ -2222,7 +2349,8 @@
     "set": "Foundations",
     "setId": "fdn",
     "type": "bundle",
-    "upc": "195166262000"
+    "upc": "195166262000",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fdn-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2233,7 +2361,8 @@
     "set": "Aetherdrift",
     "setId": "dft",
     "type": "bundle",
-    "upc": "195166278834"
+    "upc": "195166278834",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dft-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2244,7 +2373,8 @@
     "set": "Aetherdrift",
     "setId": "dft",
     "type": "bundle",
-    "upc": "195166278858"
+    "upc": "195166278858",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-dft-finishline.jpg"
   },
   {
     "genre": "mtg",
@@ -2255,7 +2385,8 @@
     "set": "Tarkir: Dragonstorm",
     "setId": "tdm",
     "type": "bundle",
-    "upc": "195166281513"
+    "upc": "195166281513",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-tdm-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2266,7 +2397,8 @@
     "set": "Final Fantasy",
     "setId": "fin",
     "type": "bundle",
-    "upc": "195166271057"
+    "upc": "195166271057",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fin-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2277,7 +2409,8 @@
     "set": "Final Fantasy",
     "setId": "fin",
     "type": "bundle",
-    "upc": "195166271033"
+    "upc": "195166271033",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fin-gift.jpg"
   },
   {
     "genre": "mtg",
@@ -2288,7 +2421,8 @@
     "set": "Edge of Eternities",
     "setId": "eoe",
     "type": "bundle",
-    "upc": "195166286433"
+    "upc": "195166286433",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-eoe-bundle.webp"
   },
   {
     "genre": "mtg",
@@ -2299,7 +2433,8 @@
     "set": "Marvel's Spider-Man",
     "setId": "spm",
     "type": "bundle",
-    "upc": "195166290065"
+    "upc": "195166290065",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-spm-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2321,7 +2456,8 @@
     "set": "Avatar: The Last Airbender",
     "setId": "tla",
     "type": "bundle",
-    "upc": "195166290546"
+    "upc": "195166290546",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-tla-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2332,7 +2468,8 @@
     "set": "Avatar: The Last Airbender",
     "setId": "tla",
     "type": "bundle",
-    "upc": "195166290522"
+    "upc": "195166290522",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-tla-commanders.webp"
   },
   {
     "genre": "mtg",
@@ -2355,7 +2492,8 @@
     "set": "Lorwyn Eclipsed",
     "setId": "ecl",
     "type": "bundle",
-    "upc": "195166306292"
+    "upc": "195166306292",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-ecl-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2366,7 +2504,8 @@
     "set": "Teenage Mutant Ninja Turtles",
     "setId": "tmt",
     "type": "bundle",
-    "upc": "195166308357"
+    "upc": "195166308357",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-tmt-bundle.webp"
   },
   {
     "genre": "mtg",
@@ -2377,7 +2516,8 @@
     "set": "Teenage Mutant Ninja Turtles",
     "setId": "tmt",
     "type": "bundle",
-    "upc": "195166308371"
+    "upc": "195166308371",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-tmt-pizza.png"
   },
   {
     "genre": "mtg",
@@ -2388,7 +2528,8 @@
     "set": "Secrets of Strixhaven",
     "setId": "sos",
     "type": "bundle",
-    "upc": "195166318073"
+    "upc": "195166318073",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-sos-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2399,7 +2540,8 @@
     "set": "Secrets of Strixhaven",
     "setId": "sos",
     "type": "bundle",
-    "upc": "195166318097"
+    "upc": "195166318097",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-sos-codex.jpg"
   },
   {
     "genre": "mtg",
@@ -2410,7 +2552,8 @@
     "set": "Marvel Super Heroes",
     "setId": "msh",
     "type": "bundle",
-    "upc": "195166315386"
+    "upc": "195166315386",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-msh-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2432,7 +2575,8 @@
     "set": "The Hobbit",
     "setId": "hob",
     "type": "bundle",
-    "upc": "195166321981"
+    "upc": "195166321981",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-hob-bundle.webp"
   },
   {
     "genre": "mtg",
@@ -2443,7 +2587,8 @@
     "set": "The Hobbit",
     "setId": "hob",
     "type": "bundle",
-    "upc": "195166321974"
+    "upc": "195166321974",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-hob-gift.png"
   },
   {
     "genre": "mtg",
@@ -2454,7 +2599,8 @@
     "set": "Reality Fracture",
     "setId": "fra",
     "type": "bundle",
-    "upc": "195166337173"
+    "upc": "195166337173",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fra-bundle.jpg"
   },
   {
     "genre": "mtg",
@@ -2465,7 +2611,8 @@
     "set": "Reality Fracture",
     "setId": "fra",
     "type": "bundle",
-    "upc": "195166337210"
+    "upc": "195166337210",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fra-secretlair.jpg"
   },
   {
     "genre": "mtg",
@@ -2476,7 +2623,8 @@
     "set": "Star Trek",
     "setId": "trk",
     "type": "bundle",
-    "upc": "195166334356"
+    "upc": "195166334356",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-trk-bundle.png"
   },
   {
     "genre": "mtg",
@@ -2487,7 +2635,8 @@
     "set": "Star Trek",
     "setId": "trk",
     "type": "bundle",
-    "upc": "195166334318"
+    "upc": "195166334318",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-trk-beammeup.webp"
   },
   {
     "genre": "lorcana",
@@ -2510,7 +2659,8 @@
     "set": "Rise of the Floodborn",
     "setId": "ROF",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/rof-trove.jpg"
   },
   {
     "genre": "lorcana",
@@ -2521,7 +2671,8 @@
     "set": "Into the Inklands",
     "setId": "INK",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ink-trove.jpg"
   },
   {
     "genre": "lorcana",
@@ -2532,7 +2683,8 @@
     "set": "Ursula's Return",
     "setId": "URS",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/urs-trove.jpg"
   },
   {
     "genre": "lorcana",
@@ -2543,7 +2695,8 @@
     "set": "Shimmering Skies",
     "setId": "SSK",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ssk-trove.png"
   },
   {
     "genre": "lorcana",
@@ -2554,7 +2707,8 @@
     "set": "Azurite Sea",
     "setId": "AZS",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/azs-trove.jpg"
   },
   {
     "genre": "lorcana",
@@ -2565,7 +2719,8 @@
     "set": "Reign of Jafar",
     "setId": "ROJ",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/roj-trove.jpg"
   },
   {
     "genre": "lorcana",
@@ -2576,7 +2731,8 @@
     "set": "Whispers in the Well",
     "setId": "WHI",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/whi-trove.jpg"
   },
   {
     "genre": "lorcana",
@@ -2587,7 +2743,8 @@
     "set": "Whispers in the Well",
     "setId": "WHI",
     "type": "booster-box",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/whi-booster-box.jpg"
   },
   {
     "genre": "lorcana",
@@ -2598,7 +2755,8 @@
     "set": "The First Chapter",
     "setId": "TFC",
     "type": "gift-set",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/tfc-gift-set.jpg"
   },
   {
     "genre": "lorcana",
@@ -2609,7 +2767,8 @@
     "set": "Azurite Sea",
     "setId": "AZS",
     "type": "gift-set",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/azs-stitch-gift-set.jpg"
   },
   {
     "genre": "lorcana",
@@ -2620,7 +2779,8 @@
     "set": "Archazia's Island",
     "setId": "ARI",
     "type": "gift-set",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ari-lilo-gift-box.png"
   },
   {
     "genre": "pokemon",
@@ -2642,7 +2802,8 @@
     "set": "The Dominance of God",
     "setId": "op18",
     "type": "booster-box",
-    "upc": "810199503806"
+    "upc": "810199503806",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op18-box.png"
   },
   {
     "genre": "yugioh",
@@ -2653,7 +2814,8 @@
     "set": "Magnificent Maestros",
     "setId": "MAMS",
     "type": "collection",
-    "upc": "083717873280"
+    "upc": "083717873280",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ygo-magnificent-maestros-box.jpg"
   },
   {
     "genre": "mtg",
@@ -2664,7 +2826,8 @@
     "set": "Mystery Booster Commander Edition",
     "setId": "",
     "type": "collection",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-festival-in-a-box-atlanta-2026.jpg"
   },
   {
     "genre": "pokemon",
@@ -2686,7 +2849,8 @@
     "set": "Heroines Edition vol.2",
     "setId": "eb05",
     "type": "gift-set",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-eb05-heroines-precious-box.webp"
   },
   {
     "genre": "lorcana",
@@ -2697,7 +2861,8 @@
     "set": "Hyperia City",
     "setId": "",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/lor-hyperia-city-illumineers-trove.png"
   },
   {
     "genre": "lorcana",
@@ -2708,7 +2873,8 @@
     "set": "Hyperia City",
     "setId": "",
     "type": "booster-box",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/lor-hyperia-city-booster-display.png"
   },
   {
     "genre": "digimon",
@@ -2730,7 +2896,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2021-08-06",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt05-box.jpg"
   },
   {
     "genre": "digimon",
@@ -2741,7 +2908,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2021-11-26",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt06-box.webp"
   },
   {
     "genre": "digimon",
@@ -2752,7 +2920,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2022-12-16",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-ex04-box.jpg"
   },
   {
     "genre": "digimon",
@@ -2763,7 +2932,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2023-04-21",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt13-box.jpg"
   },
   {
     "genre": "digimon",
@@ -2774,7 +2944,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2023-08-11",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt14-box.jpg"
   },
   {
     "genre": "digimon",
@@ -2785,7 +2956,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2024-02-09",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt15-box.jpg"
   },
   {
     "genre": "digimon",
@@ -2796,7 +2968,8 @@
     "type": "gift",
     "msrpUSD": 9.99,
     "releaseDate": "2021-10-08",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-st07-deck.jpg"
   },
   {
     "genre": "digimon",
@@ -2807,7 +2980,8 @@
     "type": "gift",
     "msrpUSD": 9.99,
     "releaseDate": "2022-10-14",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-st12-deck.jpg"
   },
   {
     "genre": "digimon",
@@ -2818,7 +2992,8 @@
     "type": "booster-box",
     "msrpUSD": 143.64,
     "releaseDate": "2020-11-27",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-bt01-03-special.webp"
   },
   {
     "genre": "digimon",
@@ -2840,7 +3015,8 @@
     "type": "gift",
     "msrpUSD": 49.99,
     "releaseDate": "2022-11-25",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-pb12-anniv.webp"
   },
   {
     "genre": "onepiece",
@@ -2851,7 +3027,8 @@
     "set": "Mini Case Set",
     "setId": "ts03",
     "type": "collection",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-ts03-mini-case.png"
   },
   {
     "genre": "onepiece",
@@ -2862,7 +3039,8 @@
     "set": "Heroines Edition vol.2",
     "setId": "eb05",
     "type": "gift-set",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-gc2026-heroines-gift.webp"
   },
   {
     "genre": "lorcana",
@@ -2873,7 +3051,8 @@
     "set": "Hyperia City",
     "setId": "",
     "type": "collection",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/lor-hyperia-city-starter.jpg"
   },
   {
     "genre": "yugioh",
@@ -2884,7 +3063,8 @@
     "set": "Beyond the Brave",
     "setId": "",
     "type": "booster-box",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ygo-beyond-the-brave-box.jpg"
   },
   {
     "genre": "lorcana",
@@ -2894,7 +3074,8 @@
     "set": "Winterspell",
     "setId": "WIN",
     "type": "booster-box",
-    "upc": "4050368988812"
+    "upc": "4050368988812",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/win-booster-box.png"
   },
   {
     "genre": "lorcana",
@@ -2904,7 +3085,8 @@
     "set": "Winterspell",
     "setId": "WIN",
     "type": "trove",
-    "upc": "4050368988409"
+    "upc": "4050368988409",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/win-trove.png"
   },
   {
     "genre": "lorcana",
@@ -2914,7 +3096,8 @@
     "set": "Winterspell",
     "setId": "WIN",
     "type": "collection",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/win-collection-starter-stitch.png"
   },
   {
     "genre": "lorcana",
@@ -2924,7 +3107,8 @@
     "set": "Wilds Unknown",
     "setId": "WUN",
     "type": "booster-box",
-    "upc": "4050368988874"
+    "upc": "4050368988874",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/wun-booster-box.png"
   },
   {
     "genre": "lorcana",
@@ -2934,7 +3118,8 @@
     "set": "Wilds Unknown",
     "setId": "WUN",
     "type": "trove",
-    "upc": "4050368988645"
+    "upc": "4050368988645",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/wun-trove.png"
   },
   {
     "genre": "lorcana",
@@ -2944,7 +3129,8 @@
     "set": "Wilds Unknown",
     "setId": "WUN",
     "type": "collection",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/wun-2player-starter.png"
   },
   {
     "genre": "lorcana",
@@ -2954,7 +3140,8 @@
     "set": "Attack of the Vine!",
     "setId": "AOV",
     "type": "booster-box",
-    "upc": "4050368900425"
+    "upc": "4050368900425",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/aov-booster-box.png"
   },
   {
     "genre": "lorcana",
@@ -2964,7 +3151,8 @@
     "set": "Attack of the Vine!",
     "setId": "AOV",
     "type": "trove",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/aov-trove.png"
   },
   {
     "genre": "lorcana",
@@ -2974,6 +3162,7 @@
     "set": "Attack of the Vine!",
     "setId": "AOV",
     "type": "collection",
-    "upc": ""
+    "upc": "",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/aov-collection-starter-rapunzel.png"
   }
 ]
