@@ -44,7 +44,8 @@
     "set": "Obsidian Flames",
     "setId": "sv03",
     "type": "etb",
-    "upc": "820650853913"
+    "upc": "820650853913",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv03-etb.png"
   },
   {
     "genre": "pokemon",
@@ -67,7 +68,8 @@
     "set": "Paradox Rift",
     "setId": "sv04",
     "type": "etb",
-    "upc": "820650854163"
+    "upc": "820650854163",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv04-roaringmoon-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -447,7 +449,8 @@
     "releaseDate": "2022-09-09",
     "msrpUSD": 49.99,
     "upc": "820650850714",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh11-etb.png"
   },
   {
     "id": "swsh12-etb",
@@ -458,7 +461,8 @@
     "releaseDate": "2022-11-11",
     "msrpUSD": 49.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh12-etb.jpg"
   },
   {
     "id": "swsh125-crownzenith-etb",
