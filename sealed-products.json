@@ -3170,5 +3170,27 @@
     "type": "collection",
     "upc": "",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/aov-collection-starter-rapunzel.png"
+  },
+  {
+    "genre": "yugioh",
+    "id": "yg-blgg-booster-box",
+    "msrpUSD": null,
+    "name": "Battles of Legend: Glorious Gallery Booster Box",
+    "releaseDate": "2026-06-04",
+    "set": "Battles of Legend: Glorious Gallery",
+    "setId": "blgg",
+    "type": "booster-box",
+    "upc": ""
+  },
+  {
+    "genre": "yugioh",
+    "id": "yg-mamo-box",
+    "msrpUSD": null,
+    "name": "Magnificent Monsters Box",
+    "releaseDate": "2026-09-04",
+    "set": "Magnificent Monsters",
+    "setId": "mamo",
+    "type": "box",
+    "upc": ""
   }
 ]
