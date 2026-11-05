@@ -1,5 +1,7 @@
 {
  "_note": "ScanVault remote app config. Values here override the APK-bundled defaults so endpoints can be rotated without shipping a new build. Fetched daily (4s cap); the bundled values always apply when offline or unreachable.",
  "version": 2,
- "psaCacheUrl": "https://scanvault-psa-cache.dan-dimarco.workers.dev"
+ "psaCacheUrl": "https://scanvault-psa-cache.dan-dimarco.workers.dev",
+ "brandImageUrl": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/brand/tni-stamp-stacked.png",
+ "brandAvatarUrl": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/brand/tni-mark-avatar.png"
 }
