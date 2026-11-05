@@ -650,7 +650,8 @@
     "releaseDate": "2019-08-23",
     "msrpUSD": 49.99,
     "upc": "820650804731",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm115-hiddenfates-etb.jpg"
   },
   {
     "id": "sm12-etb",
@@ -661,7 +662,8 @@
     "releaseDate": "2019-11-01",
     "msrpUSD": 39.99,
     "upc": "",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm12-etb.jpg"
   },
   {
     "id": "xy01-xerneas-etb",
