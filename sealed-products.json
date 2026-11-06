@@ -81,6 +81,7 @@
     "setId": "sv04",
     "type": "etb",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv04-ironvaliant-etb.jpg"
   },
   {
@@ -117,6 +118,7 @@
     "setId": "sv05",
     "type": "etb",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv05-ironleaves-etb.jpg"
   },
   {
@@ -235,6 +237,7 @@
     "releaseDate": "2020-02-07",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sword & Shield — Sword & Shield Elite Trainer Box (Zamazenta); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh01-zacian-etb.png"
   },
@@ -247,6 +250,7 @@
     "releaseDate": "2020-02-07",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sword & Shield — Sword & Shield Elite Trainer Box (Zacian); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh01-zamazenta-etb.jpg"
   },
@@ -319,6 +323,7 @@
     "releaseDate": "2021-03-19",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sword & Shield — Battle Styles Elite Trainer Box (Rapid Strike); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh05-singlestrike-etb.jpg"
   },
@@ -331,6 +336,7 @@
     "releaseDate": "2021-03-19",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sword & Shield — Battle Styles Elite Trainer Box (Single Strike); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh05-rapidstrike-etb.jpg"
   },
@@ -343,6 +349,7 @@
     "releaseDate": "2021-06-18",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sword & Shield — Chilling Reign Elite Trainer Box (Shadow Rider Calyrex); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh06-icerider-etb.png"
   },
@@ -355,6 +362,7 @@
     "releaseDate": "2021-06-18",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sword & Shield — Chilling Reign Elite Trainer Box (Ice Rider Calyrex); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh06-shadowrider-etb.jpg"
   },
@@ -366,7 +374,8 @@
     "type": "etb",
     "releaseDate": "2021-08-27",
     "msrpUSD": 39.99,
-    "upc": "820650808944",
+    "upc": "",
+    "upcNote": "Shares UPC 820650808944 with Sword & Shield — Evolving Skies Elite Trainer Box (Jolteon/Flareon/Umbreon/Leafeon); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh07-espeon-etb.jpg"
   },
@@ -378,7 +387,8 @@
     "type": "etb",
     "releaseDate": "2021-08-27",
     "msrpUSD": 39.99,
-    "upc": "820650808944",
+    "upc": "",
+    "upcNote": "Shares UPC 820650808944 with Sword & Shield — Evolving Skies Elite Trainer Box (Vaporeon/Espeon/Glaceon/Sylveon); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh07-umbreon-etb.jpg"
   },
@@ -485,6 +495,7 @@
     "releaseDate": "2017-02-03",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sun & Moon — Sun & Moon Elite Trainer Box (Lunala); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -496,6 +507,7 @@
     "releaseDate": "2017-02-03",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sun & Moon — Sun & Moon Elite Trainer Box (Solgaleo); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -551,6 +563,7 @@
     "releaseDate": "2018-02-02",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sun & Moon — Ultra Prism Elite Trainer Box (Dawn Wings Necrozma); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -562,6 +575,7 @@
     "releaseDate": "2018-02-02",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Sun & Moon — Ultra Prism Elite Trainer Box (Dusk Mane Necrozma); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -674,6 +688,7 @@
     "releaseDate": "2014-02-05",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with XY — XY Elite Trainer Box (Yveltal); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -685,6 +700,7 @@
     "releaseDate": "2014-02-05",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with XY — XY Elite Trainer Box (Xerneas); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -718,6 +734,7 @@
     "releaseDate": "2015-02-04",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with XY — Primal Clash Elite Trainer Box (Primal Kyogre); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -729,6 +746,7 @@
     "releaseDate": "2015-02-04",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with XY — Primal Clash Elite Trainer Box (Primal Groudon); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -762,6 +780,7 @@
     "releaseDate": "2015-11-04",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with XY — BREAKthrough Elite Trainer Box (Mega Mewtwo Y); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -773,6 +792,7 @@
     "releaseDate": "2015-11-04",
     "msrpUSD": 39.99,
     "upc": "",
+    "upcNote": "Shares a barcode with XY — BREAKthrough Elite Trainer Box (Mega Mewtwo X); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -827,7 +847,8 @@
     "type": "etb",
     "releaseDate": "2016-11-02",
     "msrpUSD": 39.99,
-    "upc": "820650801655",
+    "upc": "",
+    "upcNote": "Shares UPC 820650801655 with XY — Evolutions Elite Trainer Box (Mega Blastoise); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -838,7 +859,8 @@
     "type": "etb",
     "releaseDate": "2016-11-02",
     "msrpUSD": 39.99,
-    "upc": "820650801655",
+    "upc": "",
+    "upcNote": "Shares UPC 820650801655 with XY — Evolutions Elite Trainer Box (Mega Charizard Y); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -861,6 +883,7 @@
     "releaseDate": "2013-08-14",
     "msrpUSD": 34.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon"
   },
   {
@@ -872,6 +895,7 @@
     "releaseDate": "2025-09-26",
     "msrpUSD": 59.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Mega Evolution — Mega Evolution Elite Trainer Box (Mega Lucario); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -883,6 +907,7 @@
     "releaseDate": "2025-09-26",
     "msrpUSD": 59.99,
     "upc": "",
+    "upcNote": "Shares a barcode with Mega Evolution — Mega Evolution Elite Trainer Box (Mega Gardevoir); UPC blanked so a scan never files the wrong variant.",
     "genre": "pokemon"
   },
   {
@@ -996,6 +1021,7 @@
     "releaseDate": "2023-08-11",
     "msrpUSD": 69.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv03-pc-etb.jpg"
@@ -1022,6 +1048,7 @@
     "releaseDate": "2023-11-03",
     "msrpUSD": 69.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1034,6 +1061,7 @@
     "releaseDate": "2024-01-26",
     "msrpUSD": 69.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1046,6 +1074,7 @@
     "releaseDate": "2024-03-22",
     "msrpUSD": 69.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1119,6 +1148,7 @@
     "releaseDate": "2025-05-30",
     "msrpUSD": 69.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1131,6 +1161,7 @@
     "releaseDate": "2021-06-18",
     "msrpUSD": 59.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -1143,6 +1174,7 @@
     "releaseDate": "2021-08-27",
     "msrpUSD": 59.99,
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
     "exclusive": "pokemon-center"
   },
@@ -2833,6 +2865,7 @@
     "setId": "",
     "type": "collection",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-festival-in-a-box-atlanta-2026.jpg"
   },
   {
@@ -2856,6 +2889,7 @@
     "setId": "eb05",
     "type": "gift-set",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-eb05-heroines-precious-box.webp"
   },
   {
@@ -2891,7 +2925,8 @@
     "type": "box",
     "msrpUSD": 95.76,
     "releaseDate": "2021-01-29",
-    "upc": ""
+    "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual."
   },
   {
     "genre": "digimon",
@@ -2927,6 +2962,7 @@
     "msrpUSD": 95.76,
     "releaseDate": "2022-12-16",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/digi-ex04-box.jpg"
   },
   {
@@ -3010,7 +3046,8 @@
     "type": "booster-box",
     "msrpUSD": 59.99,
     "releaseDate": "2024-08-23",
-    "upc": ""
+    "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual."
   },
   {
     "genre": "digimon",
@@ -3046,6 +3083,7 @@
     "setId": "eb05",
     "type": "gift-set",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-gc2026-heroines-gift.webp"
   },
   {
@@ -3058,6 +3096,7 @@
     "setId": "",
     "type": "collection",
     "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/lor-hyperia-city-starter.jpg"
   },
   {

@@ -1,0 +1,1282 @@
+{
+  "date": "2026-11-06 11:11 UTC",
+  "dry_run": false,
+  "new_sets": [
+    {
+      "genre": "yugioh",
+      "feed_id": "CORI",
+      "name": "Chaos Origins",
+      "releaseDate": "2026-07-02",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LAVD",
+      "name": "Legendary Arc-V Decks",
+      "releaseDate": "2026-08-06",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "TYP1",
+      "name": "THANK YOU PACK",
+      "releaseDate": "2026-07-22",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "UP01",
+      "name": "Ultimate Tournament Pack 1",
+      "releaseDate": "2026-06-18",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "UP02",
+      "name": "Ultimate Tournament Pack 2",
+      "releaseDate": "2026-11-05",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "WI26",
+      "name": "Winner's Pack 2026-2027",
+      "releaseDate": "2026-07-15",
+      "status": "released"
+    }
+  ],
+  "gaps": [
+    {
+      "genre": "mtg",
+      "feed_id": "om1",
+      "name": "Through the Omenpaths",
+      "releaseDate": "2025-09-23",
+      "status": "released"
+    },
+    {
+      "genre": "mtg",
+      "feed_id": "big",
+      "name": "The Big Score",
+      "releaseDate": "2024-04-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "STAS",
+      "name": "2-Player Starter Set",
+      "releaseDate": "2024-01-26",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "RA01",
+      "name": "25th Anniversary Rarity Collection",
+      "releaseDate": "2023-11-02",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "RA02",
+      "name": "25th Anniversary Rarity Collection II",
+      "releaseDate": "2024-05-23",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MP23",
+      "name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+      "releaseDate": "2023-09-07",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "KC01",
+      "name": "25th Anniversary Ultimate Kaiba Set",
+      "releaseDate": "2024-03-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "ADC1",
+      "name": "Adidas collaboration card",
+      "releaseDate": "2024-02-14",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "AGOV",
+      "name": "Age of Overlord",
+      "releaseDate": "2023-10-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "ALIN",
+      "name": "Alliance Insight",
+      "releaseDate": "2025-05-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "AMDE",
+      "name": "Amazing Defenders",
+      "releaseDate": "2023-01-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BACH",
+      "name": "Battle of Chaos",
+      "releaseDate": "2022-02-10",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BLC1",
+      "name": "Battles of Legend: Chapter 1",
+      "releaseDate": "2024-02-22",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BLCR",
+      "name": "Battles of Legend: Crystal Revenge",
+      "releaseDate": "2022-11-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BLMM",
+      "name": "Battles of Legend: Monster Mayhem",
+      "releaseDate": "2025-08-28",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BLMR",
+      "name": "Battles of Legend: Monstrous Revenge",
+      "releaseDate": "2023-06-22",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BLTR",
+      "name": "Battles of Legend: Terminal Revenge",
+      "releaseDate": "2024-06-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BLZD",
+      "name": "Blazing Dominion",
+      "releaseDate": "2026-05-07",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SBPR",
+      "name": "Blue-Eyes Alternative White Dragon Sweepstakes",
+      "releaseDate": "2021-12-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BROL",
+      "name": "Brothers of Legend",
+      "releaseDate": "2021-12-02",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "BPRO",
+      "name": "Burst Protocol",
+      "releaseDate": "2026-02-05",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "CRC1",
+      "name": "Crocs collaboration card",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "CRBR",
+      "name": "Crossover Breakers",
+      "releaseDate": "2024-12-05",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "CYAC",
+      "name": "Cyberstorm Access",
+      "releaseDate": "2023-05-04",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "DCR",
+      "name": "Dark Crisis (25th Anniversary Edition)",
+      "releaseDate": "2023-04-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "DABL",
+      "name": "Darkwing Blast",
+      "releaseDate": "2022-10-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "DIFO",
+      "name": "Dimension Force",
+      "releaseDate": "2022-05-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "DOOD",
+      "name": "Doom of Dimensions",
+      "releaseDate": "2025-09-25",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "DUNE",
+      "name": "Duelist Nexus",
+      "releaseDate": "2023-07-27",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "DUAD",
+      "name": "Duelist's Advance",
+      "releaseDate": "2025-07-03",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "EFC1",
+      "name": "EFootball collaboration cards",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "GFP2",
+      "name": "Ghosts From the Past: The 2nd Haunting",
+      "releaseDate": "2022-05-05",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "HAC1",
+      "name": "Hidden Arsenal: Chapter 1",
+      "releaseDate": "2022-02-24",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "JUSH",
+      "name": "Justice Hunters",
+      "releaseDate": "2025-07-31",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LEDE",
+      "name": "Legacy of Destruction",
+      "releaseDate": "2024-04-25",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LOB",
+      "name": "Legend of Blue Eyes White Dragon (25th Anniversary Edition)",
+      "releaseDate": "2023-04-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "L5DD",
+      "name": "Legendary 5D&apos;s Decks",
+      "releaseDate": "2025-11-06",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LC01",
+      "name": "Legendary Collection: 25th Anniversary Edition",
+      "releaseDate": "2023-04-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LED9",
+      "name": "Legendary Duelists: Duels From the Deep",
+      "releaseDate": "2022-06-16",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LDS3",
+      "name": "Legendary Duelists: Season 3",
+      "releaseDate": "2022-07-21",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LD10",
+      "name": "Legendary Duelists: Soulburning Volcano",
+      "releaseDate": "2023-08-10",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "L26D",
+      "name": "Legendary Modern Decks 2026",
+      "releaseDate": "2026-04-23",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "25LP",
+      "name": "Limited Pack World Championship 2025",
+      "releaseDate": "2025-08-30",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "26LP",
+      "name": "Limited Pack World Championship 2026",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MAMA",
+      "name": "Magnificent Mavens",
+      "releaseDate": "2022-11-03",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MGED",
+      "name": "Maximum Gold: El Dorado",
+      "releaseDate": "2021-11-18",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MAZE",
+      "name": "Maze of Memories",
+      "releaseDate": "2023-03-09",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MZMI",
+      "name": "Maze of Millennia",
+      "releaseDate": "2024-01-18",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MZMU",
+      "name": "Maze of Muertos",
+      "releaseDate": "2026-02-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MZTM",
+      "name": "Maze of the Master",
+      "releaseDate": "2025-03-13",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "MRD",
+      "name": "Metal Raiders (25th Anniversary Edition)",
+      "releaseDate": "2023-04-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "NKC1",
+      "name": "Nike collaboration cards",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP18",
+      "name": "OTS Tournament Pack 18",
+      "releaseDate": "2022-02-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP18",
+      "name": "OTS Tournament Pack 18 (POR)",
+      "releaseDate": "2022-02-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP19",
+      "name": "OTS Tournament Pack 19",
+      "releaseDate": "2022-06-15",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP19",
+      "name": "OTS Tournament Pack 19 (POR)",
+      "releaseDate": "2022-06-15",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP20",
+      "name": "OTS Tournament Pack 20",
+      "releaseDate": "2022-10-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP21",
+      "name": "OTS Tournament Pack 21",
+      "releaseDate": "2023-02-09",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP22",
+      "name": "OTS Tournament Pack 22",
+      "releaseDate": "2023-07-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP23",
+      "name": "OTS Tournament Pack 23",
+      "releaseDate": "2023-10-25",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP24",
+      "name": "OTS Tournament Pack 24",
+      "releaseDate": "2024-02-14",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP25",
+      "name": "OTS Tournament Pack 25",
+      "releaseDate": "2024-06-12",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP26",
+      "name": "OTS Tournament Pack 26",
+      "releaseDate": "2024-10-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP27",
+      "name": "OTS Tournament Pack 27",
+      "releaseDate": "2025-02-27",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP28",
+      "name": "OTS Tournament Pack 28",
+      "releaseDate": "2025-06-18",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP29",
+      "name": "OTS Tournament Pack 29",
+      "releaseDate": "2025-10-15",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "OP30",
+      "name": "OTS Tournament Pack 30",
+      "releaseDate": "2026-02-12",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "PHNI",
+      "name": "Phantom Nightmare",
+      "releaseDate": "2024-02-08",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "PHRE",
+      "name": "Phantom Revenge",
+      "releaseDate": "2025-12-04",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "PSV",
+      "name": "Pharaoh's Servant (25th Anniversary Edition)",
+      "releaseDate": "2023-04-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "PHHY",
+      "name": "Photon Hypernova",
+      "releaseDate": "2023-02-09",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "POTE",
+      "name": "Power of the Elements",
+      "releaseDate": "2022-08-04",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "RA03",
+      "name": "Quarter Century Bonanza",
+      "releaseDate": "2024-11-07",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "RA04",
+      "name": "Quarter Century Stampede",
+      "releaseDate": "2025-04-10",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "ROTA",
+      "name": "Rage of the Abyss",
+      "releaseDate": "2024-10-10",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "RA05",
+      "name": "Rarity Collection 5",
+      "releaseDate": "2026-04-09",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SGX1",
+      "name": "Speed Duel GX: Duel Academy Box",
+      "releaseDate": "2022-03-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SGX3",
+      "name": "Speed Duel GX: Duelists of Shadows",
+      "releaseDate": "2023-03-30",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SGX2",
+      "name": "Speed Duel GX: Midterm Paradox",
+      "releaseDate": "2022-10-06",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "STP3",
+      "name": "Speed Duel Tournament Pack 3",
+      "releaseDate": "2022-03-24",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "STP4",
+      "name": "Speed Duel Tournament Pack 4",
+      "releaseDate": "2022-09-29",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "STP5",
+      "name": "Speed Duel Tournament Pack 5",
+      "releaseDate": "2023-03-09",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "STP6",
+      "name": "Speed Duel Tournament Pack 6",
+      "releaseDate": "2023-09-06",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SBC1",
+      "name": "Speed Duel: Streets of Battle City",
+      "releaseDate": "2023-08-24",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SRL",
+      "name": "Spell Ruler (25th Anniversary Edition)",
+      "releaseDate": "2023-04-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SDAZ",
+      "name": "Structure Deck: Albaz Strike",
+      "releaseDate": "2022-04-14",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SDBT",
+      "name": "Structure Deck: Beware of Traptrix",
+      "releaseDate": "2023-02-23",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SDWD",
+      "name": "Structure Deck: Blue-Eyes White Destiny",
+      "releaseDate": "2025-02-13",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SR13",
+      "name": "Structure Deck: Dark World",
+      "releaseDate": "2022-12-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SR14",
+      "name": "Structure Deck: Fire Kings",
+      "releaseDate": "2023-12-07",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SDCB",
+      "name": "Structure Deck: Legend of the Crystal Beasts",
+      "releaseDate": "2022-09-29",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SDCK",
+      "name": "Structure Deck: The Crimson King",
+      "releaseDate": "2023-09-21",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "SUDA",
+      "name": "Supreme Darkness",
+      "releaseDate": "2025-01-23",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "TAMA",
+      "name": "Tactical Masters",
+      "releaseDate": "2022-08-25",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "CH02",
+      "name": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)",
+      "releaseDate": "2026-01-22",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "CH01",
+      "name": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+      "releaseDate": "2025-10-24",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "GRCR",
+      "name": "The Grand Creators",
+      "releaseDate": "2022-01-27",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "INFO",
+      "name": "The Infinite Forbidden",
+      "releaseDate": "2024-07-18",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion (series)",
+      "releaseDate": "2024-02-14",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2021 L",
+      "releaseDate": "2021-12-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2022",
+      "releaseDate": "2022-01-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2022 A",
+      "releaseDate": "2022-01-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2022 G",
+      "releaseDate": "2022-07-15",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2022 K",
+      "releaseDate": "2022-10-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023",
+      "releaseDate": "2023-09-04",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023 D",
+      "releaseDate": "2023-04-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023 E",
+      "releaseDate": "2023-05-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023 F",
+      "releaseDate": "2023-06-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023 G",
+      "releaseDate": "2024-02-14",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023 H",
+      "releaseDate": "2023-08-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2023 I",
+      "releaseDate": "2023-09-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2024",
+      "releaseDate": "2024-01-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2024 A",
+      "releaseDate": "2024-05-22",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2024 B",
+      "releaseDate": "2024-06-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2024 C",
+      "releaseDate": "2024-07-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2024 H",
+      "releaseDate": "2024-12-18",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2025 A",
+      "releaseDate": "2025-07-16",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2025 B",
+      "releaseDate": "2025-08-20",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2025 C",
+      "releaseDate": "2025-09-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2025 D",
+      "releaseDate": "2025-10-15",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2025 E",
+      "releaseDate": "2025-11-19",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "LART",
+      "name": "The Lost Art Promotion 2025 F",
+      "releaseDate": "2025-12-17",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "TBC1",
+      "name": "The Pot Collection",
+      "releaseDate": "2023-09-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "VASM",
+      "name": "Valiant Smashers",
+      "releaseDate": "2023-11-16",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "25LP",
+      "name": "WCS 2025 Limited Pack",
+      "releaseDate": "2025-08-30",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "WISU",
+      "name": "Wild Survivors",
+      "releaseDate": "2023-06-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "YCSW",
+      "name": "Yu-Gi-Oh! Championship Series 2022 prize card",
+      "releaseDate": "2022-10-16",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "YCSW",
+      "name": "Yu-Gi-Oh! Championship Series 2023 prize card",
+      "releaseDate": "2023-10-01",
+      "status": "released"
+    },
+    {
+      "genre": "yugioh",
+      "feed_id": "25YC",
+      "name": "Yu-Gi-Oh! Championship Series 2025 prize cards",
+      "releaseDate": "2025-07-27",
+      "status": "released"
+    },
+    {
+      "genre": "lorcana",
+      "feed_id": "FAB",
+      "name": "Fabled",
+      "releaseDate": "2025-08-29",
+      "status": "released"
+    },
+    {
+      "genre": "lorcana",
+      "feed_id": "QU1",
+      "name": "Illumineer's Quest: Deep Trouble",
+      "releaseDate": "2024-05-17",
+      "status": "released"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    },
+    {
+      "genre": "onepiece",
+      "feed_id": null,
+      "name": "",
+      "releaseDate": "",
+      "status": "date-unknown"
+    }
+  ],
+  "notes": [
+    "pokemon: 121 unmatched sets left date-unverified (detail cap)",
+    "46 missing-image entries left for later runs (max-fill cap)"
+  ],
+  "tier1": [],
+  "tier2": [
+    {
+      "id": "sv09-journeytogether-etb",
+      "genre": "pokemon",
+      "name": "Scarlet & Violet \u2014 Journey Together Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['journey', 'together']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['journey', 'together']: Pokemon - Champion's Path - Elite Trainer Box | title missing ['journey', 'together']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box"
+    },
+    {
+      "id": "swsh09-etb",
+      "genre": "pokemon",
+      "name": "Sword & Shield \u2014 Brilliant Stars Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['elite', 'trainer']: Pokemon - Brilliant Stars - Booster Box | title missing ['brilliant', 'stars']: Pokemon - 30th Celebration - Elite Trainer Box | title missing ['brilliant', 'stars']: MLTRS/ZPDS/ARTCN.GX (SM210) - POKEMON SUN & MOON BLACK STAR PROMOS - H"
+    },
+    {
+      "id": "swsh10-etb",
+      "genre": "pokemon",
+      "name": "Sword & Shield \u2014 Astral Radiance Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['astral', 'radiance']: Pokemon - Scarlet and Violet - Surging Sparks - Elite Trainer Box | title missing ['astral', 'radiance']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['astral', 'radiance']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box"
+    },
+    {
+      "id": "sm01-solgaleo-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Sun & Moon Elite Trainer Box (Solgaleo)",
+      "reason": "no candidate passed: title missing ['solgaleo']: MLTRS/ZPDS/ARTCN.GX (SM210) - POKEMON SUN & MOON BLACK STAR PROMOS - H | title missing ['solgaleo']: MLTRS/ZPDS/ARTCN.GX (SM210) - POKEMON SUN & MOON BLACK STAR PROMOS - H | title missing ['moon', 'solgaleo', 'sun']: Pokemon - Cosmic Eclipse Elite Trainer Box"
+    },
+    {
+      "id": "sm01-lunala-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Sun & Moon Elite Trainer Box (Lunala)",
+      "reason": "no candidate passed: title missing ['lunala']: MLTRS/ZPDS/ARTCN.GX (SM210) - POKEMON SUN & MOON BLACK STAR PROMOS - H | title missing ['lunala']: MLTRS/ZPDS/ARTCN.GX (SM210) - POKEMON SUN & MOON BLACK STAR PROMOS - H | title missing ['lunala', 'moon', 'sun']: Pokemon - Cosmic Eclipse Elite Trainer Box"
+    },
+    {
+      "id": "sm02-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Guardians Rising Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['guardians']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['guardians', 'rising']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['guardians', 'rising']: Pokemon - 30th Celebration - Elite Trainer Box"
+    },
+    {
+      "id": "sm03-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Burning Shadows Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['burning', 'shadows']: Pokemon - Darkness Ablaze - Elite Trainer Box | title missing ['burning', 'shadows']: Pokemon - Scarlet and Violet - Surging Sparks - Elite Trainer Box | title missing ['burning', 'shadows']: Pokemon - Chilling Reign - Elite Trainer Box - Shadow Rider Calyrex"
+    },
+    {
+      "id": "sm35-shininglegends-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Shining Legends Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['legends', 'shining']: Pokemon - Scarlet and Violet - Surging Sparks - Elite Trainer Box | title missing ['legends', 'shining']: Pokemon - Sword And Shield Elite Trainer Box Plus - Zacian | title missing ['legends', 'shining']: Pokemon - 30th Celebration - Elite Trainer Box"
+    },
+    {
+      "id": "sm04-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Crimson Invasion Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['crimson', 'invasion']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['crimson', 'invasion']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['crimson', 'invasion']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box"
+    },
+    {
+      "id": "sm05-duskmane-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Ultra Prism Elite Trainer Box (Dusk Mane Necrozma)",
+      "reason": "no candidate passed: title missing ['dusk', 'mane', 'necrozma', 'prism']: Pokemon - Scarlet and Violet - Prismatic Evolutions - Elite Trainer Bo | title missing ['dusk', 'mane', 'necrozma', 'prism']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['dusk', 'mane', 'necrozma', 'prism']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box"
+    },
+    {
+      "id": "sm05-dawnwings-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Ultra Prism Elite Trainer Box (Dawn Wings Necrozma)",
+      "reason": "no candidate passed: title missing ['dawn', 'necrozma', 'prism', 'ultra']: Pokemon - Scarlet and Violet - Prismatic Evolutions - Elite Trainer Bo | title missing ['dawn', 'necrozma', 'prism', 'ultra']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['dawn', 'necrozma', 'prism', 'ultra']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box"
+    },
+    {
+      "id": "sm06-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Forbidden Light Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['forbidden', 'light']: Pokemon - Hidden Fates - Elite Trainer Box | title missing ['forbidden', 'light']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['forbidden', 'light']: Pokemon - Darkness Ablaze - Elite Trainer Box"
+    },
+    {
+      "id": "sm07-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Celestial Storm Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['celestial', 'storm']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['celestial', 'storm']: Pokemon - Scarlet and Violet - Surging Sparks - Elite Trainer Box | title missing ['celestial', 'storm']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box"
+    },
+    {
+      "id": "sm75-dragonmajesty-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Dragon Majesty Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['dragon', 'majesty']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['dragon', 'majesty']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['dragon', 'majesty']: Pokemon - 30th Celebration - Elite Trainer Box"
+    },
+    {
+      "id": "sm08-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Lost Thunder Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['thunder']: Pokemon - Lost Origin - Elite Trainer Box | title missing ['lost', 'thunder']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['lost', 'thunder']: Pokemon - Scarlet and Violet - Surging Sparks - Elite Trainer Box"
+    },
+    {
+      "id": "sm09-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Team Up Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['team', 'up']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['team', 'up']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['team', 'up']: Pokemon - Sword And Shield Elite Trainer Box Plus - Zacian"
+    },
+    {
+      "id": "sm10-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Unbroken Bonds Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['elite', 'trainer']: Pokemon - Unbroken Bonds Booster Box | title missing ['bonds', 'unbroken']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box | title missing ['bonds', 'unbroken']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box"
+    },
+    {
+      "id": "sm11-etb",
+      "genre": "pokemon",
+      "name": "Sun & Moon \u2014 Unified Minds Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['elite', 'trainer']: Pokemon - Unified Minds Booster Box | title missing ['minds', 'unified']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['minds', 'unified']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box"
+    },
+    {
+      "id": "xy01-xerneas-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 XY Elite Trainer Box (Xerneas)",
+      "reason": "no candidate passed: title missing ['xerneas', 'xy']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['xerneas', 'xy']: Pokemon - 30th Celebration - Elite Trainer Box | title missing ['xerneas', 'xy']: Pokemon - Mega Evolution - Perfect Order - Elite Trainer Box"
+    },
+    {
+      "id": "xy01-yveltal-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 XY Elite Trainer Box (Yveltal)",
+      "reason": "no candidate passed: title missing ['xy', 'yveltal']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['xy', 'yveltal']: Pokemon - 30th Celebration - Elite Trainer Box | title missing ['xy', 'yveltal']: Pokemon - Mega Evolution - Perfect Order - Elite Trainer Box"
+    },
+    {
+      "id": "xy03-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 Furious Fists Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['fists', 'furious']: Pokemon - Battle Styles - Elite Trainer Box - Rapid Strike Urshifu | title missing ['fists', 'furious']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['fists', 'furious']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box"
+    },
+    {
+      "id": "xy04-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 Phantom Forces Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['forces', 'phantom']: Pokemon - Hidden Fates - Elite Trainer Box | title missing ['forces', 'phantom']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['forces', 'phantom']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box"
+    },
+    {
+      "id": "xy05-groudon-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 Primal Clash Elite Trainer Box (Primal Groudon)",
+      "reason": "no candidate passed: title missing ['clash', 'groudon', 'primal']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['clash', 'groudon', 'primal']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box | title missing ['clash', 'groudon', 'primal']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box"
+    },
+    {
+      "id": "xy05-kyogre-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 Primal Clash Elite Trainer Box (Primal Kyogre)",
+      "reason": "no candidate passed: title missing ['clash', 'kyogre', 'primal']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['clash', 'kyogre', 'primal']: Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box | title missing ['clash', 'kyogre', 'primal']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box"
+    },
+    {
+      "id": "xy06-etb",
+      "genre": "pokemon",
+      "name": "XY \u2014 Roaring Skies Elite Trainer Box",
+      "reason": "no candidate passed: title missing ['roaring', 'skies']: Pokemon - Mega Evolution - Chaos Rising - Elite Trainer Box | title missing ['skies']: Pokemon - Scarlet and Violet - Paradox Rift - Elite Trainer Box - Roar | title missing ['roaring', 'skies']: Pokemon - Mega Evolution - Delta Reign - Elite Trainer Box"
+    }
+  ],
+  "degraded": [
+    "digimon: no dated sets feed (app derives sets from a bulk card download); new Digimon sets are not detected by this run"
+  ],
+  "old_omitted": 1007
+}

@@ -1,0 +1,1036 @@
+{
+ "generated": "2026-11-06T13:04:59Z",
+ "tcg": "pokemon",
+ "asOf": "2026-11-05",
+ "cards": [
+  {
+   "id": "me2-125",
+   "name": "Mega Charizard X ex",
+   "number": "125",
+   "set": "Phantasmal Flames",
+   "setId": "me2",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02/125",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 619.14,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q3 2026 GMV #7; also Q2 2026 GMV #1 (Pokemon). Midpoint volume 3,863 also supports it."
+   }
+  },
+  {
+   "id": "sv3pt5-199",
+   "name": "Charizard ex",
+   "number": "199",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/199",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 323.37,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q3 2026 GMV #8; also Q2 2026 GMV #7 (Pokemon). PriceCharting ungraded sold rows Oct 22-Nov 1, 2026 cluster ~$270-$350 (sampled, see methodology). GAP-CLOSING step 2 (PriceCharting,\u2026"
+   }
+  },
+  {
+   "id": "sv8-241",
+   "name": "Archaludon ex",
+   "number": "241",
+   "set": "Surging Sparks",
+   "setId": "sv8",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv08/241",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 12.83,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 59 clean sold rows, median $12.00, observed $708.00 (floor). Replacement for vacant rank 7; identity verified via pokemontcg.io. Sampled-evidence\u2026"
+   }
+  },
+  {
+   "id": "sv8pt5-161",
+   "name": "Umbreon ex",
+   "number": "161",
+   "set": "Prismatic Evolutions",
+   "setId": "sv8pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv08.5/161",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 1269.69,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q2 2026 GMV #10 (Pokemon). GAP-CLOSING step 2 (PriceCharting, search-indexed page): 53 clean single-price ungraded sold rows in window 2026-08-19 to 2026-11-02, median $1157.3, floor.\u2026"
+   }
+  },
+  {
+   "id": "sv4pt5-232",
+   "name": "Mew ex",
+   "number": "232",
+   "set": "Paldean Fates",
+   "setId": "sv4pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/232",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 863.75,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1571 x raw price $904.97 = ~$1,421,708 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar\u2026"
+   }
+  },
+  {
+   "id": "zsv10pt5-172",
+   "name": "Zekrom ex",
+   "number": "172",
+   "set": "Black Bolt",
+   "setId": "zsv10pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv10.5b/172",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 602.79,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1214 x raw price $595.18 = ~$722,549 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "zsv10pt5-166",
+   "name": "Zekrom ex",
+   "number": "166",
+   "set": "Black Bolt",
+   "setId": "zsv10pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv10.5b/166",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 263.89,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1074 x raw price $252.44 = ~$271,121 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "me1-177",
+   "name": "Mega Venusaur ex",
+   "number": "177",
+   "set": "Mega Evolution",
+   "setId": "me1",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me01/177",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 135.9,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1958 x raw price $124.63 = ~$244,026 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "sv8-239",
+   "name": "Latias ex",
+   "number": "239",
+   "set": "Surging Sparks",
+   "setId": "sv8",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv08/239",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 179.76,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1375 x raw price $175.0 = ~$240,625 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "sv10-230",
+   "name": "Ethan's Ho-Oh ex",
+   "number": "230",
+   "set": "Destined Rivals",
+   "setId": "sv10",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv10/230",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 140.2,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1267 x raw price $150.0 = ~$190,050 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "svp-131",
+   "name": "Kingdra ex",
+   "number": "131",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/sv/svp/131",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 76.92,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1628 x raw price $85.0 = ~$138,380 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "xy12-101",
+   "name": "M Charizard-EX",
+   "number": "101",
+   "set": "Evolutions",
+   "setId": "xy12",
+   "rarity": "Rare Holo EX",
+   "image": "https://assets.tcgdex.net/en/xy/xy12/101",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 125.09,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1369 x raw price $98.25 = ~$134,504 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "sv10-233",
+   "name": "Team Rocket's Nidoking ex",
+   "number": "233",
+   "set": "Destined Rivals",
+   "setId": "sv10",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv10/233",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 73.59,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1186 x raw price $92.5 = ~$109,705 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "svp-132",
+   "name": "Greninja ex",
+   "number": "132",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/sv/svp/132",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 82.06,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1105 x raw price $84.65 = ~$93,538 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "xy6-76",
+   "name": "M Rayquaza-EX",
+   "number": "76",
+   "set": "Roaring Skies",
+   "setId": "xy6",
+   "rarity": "Classic Collection",
+   "image": "https://assets.tcgdex.net/en/xy/xy6/76",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 109.75,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1873 x raw price $39.58 = ~$74,133 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "svp-174",
+   "name": "Eevee ex",
+   "number": "174",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/sv/svp/174",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 16.54,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1994 x raw price $19.85 = ~$39,581 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "me2-127",
+   "name": "Mega Sharpedo ex",
+   "number": "127",
+   "set": "Phantasmal Flames",
+   "setId": "me2",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/me/me02/127",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 16.1,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1071 x raw price $19.87 = ~$21,281 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "svp-173",
+   "name": "Eevee",
+   "number": "173",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/sv/svp/173",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 8.91,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1231 x raw price $12.13 = ~$14,932 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "svp-31",
+   "name": "Tinkaton ex",
+   "number": "31",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/sv/svp/031",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 10.35,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1288 x raw price $8.0 = ~$10,304 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "me2-56",
+   "name": "Mega Gengar ex",
+   "number": "56",
+   "set": "Phantasmal Flames",
+   "setId": "me2",
+   "rarity": "Double Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02/056",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 2.22,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 3003 x raw price $3.38 = ~$10,150 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "svp-30",
+   "name": "Chien-Pao ex",
+   "number": "30",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/sv/svp/030",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 3.57,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1318 x raw price $5.11 = ~$6,735 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "svp-44",
+   "name": "Charmander",
+   "number": "44",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Promo",
+   "image": "https://assets.tcgdex.net/en/sv/svp/044",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 48.55,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Aug 2026 copies-sold #2 ($50+ band), avg $57.67; also Jul #2 ($61.34), Jun #4 ($64.43). DISTINCT from MEP Charmander 038 (direct tier). GAP-CLOSING step 2 (PriceCharting, search-indexed\u2026"
+   }
+  },
+  {
+   "id": "swshp-SWSH262",
+   "name": "Charizard VSTAR",
+   "number": "SWSH262",
+   "set": "SWSH Black Star Promos",
+   "setId": "swshp",
+   "rarity": "Promo",
+   "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH262",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 66.93,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Aug 2026 copies-sold #5 ($50+ band), avg $73.14. GAP-CLOSING step 2 (PriceCharting, search-indexed page): 48 clean single-price ungraded sold rows in window 2026-08-03 to 2026-11-01,\u2026"
+   }
+  },
+  {
+   "id": "svp-53",
+   "name": "Mew ex",
+   "number": "53",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Promo",
+   "image": "https://assets.tcgdex.net/en/sv/svp/053",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 63.76,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Jun 2026 copies-sold #5 ($50+ band), avg $81.46 (151 Ultra-Premium Collection promo). GAP-CLOSING step 2 (PriceCharting, search-indexed page): 52 clean single-price ungraded sold rows in\u2026"
+   }
+  },
+  {
+   "id": "me1-119",
+   "name": "Lillie's Determination",
+   "number": "119",
+   "set": "Mega Evolution",
+   "setId": "me1",
+   "rarity": "Trainer",
+   "image": "https://assets.tcgdex.net/en/me/me01/119",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 0.31,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Q3 2026 unique-buyer #4 ($0.35) and Q2 #3. Unique buyers only."
+   }
+  },
+  {
+   "id": "sv4pt5-234",
+   "name": "Charizard ex",
+   "number": "234",
+   "set": "Paldean Fates",
+   "setId": "sv4pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/234",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 256.92,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv6-214",
+   "name": "Greninja ex",
+   "number": "214",
+   "set": "Twilight Masquerade",
+   "setId": "sv6",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv06/214",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 317.44,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "me2-130",
+   "name": "Mega Charizard X ex",
+   "number": "130",
+   "set": "Phantasmal Flames",
+   "setId": "me2",
+   "rarity": "Mega Hyper Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02/130",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 205.11,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Gold print; high price, thin sales expected."
+   }
+  },
+  {
+   "id": "sv3pt5-200",
+   "name": "Blastoise ex",
+   "number": "200",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/200",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 112.6,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv3pt5-198",
+   "name": "Venusaur ex",
+   "number": "198",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/198",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 92.52,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv3pt5-202",
+   "name": "Zapdos ex",
+   "number": "202",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/202",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 82.47,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv1-245",
+   "name": "Gardevoir ex",
+   "number": "245",
+   "set": "Scarlet & Violet",
+   "setId": "sv1",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv01/245",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 67.89,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file. [Lane C pointer APPLY: draft id sv1-233 is Iron\u2026"
+   }
+  },
+  {
+   "id": "sv3pt5-201",
+   "name": "Alakazam ex",
+   "number": "201",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/201",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 58.0,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv5-193",
+   "name": "Gengar ex",
+   "number": "193",
+   "set": "Temporal Forces",
+   "setId": "sv5",
+   "rarity": "Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv05/193",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 50.43,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 51 clean sold rows, median $53.30, observed $2,718.30 (floor). Replacement for vacant rank 93; identity verified via pokemontcg.io.\u2026"
+   }
+  },
+  {
+   "id": "sv5-206",
+   "name": "Iron Crown ex",
+   "number": "206",
+   "set": "Temporal Forces",
+   "setId": "sv5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv05/206",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 50.2,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv5-205",
+   "name": "Walking Wake ex",
+   "number": "205",
+   "set": "Temporal Forces",
+   "setId": "sv5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv05/205",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 39.53,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv3pt5-183",
+   "name": "Charizard ex",
+   "number": "183",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/183",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 36.85,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv4-245",
+   "name": "Garchomp ex",
+   "number": "245",
+   "set": "Paradox Rift",
+   "setId": "sv4",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04/245",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 32.53,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv4-251",
+   "name": "Roaring Moon ex",
+   "number": "251",
+   "set": "Paradox Rift",
+   "setId": "sv4",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04/251",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 30.6,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv4pt5-216",
+   "name": "Mew ex",
+   "number": "216",
+   "set": "Paldean Fates",
+   "setId": "sv4pt5",
+   "rarity": "Shiny Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/216",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 28.91,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 51 clean sold rows, median $32.99, observed $1,682.49 (floor). Replacement for vacant rank 95; identity verified via pokemontcg.io.\u2026"
+   }
+  },
+  {
+   "id": "sv3pt5-205",
+   "name": "Mew ex",
+   "number": "205",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/205",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 25.04,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv5-203",
+   "name": "Iron Leaves ex",
+   "number": "203",
+   "set": "Temporal Forces",
+   "setId": "sv5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv05/203",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 30.97,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv4pt5-237",
+   "name": "Iono",
+   "number": "237",
+   "set": "Paldean Fates",
+   "setId": "sv4pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04.5/237",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 23.99,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv4-249",
+   "name": "Iron Valiant ex",
+   "number": "249",
+   "set": "Paradox Rift",
+   "setId": "sv4",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv04/249",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 20.32,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "me2-109",
+   "name": "Mega Charizard X ex",
+   "number": "109",
+   "set": "Phantasmal Flames",
+   "setId": "me2",
+   "rarity": "Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02/109",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 20.93,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Phantasmal Flames UR print (Bulbapedia set list)."
+   }
+  },
+  {
+   "id": "sv3pt5-203",
+   "name": "Erika's Invitation",
+   "number": "203",
+   "set": "Scarlet & Violet\u2014151",
+   "setId": "sv3pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/203",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 16.64,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv1-238",
+   "name": "Miriam",
+   "number": "238",
+   "set": "Scarlet & Violet",
+   "setId": "sv1",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv01/238",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 4.5,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "sv1-227",
+   "name": "Miraidon ex",
+   "number": "227",
+   "set": "Scarlet & Violet",
+   "setId": "sv1",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/sv/sv01/227",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 2.31,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "swsh12pt5-95",
+   "name": "Zacian V",
+   "number": "95",
+   "set": "Crown Zenith",
+   "setId": "swsh12pt5",
+   "rarity": "Rare Holo V",
+   "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/095",
+   "closes": [
+    {
+     "d": "2026-11-05",
+     "p": 0.97,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 59 clean sold rows, median $1.25, observed $73.75 (census). Replacement for vacant rank 77; identity verified via pokemontcg.io. Sampled-evidence\u2026"
+   }
+  }
+ ]
+}
