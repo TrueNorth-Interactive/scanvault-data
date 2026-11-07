@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-06T13:04:59Z",
+ "generated": "2026-11-07T10:30:54Z",
  "tcg": "pokemon",
- "asOf": "2026-11-05",
+ "asOf": "2026-11-06",
  "cards": [
   {
    "id": "me2-125",
@@ -14,6 +14,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 619.14,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 619.14,
      "s": null,
      "src": "tcgplayer"
@@ -38,6 +44,12 @@
      "p": 323.37,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 323.37,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -56,6 +68,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 12.83,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 12.83,
      "s": null,
      "src": "tcgplayer"
@@ -80,6 +98,12 @@
      "p": 1269.69,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 1269.69,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -98,6 +122,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 863.75,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 863.75,
      "s": null,
      "src": "tcgplayer"
@@ -122,6 +152,12 @@
      "p": 602.79,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 602.79,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -140,6 +176,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 263.89,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 263.89,
      "s": null,
      "src": "tcgplayer"
@@ -164,6 +206,12 @@
      "p": 135.9,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 135.9,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -182,6 +230,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 179.76,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 179.76,
      "s": null,
      "src": "tcgplayer"
@@ -206,6 +260,12 @@
      "p": 140.2,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 140.2,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -224,6 +284,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 76.92,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 76.92,
      "s": null,
      "src": "tcgplayer"
@@ -269,6 +335,12 @@
      "p": 73.59,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 73.59,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -287,6 +359,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 82.06,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 82.06,
      "s": null,
      "src": "tcgplayer"
@@ -311,6 +389,12 @@
      "p": 109.75,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 109.75,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -329,6 +413,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 16.54,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 16.54,
      "s": null,
      "src": "tcgplayer"
@@ -353,11 +443,38 @@
      "p": 16.1,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 16.1,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1071 x raw price $19.87 = ~$21,281 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "me2-126",
+   "name": "Rotom ex",
+   "number": "126",
+   "set": "Phantasmal Flames",
+   "setId": "me2",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/me/me02/126",
+   "closes": [
+    {
+     "d": "2026-11-06",
+     "p": 11.98,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 999 x raw price $15.56 = ~$15,544 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
    }
   },
   {
@@ -371,6 +488,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 8.91,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 8.91,
      "s": null,
      "src": "tcgplayer"
@@ -395,6 +518,12 @@
      "p": 10.35,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 10.35,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -413,6 +542,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 2.22,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 2.22,
      "s": null,
      "src": "tcgplayer"
@@ -437,6 +572,12 @@
      "p": 3.57,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 3.57,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -455,6 +596,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 48.55,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 48.55,
      "s": null,
      "src": "tcgplayer"
@@ -479,6 +626,12 @@
      "p": 66.93,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 66.93,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -497,6 +650,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 63.76,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 63.76,
      "s": null,
      "src": "tcgplayer"
@@ -521,6 +680,12 @@
      "p": 0.31,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 0.31,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -539,6 +704,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 256.92,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 256.92,
      "s": null,
      "src": "tcgplayer"
@@ -563,6 +734,12 @@
      "p": 317.44,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 317.44,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -581,6 +758,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 205.11,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 205.11,
      "s": null,
      "src": "tcgplayer"
@@ -605,6 +788,12 @@
      "p": 112.6,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 112.6,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -623,6 +812,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 92.52,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 92.52,
      "s": null,
      "src": "tcgplayer"
@@ -647,6 +842,12 @@
      "p": 82.47,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 82.47,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -665,6 +866,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 67.89,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 67.89,
      "s": null,
      "src": "tcgplayer"
@@ -689,6 +896,12 @@
      "p": 58.0,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 58.0,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -707,6 +920,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 50.43,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 50.43,
      "s": null,
      "src": "tcgplayer"
@@ -731,6 +950,12 @@
      "p": 50.2,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 50.2,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -749,6 +974,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 39.53,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 39.53,
      "s": null,
      "src": "tcgplayer"
@@ -773,6 +1004,12 @@
      "p": 36.85,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 36.85,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -794,6 +1031,12 @@
      "p": 32.53,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 32.53,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -812,6 +1055,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 30.6,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 30.6,
      "s": null,
      "src": "tcgplayer"
@@ -857,6 +1106,12 @@
      "p": 25.04,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 25.04,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -875,6 +1130,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 30.97,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 30.97,
      "s": null,
      "src": "tcgplayer"
@@ -899,11 +1160,38 @@
      "p": 23.99,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 23.99,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
     "label": "Unknown",
     "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "ex1-96",
+   "name": "Chansey ex",
+   "number": "96",
+   "set": "Ruby & Sapphire",
+   "setId": "ex1",
+   "rarity": "Rare Holo EX",
+   "image": "https://assets.tcgdex.net/en/ex/ex1/96",
+   "closes": [
+    {
+     "d": "2026-11-06",
+     "p": 90.62,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 23 clean sold rows, median $61.00, observed $1,403.00 (census). Replacement for vacant rank 78; identity verified via pokemontcg.io.\u2026"
    }
   },
   {
@@ -917,6 +1205,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 20.32,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 20.32,
      "s": null,
      "src": "tcgplayer"
@@ -941,6 +1235,12 @@
      "p": 20.93,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 20.93,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -959,6 +1259,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 16.64,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 16.64,
      "s": null,
      "src": "tcgplayer"
@@ -983,6 +1289,12 @@
      "p": 4.5,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 4.5,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1004,6 +1316,12 @@
      "p": 2.31,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2.31,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1022,6 +1340,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 0.97,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-06",
      "p": 0.97,
      "s": null,
      "src": "tcgplayer"

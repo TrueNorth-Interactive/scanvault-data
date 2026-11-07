@@ -1,17 +1,21 @@
 {
- "generated": "2026-11-06T13:04:59Z",
+ "generated": "2026-11-07T10:30:54Z",
  "methodologyVersion": "1",
  "tcg": "pokemon",
- "asOf": "2026-11-05",
+ "asOf": "2026-11-06",
  "value": 1000.0,
  "dayChangePct": 0.0,
- "constituents": 49,
+ "constituents": 51,
  "constituentsTotal": 100,
- "waitingCount": 51,
+ "waitingCount": 49,
  "staleCount": 0,
  "history": [
   {
    "d": "2026-11-05",
+   "v": 1000.0
+  },
+  {
+   "d": "2026-11-06",
    "v": 1000.0
   }
  ]
