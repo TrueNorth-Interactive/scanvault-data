@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-07T10:30:54Z",
+ "generated": "2026-11-08T10:30:55Z",
  "tcg": "pokemon",
- "asOf": "2026-11-06",
+ "asOf": "2026-11-07",
  "cards": [
   {
    "id": "me2-125",
@@ -20,6 +20,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 619.14,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 619.14,
      "s": null,
      "src": "tcgplayer"
@@ -50,6 +56,12 @@
      "p": 323.37,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 323.37,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -74,6 +86,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 12.83,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 12.83,
      "s": null,
      "src": "tcgplayer"
@@ -104,6 +122,12 @@
      "p": 1269.69,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 1269.69,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -128,6 +152,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 863.75,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 863.75,
      "s": null,
      "src": "tcgplayer"
@@ -158,6 +188,12 @@
      "p": 602.79,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 602.79,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -182,6 +218,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 263.89,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 263.89,
      "s": null,
      "src": "tcgplayer"
@@ -212,6 +254,12 @@
      "p": 135.9,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 135.9,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -236,6 +284,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 179.76,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 179.76,
      "s": null,
      "src": "tcgplayer"
@@ -266,6 +320,12 @@
      "p": 140.2,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 140.2,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -293,6 +353,12 @@
      "p": 76.92,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 76.92,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -311,6 +377,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 125.09,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 125.09,
      "s": null,
      "src": "tcgplayer"
@@ -341,6 +413,12 @@
      "p": 73.59,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 73.59,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -365,6 +443,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 82.06,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 82.06,
      "s": null,
      "src": "tcgplayer"
@@ -395,6 +479,12 @@
      "p": 109.75,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 109.75,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -419,6 +509,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 16.54,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 16.54,
      "s": null,
      "src": "tcgplayer"
@@ -449,6 +545,12 @@
      "p": 16.1,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 16.1,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -467,6 +569,12 @@
    "closes": [
     {
      "d": "2026-11-06",
+     "p": 11.98,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 11.98,
      "s": null,
      "src": "tcgplayer"
@@ -497,6 +605,12 @@
      "p": 8.91,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 8.91,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -521,6 +635,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 10.35,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 10.35,
      "s": null,
      "src": "tcgplayer"
@@ -551,6 +671,12 @@
      "p": 2.22,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 2.22,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -575,6 +701,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 3.57,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 3.57,
      "s": null,
      "src": "tcgplayer"
@@ -605,6 +737,12 @@
      "p": 48.55,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 48.55,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -629,6 +767,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 66.93,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 66.93,
      "s": null,
      "src": "tcgplayer"
@@ -659,6 +803,12 @@
      "p": 63.76,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 63.76,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -683,6 +833,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 0.31,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 0.31,
      "s": null,
      "src": "tcgplayer"
@@ -713,6 +869,12 @@
      "p": 256.92,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 256.92,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -737,6 +899,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 317.44,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 317.44,
      "s": null,
      "src": "tcgplayer"
@@ -767,6 +935,12 @@
      "p": 205.11,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 205.11,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -791,6 +965,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 112.6,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 112.6,
      "s": null,
      "src": "tcgplayer"
@@ -821,6 +1001,12 @@
      "p": 92.52,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 92.52,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -845,6 +1031,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 82.47,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 82.47,
      "s": null,
      "src": "tcgplayer"
@@ -875,6 +1067,12 @@
      "p": 67.89,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 67.89,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -899,6 +1097,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 58.0,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 58.0,
      "s": null,
      "src": "tcgplayer"
@@ -929,6 +1133,12 @@
      "p": 50.43,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 50.43,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -953,6 +1163,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 50.2,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 50.2,
      "s": null,
      "src": "tcgplayer"
@@ -983,6 +1199,12 @@
      "p": 39.53,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 39.53,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1007,6 +1229,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 36.85,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 36.85,
      "s": null,
      "src": "tcgplayer"
@@ -1037,6 +1265,12 @@
      "p": 32.53,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 32.53,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1064,6 +1298,12 @@
      "p": 30.6,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 30.6,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1082,6 +1322,12 @@
    "closes": [
     {
      "d": "2026-11-05",
+     "p": 28.91,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 28.91,
      "s": null,
      "src": "tcgplayer"
@@ -1112,6 +1358,12 @@
      "p": 25.04,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 25.04,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1136,6 +1388,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 30.97,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 30.97,
      "s": null,
      "src": "tcgplayer"
@@ -1166,6 +1424,12 @@
      "p": 23.99,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 23.99,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1184,6 +1448,12 @@
    "closes": [
     {
      "d": "2026-11-06",
+     "p": 90.62,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 90.62,
      "s": null,
      "src": "tcgplayer"
@@ -1214,6 +1484,12 @@
      "p": 20.32,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 20.32,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1238,6 +1514,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 20.93,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 20.93,
      "s": null,
      "src": "tcgplayer"
@@ -1268,6 +1550,12 @@
      "p": 16.64,
      "s": null,
      "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
+     "p": 16.64,
+     "s": null,
+     "src": "tcgplayer"
     }
    ],
    "why": {
@@ -1292,6 +1580,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 4.5,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 4.5,
      "s": null,
      "src": "tcgplayer"
@@ -1346,6 +1640,12 @@
     },
     {
      "d": "2026-11-06",
+     "p": 0.97,
+     "s": null,
+     "src": "tcgplayer"
+    },
+    {
+     "d": "2026-11-07",
      "p": 0.97,
      "s": null,
      "src": "tcgplayer"
