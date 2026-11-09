@@ -1,8 +1,71 @@
 {
- "generated": "2026-11-08T10:30:55Z",
+ "generated": "2026-11-09T01:21:52Z",
  "tcg": "pokemon",
  "asOf": "2026-11-07",
  "cards": [
+  {
+   "id": "me5-116",
+   "name": "Mega Darkrai ex",
+   "number": "116",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/116",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 132.45,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q3 2026 GMV #2 overall (all games). Market price Oct 9, 2026 $147.98 in that report. GAP-CLOSING step 2 (PriceCharting, search-indexed page): 54 clean single-price ungraded sold rows in\u2026"
+   }
+  },
+  {
+   "id": "me4-116",
+   "name": "Mega Greninja ex",
+   "number": "116",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me04/116",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 106.09,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q3 2026 GMV #5; also Q2 2026 GMV #4 (Pokemon). GAP-CLOSING step 2 (PriceCharting, search-indexed page): 49 clean single-price ungraded sold rows in window 2026-08-03 to 2026-11-02,\u2026"
+   }
+  },
+  {
+   "id": "me2pt5-276",
+   "name": "Pikachu ex",
+   "number": "276",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/276",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 567.97,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q3 2026 GMV #6; also Q2 2026 GMV #2 (Pokemon)."
+   }
+  },
   {
    "id": "me2-125",
    "name": "Mega Charizard X ex",
@@ -13,20 +76,8 @@
    "image": "https://assets.tcgdex.net/en/me/me02/125",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 619.14,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 619.14,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 619.14,
+     "p": 570.29,
      "s": null,
      "src": "tcgplayer"
     }
@@ -46,20 +97,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/199",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 323.37,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 323.37,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 323.37,
+     "p": 292.69,
      "s": null,
      "src": "tcgplayer"
     }
@@ -67,6 +106,27 @@
    "why": {
     "label": "Confirmed",
     "reason": "TCGplayer Q3 2026 GMV #8; also Q2 2026 GMV #7 (Pokemon). PriceCharting ungraded sold rows Oct 22-Nov 1, 2026 cluster ~$270-$350 (sampled, see methodology). GAP-CLOSING step 2 (PriceCharting,\u2026"
+   }
+  },
+  {
+   "id": "me2pt5-284",
+   "name": "Mega Gengar ex",
+   "number": "284",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/284",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 609.35,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Confirmed",
+    "reason": "TCGplayer Q2 2026 GMV #3 (Pokemon). Not in Q3 top 10 \u2014 rank here is Q2-based, hence after the Q3 five."
    }
   },
   {
@@ -79,20 +139,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv08/241",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 12.83,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 12.83,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 12.83,
+     "p": 10.94,
      "s": null,
      "src": "tcgplayer"
     }
@@ -112,20 +160,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv08.5/161",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 1269.69,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 1269.69,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 1269.69,
+     "p": 1186.84,
      "s": null,
      "src": "tcgplayer"
     }
@@ -145,20 +181,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04.5/232",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 863.75,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 863.75,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 863.75,
+     "p": 828.72,
      "s": null,
      "src": "tcgplayer"
     }
@@ -178,20 +202,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv10.5b/172",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 602.79,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 602.79,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 602.79,
+     "p": 577.23,
      "s": null,
      "src": "tcgplayer"
     }
@@ -211,20 +223,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv10.5b/166",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 263.89,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 263.89,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 263.89,
+     "p": 218.91,
      "s": null,
      "src": "tcgplayer"
     }
@@ -244,20 +244,8 @@
    "image": "https://assets.tcgdex.net/en/me/me01/177",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 135.9,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 135.9,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 135.9,
+     "p": 104.29,
      "s": null,
      "src": "tcgplayer"
     }
@@ -277,20 +265,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv08/239",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 179.76,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 179.76,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 179.76,
+     "p": 164.24,
      "s": null,
      "src": "tcgplayer"
     }
@@ -310,20 +286,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv10/230",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 140.2,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 140.2,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 140.2,
+     "p": 126.47,
      "s": null,
      "src": "tcgplayer"
     }
@@ -331,6 +295,27 @@
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1267 x raw price $150.0 = ~$190,050 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
+   }
+  },
+  {
+   "id": "me4-122",
+   "name": "Mega Greninja ex",
+   "number": "122",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/me/me04/122",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 109.59,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 999 x raw price $163.0 = ~$162,837 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
    }
   },
   {
@@ -343,20 +328,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/131",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 76.92,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 76.92,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 76.92,
+     "p": 75.38,
      "s": null,
      "src": "tcgplayer"
     }
@@ -364,33 +337,6 @@
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1628 x raw price $85.0 = ~$138,380 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
-   }
-  },
-  {
-   "id": "xy12-101",
-   "name": "M Charizard-EX",
-   "number": "101",
-   "set": "Evolutions",
-   "setId": "xy12",
-   "rarity": "Rare Holo EX",
-   "image": "https://assets.tcgdex.net/en/xy/xy12/101",
-   "closes": [
-    {
-     "d": "2026-11-05",
-     "p": 125.09,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-07",
-     "p": 125.09,
-     "s": null,
-     "src": "tcgplayer"
-    }
-   ],
-   "why": {
-    "label": "Unknown",
-    "reason": "Midpoint Sep 28, 2026: sales volume 1369 x raw price $98.25 = ~$134,504 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
    }
   },
   {
@@ -403,20 +349,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv10/233",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 73.59,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 73.59,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 73.59,
+     "p": 66.39,
      "s": null,
      "src": "tcgplayer"
     }
@@ -424,6 +358,27 @@
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1186 x raw price $92.5 = ~$109,705 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "me55-150",
+   "name": "Pikachu ex",
+   "number": "150",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/150",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 39.44,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1180 x raw price $87.57 = ~$103,333 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56)\u2026"
    }
   },
   {
@@ -436,20 +391,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/132",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 82.06,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 82.06,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 82.06,
+     "p": 74.69,
      "s": null,
      "src": "tcgplayer"
     }
@@ -457,39 +400,6 @@
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1105 x raw price $84.65 = ~$93,538 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
-   }
-  },
-  {
-   "id": "xy6-76",
-   "name": "M Rayquaza-EX",
-   "number": "76",
-   "set": "Roaring Skies",
-   "setId": "xy6",
-   "rarity": "Classic Collection",
-   "image": "https://assets.tcgdex.net/en/xy/xy6/76",
-   "closes": [
-    {
-     "d": "2026-11-05",
-     "p": 109.75,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 109.75,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-07",
-     "p": 109.75,
-     "s": null,
-     "src": "tcgplayer"
-    }
-   ],
-   "why": {
-    "label": "Unknown",
-    "reason": "Midpoint Sep 28, 2026: sales volume 1873 x raw price $39.58 = ~$74,133 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
    }
   },
   {
@@ -502,20 +412,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/174",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 16.54,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 16.54,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 16.54,
+     "p": 14.24,
      "s": null,
      "src": "tcgplayer"
     }
@@ -523,6 +421,27 @@
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1994 x raw price $19.85 = ~$39,581 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "me55c-108",
+   "name": "Scizor ex",
+   "number": "108",
+   "set": "30th Celebration: Classic Collection",
+   "setId": "me55c",
+   "rarity": "Unknown",
+   "image": "https://assets.tcgdex.net/en/ex/ex10/108",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 190.12,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "Midpoint Sep 28, 2026: sales volume 1756 x raw price $14.44 = ~$25,357 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
    }
   },
   {
@@ -535,20 +454,8 @@
    "image": "https://assets.tcgdex.net/en/me/me02/127",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 16.1,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 16.1,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 16.1,
+     "p": 16.61,
      "s": null,
      "src": "tcgplayer"
     }
@@ -568,14 +475,8 @@
    "image": "https://assets.tcgdex.net/en/me/me02/126",
    "closes": [
     {
-     "d": "2026-11-06",
-     "p": 11.98,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 11.98,
+     "p": 10.52,
      "s": null,
      "src": "tcgplayer"
     }
@@ -595,20 +496,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/173",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 8.91,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 8.91,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 8.91,
+     "p": 71.03,
      "s": null,
      "src": "tcgplayer"
     }
@@ -628,20 +517,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/031",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 10.35,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 10.35,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 10.35,
+     "p": 10.74,
      "s": null,
      "src": "tcgplayer"
     }
@@ -661,20 +538,8 @@
    "image": "https://assets.tcgdex.net/en/me/me02/056",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 2.22,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2.22,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 2.22,
+     "p": 1.65,
      "s": null,
      "src": "tcgplayer"
     }
@@ -694,20 +559,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/030",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 3.57,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3.57,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 3.57,
+     "p": 3.25,
      "s": null,
      "src": "tcgplayer"
     }
@@ -715,6 +568,48 @@
    "why": {
     "label": "Unknown",
     "reason": "Midpoint Sep 28, 2026: sales volume 1318 x raw price $5.11 = ~$6,735 proxy traded value. Volume window NOT stated in source \u2014 proxy only, not a 90-day census. High volume at $3.38 (Gengar 56) vs\u2026"
+   }
+  },
+  {
+   "id": "me2pt5-269",
+   "name": "Mega Gengar ex",
+   "number": "269",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Mega Attack Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/269",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 32.09,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Aug 2026 copies-sold #1 ($50+ band), avg $57.15; also Jul #1 ($59.66) and Jun #1 ($76.62). Copies-sold rank, not GMV."
+   }
+  },
+  {
+   "id": "me5-114",
+   "name": "Mega Zeraora ex",
+   "number": "114",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/114",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 34.0,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Aug 2026 copies-sold #4 ($50+ band), avg $62.97. GAP-CLOSING step 2 (PriceCharting, search-indexed page): 45 clean single-price ungraded sold rows in window 2026-08-03 to 2026-11-02,\u2026"
    }
   },
   {
@@ -727,20 +622,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/044",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 48.55,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 48.55,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 48.55,
+     "p": 51.25,
      "s": null,
      "src": "tcgplayer"
     }
@@ -760,20 +643,8 @@
    "image": "https://assets.tcgdex.net/en/swsh/swshp/SWSH262",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 66.93,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 66.93,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 66.93,
+     "p": 65.64,
      "s": null,
      "src": "tcgplayer"
     }
@@ -781,6 +652,69 @@
    "why": {
     "label": "Unknown",
     "reason": "TCGplayer Aug 2026 copies-sold #5 ($50+ band), avg $73.14. GAP-CLOSING step 2 (PriceCharting, search-indexed page): 48 clean single-price ungraded sold rows in window 2026-08-03 to 2026-11-01,\u2026"
+   }
+  },
+  {
+   "id": "me2pt5-271",
+   "name": "Mega Dragonite ex",
+   "number": "271",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Mega Attack Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/271",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 22.42,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Jun 2026 copies-sold #2 ($50+ band), avg $56.45."
+   }
+  },
+  {
+   "id": "me4-119",
+   "name": "Cinccino ex",
+   "number": "119",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me04/119",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 37.33,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Jul 2026 copies-sold #4 ($50+ band), avg $68.15. GAP-CLOSING step 2 (PriceCharting, search-indexed page): 50 clean single-price ungraded sold rows in window 2026-08-03 to 2026-11-02,\u2026"
+   }
+  },
+  {
+   "id": "me2pt5-226",
+   "name": "Psyduck",
+   "number": "226",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/226",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 40.43,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Jul 2026 copies-sold #5 ($50+ band), avg $76.37; Midpoint Sep 28 price $48.88 \u2014 price fell. GAP-CLOSING step 2 (PriceCharting, search-indexed page): 42 clean single-price ungraded sold\u2026"
    }
   },
   {
@@ -793,20 +727,8 @@
    "image": "https://assets.tcgdex.net/en/sv/svp/053",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 63.76,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 63.76,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 63.76,
+     "p": 60.98,
      "s": null,
      "src": "tcgplayer"
     }
@@ -814,6 +736,111 @@
    "why": {
     "label": "Unknown",
     "reason": "TCGplayer Jun 2026 copies-sold #5 ($50+ band), avg $81.46 (151 Ultra-Premium Collection promo). GAP-CLOSING step 2 (PriceCharting, search-indexed page): 52 clean single-price ungraded sold rows in\u2026"
+   }
+  },
+  {
+   "id": "me5-29",
+   "name": "Slowpoke",
+   "number": "29",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Cosmos Holo",
+   "image": "https://assets.tcgdex.net/en/me/me05/029",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 0.18,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Aug 2026 copies-sold #1 ($1-49.99 band), avg $1.82; TCGplayer itself flags demand as largely non-organic (copies/buyer never below 5.8 in Aug). High copies, tiny traded value \u2014 included\u2026"
+   }
+  },
+  {
+   "id": "me3-62",
+   "name": "Meowth ex",
+   "number": "62",
+   "set": "Perfect Order",
+   "setId": "me3",
+   "rarity": "Double Rare",
+   "image": "https://assets.tcgdex.net/en/me/me03/062",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 1.93,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Q3 + Q2 unique-buyer #1/#2; monthly copies-sold #1-$1-49.99 band Jun ($3.49), Jul ($2.52), Aug ($2.34). Playable staple: copies high, price low, traded value modest."
+   }
+  },
+  {
+   "id": "me5-65",
+   "name": "Mega Excadrill ex",
+   "number": "65",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Double Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/065",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 0.5,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Aug 2026 copies-sold #4 ($1-49.99 band), avg $1.00."
+   }
+  },
+  {
+   "id": "me4-3",
+   "name": "Beedrill ex",
+   "number": "3",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Double Rare",
+   "image": "https://assets.tcgdex.net/en/me/me04/003",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 0.53,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Jun 2026 copies-sold #5 ($1-49.99 band), avg $1.31."
+   }
+  },
+  {
+   "id": "me3-81",
+   "name": "Poke Pad",
+   "number": "81",
+   "set": "Perfect Order",
+   "setId": "me3",
+   "rarity": "Trainer",
+   "image": "https://assets.tcgdex.net/en/me/me03/081",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 0.22,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Q3 2026 unique-buyer #1 ($0.28) and Q2 #2. Unique buyers, NOT copies \u2014 cannot compute traded value; $0.28 price caps it regardless of buyer count. GAP-CLOSING step 2 (PriceCharting,\u2026"
    }
   },
   {
@@ -826,20 +853,8 @@
    "image": "https://assets.tcgdex.net/en/me/me01/119",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 0.31,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 0.31,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 0.31,
+     "p": 0.21,
      "s": null,
      "src": "tcgplayer"
     }
@@ -847,6 +862,132 @@
    "why": {
     "label": "Unknown",
     "reason": "TCGplayer Q3 2026 unique-buyer #4 ($0.35) and Q2 #3. Unique buyers only."
+   }
+  },
+  {
+   "id": "me4-82",
+   "name": "Special Red Card",
+   "number": "82",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Trainer",
+   "image": "https://assets.tcgdex.net/en/me/me04/082",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 0.13,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Q3 2026 unique-buyer #6 ($0.16). Unique buyers only."
+   }
+  },
+  {
+   "id": "me5-48",
+   "name": "Mega Darkrai ex",
+   "number": "48",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Double Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/048",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 0.51,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Q3 2026 unique-buyer #9 ($0.73) \u2014 the REGULAR print, distinct from SIR 116 (direct tier)."
+   }
+  },
+  {
+   "id": "me5-85",
+   "name": "Fomantis",
+   "number": "85",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/085",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 1.84,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "TCGplayer Q3 2026 unique-buyer #10 ($2.05)."
+   }
+  },
+  {
+   "id": "me55-R",
+   "name": "Mew",
+   "number": "R",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "RGB Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/R",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 4492.45,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 unnumbered RGB Mew (Red). Provisional synthetic id cel30-R; no confirmed pokemontcg.io id found in this pass. Price ~$4,679 (Oct 30) is NOT traded value: TCG Pulse reports sales\u2026"
+   }
+  },
+  {
+   "id": "me55-B",
+   "name": "Mew",
+   "number": "B",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "RGB Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/B",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 4263.6,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 unnumbered RGB Mew (Blue). Provisional synthetic id cel30-B. Price ~$4,153 (Oct 30) is NOT traded value; thin sales. Image null."
+   }
+  },
+  {
+   "id": "me55-G",
+   "name": "Mew",
+   "number": "G",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "RGB Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/G",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 3164.4,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 unnumbered RGB Mew (Green). Provisional synthetic id cel30-G. Price ~$3,551 (Oct 30) is NOT traded value; thin sales. Image null."
    }
   },
   {
@@ -859,20 +1000,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04.5/234",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 256.92,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 256.92,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 256.92,
+     "p": 260.36,
      "s": null,
      "src": "tcgplayer"
     }
@@ -892,20 +1021,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv06/214",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 317.44,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 317.44,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 317.44,
+     "p": 232.33,
      "s": null,
      "src": "tcgplayer"
     }
@@ -925,20 +1042,8 @@
    "image": "https://assets.tcgdex.net/en/me/me02/130",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 205.11,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 205.11,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 205.11,
+     "p": 185.38,
      "s": null,
      "src": "tcgplayer"
     }
@@ -958,20 +1063,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/200",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 112.6,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 112.6,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 112.6,
+     "p": 105.41,
      "s": null,
      "src": "tcgplayer"
     }
@@ -979,6 +1072,27 @@
    "why": {
     "label": "Unknown",
     "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "me5-120",
+   "name": "Mega Darkrai ex",
+   "number": "120",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Mega Hyper Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/120",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 114.07,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Gold print; high price, thin sales expected \u2014 price is not traded value."
    }
   },
   {
@@ -991,20 +1105,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/198",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 92.52,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 92.52,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 92.52,
+     "p": 87.57,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1024,20 +1126,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/202",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 82.47,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 82.47,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 82.47,
+     "p": 68.09,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1045,39 +1135,6 @@
    "why": {
     "label": "Unknown",
     "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
-   }
-  },
-  {
-   "id": "sv1-245",
-   "name": "Gardevoir ex",
-   "number": "245",
-   "set": "Scarlet & Violet",
-   "setId": "sv1",
-   "rarity": "Special Illustration Rare",
-   "image": "https://assets.tcgdex.net/en/sv/sv01/245",
-   "closes": [
-    {
-     "d": "2026-11-05",
-     "p": 67.89,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 67.89,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-07",
-     "p": 67.89,
-     "s": null,
-     "src": "tcgplayer"
-    }
-   ],
-   "why": {
-    "label": "Unknown",
-    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file. [Lane C pointer APPLY: draft id sv1-233 is Iron\u2026"
    }
   },
   {
@@ -1090,20 +1147,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/201",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 58.0,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 58.0,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 58.0,
+     "p": 54.6,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1111,6 +1156,27 @@
    "why": {
     "label": "Unknown",
     "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "me5-117",
+   "name": "Morpeko ex",
+   "number": "117",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/117",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 56.02,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Pitch Black SIR."
    }
   },
   {
@@ -1123,20 +1189,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv05/193",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 50.43,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 50.43,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 50.43,
+     "p": 50.28,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1156,20 +1210,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv05/206",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 50.2,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 50.2,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 50.2,
+     "p": 43.47,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1189,20 +1231,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv05/205",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 39.53,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 39.53,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 39.53,
+     "p": 38.15,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1222,20 +1252,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/183",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 36.85,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 36.85,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 36.85,
+     "p": 36.21,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1243,6 +1261,69 @@
    "why": {
     "label": "Unknown",
     "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+   }
+  },
+  {
+   "id": "me55-158",
+   "name": "Mew ex",
+   "number": "158",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Futuristic Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/158",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 33.42,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
+   }
+  },
+  {
+   "id": "me5-115",
+   "name": "Mega Chandelure ex",
+   "number": "115",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/115",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 28.31,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Pitch Black SIR."
+   }
+  },
+  {
+   "id": "me55-155",
+   "name": "Jirachi ex",
+   "number": "155",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/155",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 28.51,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
    }
   },
   {
@@ -1255,20 +1336,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04/245",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 32.53,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 32.53,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 32.53,
+     "p": 30.39,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1288,20 +1357,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04/251",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 30.6,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 30.6,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 30.6,
+     "p": 27.13,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1321,14 +1378,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04.5/216",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 28.91,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 28.91,
+     "p": 37.96,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1336,6 +1387,69 @@
    "why": {
     "label": "Unknown",
     "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 51 clean sold rows, median $32.99, observed $1,682.49 (floor). Replacement for vacant rank 95; identity verified via pokemontcg.io.\u2026"
+   }
+  },
+  {
+   "id": "me55-153",
+   "name": "Sylveon ex",
+   "number": "153",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/153",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 33.85,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
+   }
+  },
+  {
+   "id": "me55-157",
+   "name": "Mewtwo ex",
+   "number": "157",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Futuristic Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/157",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 26.13,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
+   }
+  },
+  {
+   "id": "me55-149",
+   "name": "Pikachu ex",
+   "number": "149",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/149",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 33.49,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
    }
   },
   {
@@ -1348,20 +1462,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/205",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 25.04,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 25.04,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 25.04,
+     "p": 22.48,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1381,20 +1483,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv05/203",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 30.97,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 30.97,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 30.97,
+     "p": 29.95,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1414,20 +1504,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04.5/237",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 23.99,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 23.99,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 23.99,
+     "p": 21.64,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1447,14 +1525,8 @@
    "image": "https://assets.tcgdex.net/en/ex/ex1/96",
    "closes": [
     {
-     "d": "2026-11-06",
-     "p": 90.62,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 90.62,
+     "p": 105.69,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1462,6 +1534,27 @@
    "why": {
     "label": "Unknown",
     "reason": "PriceCharting 90-day observed (Aug 3-Nov 2, 2026): 23 clean sold rows, median $61.00, observed $1,403.00 (census). Replacement for vacant rank 78; identity verified via pokemontcg.io.\u2026"
+   }
+  },
+  {
+   "id": "me4-118",
+   "name": "Mega Dragalge ex",
+   "number": "118",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me04/118",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 21.46,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Chaos Rising SIR (Midpoint decliners list)."
    }
   },
   {
@@ -1474,20 +1567,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv04/249",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 20.32,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 20.32,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 20.32,
+     "p": 19.51,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1507,20 +1588,8 @@
    "image": "https://assets.tcgdex.net/en/me/me02/109",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 20.93,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 20.93,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 20.93,
+     "p": 19.56,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1528,6 +1597,27 @@
    "why": {
     "label": "Unknown",
     "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Phantasmal Flames UR print (Bulbapedia set list)."
+   }
+  },
+  {
+   "id": "me55-156",
+   "name": "Salamence ex",
+   "number": "156",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/156",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 10.88,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
    }
   },
   {
@@ -1540,20 +1630,8 @@
    "image": "https://assets.tcgdex.net/en/sv/sv03.5/203",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 16.64,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 16.64,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 16.64,
+     "p": 14.52,
      "s": null,
      "src": "tcgplayer"
     }
@@ -1564,63 +1642,276 @@
    }
   },
   {
-   "id": "sv1-238",
-   "name": "Miriam",
-   "number": "238",
-   "set": "Scarlet & Violet",
-   "setId": "sv1",
+   "id": "me55-148",
+   "name": "Greninja ex",
+   "number": "148",
+   "set": "30th Celebration",
+   "setId": "me55",
    "rarity": "Special Illustration Rare",
-   "image": "https://assets.tcgdex.net/en/sv/sv01/238",
+   "image": "https://assets.tcgdex.net/en/me/30th/148",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 4.5,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 4.5,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 4.5,
+     "p": 13.86,
      "s": null,
      "src": "tcgplayer"
     }
    ],
    "why": {
     "label": "Unknown",
-    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
    }
   },
   {
-   "id": "sv1-227",
-   "name": "Miraidon ex",
-   "number": "227",
-   "set": "Scarlet & Violet",
-   "setId": "sv1",
-   "rarity": "Special Illustration Rare",
-   "image": "https://assets.tcgdex.net/en/sv/sv01/227",
+   "id": "me2pt5-218",
+   "name": "Erika's Tangela",
+   "number": "218",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/218",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 2.31,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2.31,
+     "d": "2026-11-07",
+     "p": 10.48,
      "s": null,
      "src": "tcgplayer"
     }
    ],
    "why": {
     "label": "Unknown",
-    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV-era chase pool. Secret-rare numbers provisional unless source-anchored elsewhere in this file."
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Ascended Heroes IR (Midpoint decliners list; number above main run 217)."
+   }
+  },
+  {
+   "id": "me55-147",
+   "name": "Fuecoco ex",
+   "number": "147",
+   "set": "30th Celebration",
+   "setId": "me55",
+   "rarity": "Special Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/30th/147",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 9.22,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. 30th Celebration was TCGplayer Q3 #1 new set by GMV (sealed+singles). SIR/Futuristic numbers 147-158 per Bill's Archive/Cardrake."
+   }
+  },
+  {
+   "id": "me3-94",
+   "name": "Clefairy",
+   "number": "94",
+   "set": "Perfect Order",
+   "setId": "me3",
+   "rarity": "Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me03/094",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 13.54,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Perfect Order IR (Midpoint decliners list)."
+   }
+  },
+  {
+   "id": "me5-109",
+   "name": "Gwynn",
+   "number": "109",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/109",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 5.2,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Pitch Black UR (Midpoint decliners list)."
+   }
+  },
+  {
+   "id": "me5-101",
+   "name": "Mega Darkrai ex",
+   "number": "101",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/101",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 6.41,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Pitch Black UR print of the direct-tier SIR."
+   }
+  },
+  {
+   "id": "me2pt5-265",
+   "name": "Mega Froslass ex",
+   "number": "265",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Mega Attack Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/265",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 5.15,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. MAR run 265-271 per TCGdex PR #2381."
+   }
+  },
+  {
+   "id": "me5-98",
+   "name": "Mega Zeraora ex",
+   "number": "98",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Ultra Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/098",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 5.29,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Pitch Black UR print."
+   }
+  },
+  {
+   "id": "me5-90",
+   "name": "Slowbro",
+   "number": "90",
+   "set": "Pitch Black",
+   "setId": "me5",
+   "rarity": "Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me05/090",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 5.21,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Pitch Black IR (Midpoint decliners list)."
+   }
+  },
+  {
+   "id": "me4-91",
+   "name": "Xerneas",
+   "number": "91",
+   "set": "Chaos Rising",
+   "setId": "me4",
+   "rarity": "Illustration Rare",
+   "image": "https://assets.tcgdex.net/en/me/me04/091",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 4.16,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. Chaos Rising IR (Midpoint decliners list)."
+   }
+  },
+  {
+   "id": "me2pt5-267",
+   "name": "Mega Diancie ex",
+   "number": "267",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Mega Attack Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/267",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 4.68,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. MAR run 265-271."
+   }
+  },
+  {
+   "id": "svp-203",
+   "name": "Team Rocket's Wobbuffet",
+   "number": "203",
+   "set": "Scarlet & Violet Black Star Promos",
+   "setId": "svp",
+   "rarity": "Promo",
+   "image": "https://assets.tcgdex.net/en/sv/svp/203",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 4.04,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. SV promo (Midpoint decliners list)."
+   }
+  },
+  {
+   "id": "me2pt5-266",
+   "name": "Mega Eelektross ex",
+   "number": "266",
+   "set": "Ascended Heroes",
+   "setId": "me2pt5",
+   "rarity": "Mega Attack Rare",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/266",
+   "closes": [
+    {
+     "d": "2026-11-07",
+     "p": 2.8,
+     "s": null,
+     "src": "tcgplayer"
+    }
+   ],
+   "why": {
+    "label": "Unknown",
+    "reason": "GAP POOL ONLY \u2014 no sales evidence in this pass. MAR run 265-271."
    }
   },
   {
@@ -1633,20 +1924,8 @@
    "image": "https://assets.tcgdex.net/en/swsh/swsh12.5/095",
    "closes": [
     {
-     "d": "2026-11-05",
-     "p": 0.97,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
-     "d": "2026-11-06",
-     "p": 0.97,
-     "s": null,
-     "src": "tcgplayer"
-    },
-    {
      "d": "2026-11-07",
-     "p": 0.97,
+     "p": 0.92,
      "s": null,
      "src": "tcgplayer"
     }
