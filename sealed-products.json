@@ -794,7 +794,8 @@
     "releaseDate": "2015-08-12",
     "msrpUSD": 39.99,
     "upc": "820650800337",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy07-etb.jpg"
   },
   {
     "id": "xy08-mewtwox-etb",
@@ -806,7 +807,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with XY — BREAKthrough Elite Trainer Box (Mega Mewtwo Y); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy08-mewtwox-etb.jpg"
   },
   {
     "id": "xy08-mewtwoy-etb",
@@ -818,7 +820,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with XY — BREAKthrough Elite Trainer Box (Mega Mewtwo X); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy08-mewtwoy-etb.jpg"
   },
   {
     "id": "xy09-etb",
@@ -829,7 +832,8 @@
     "releaseDate": "2016-02-03",
     "msrpUSD": 39.99,
     "upc": "820650800795",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy09-etb.jpg"
   },
   {
     "id": "xy10-etb",
@@ -840,7 +844,8 @@
     "releaseDate": "2016-05-02",
     "msrpUSD": 39.99,
     "upc": "820650801235",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy10-etb.jpg"
   },
   {
     "id": "xy11-generations-etb",
@@ -851,7 +856,8 @@
     "releaseDate": "2016-02-22",
     "msrpUSD": 49.99,
     "upc": "820650801488",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy11-generations-etb.jpg"
   },
   {
     "id": "xy11-steamsiege-etb",
@@ -874,7 +880,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares UPC 820650801655 with XY — Evolutions Elite Trainer Box (Mega Blastoise); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy12-charizard-etb.jpg"
   },
   {
     "id": "xy12-blastoise-etb",
@@ -886,7 +893,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares UPC 820650801655 with XY — Evolutions Elite Trainer Box (Mega Charizard Y); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy12-blastoise-etb.jpg"
   },
   {
     "id": "bw08-plasmastorm-etb",
@@ -921,7 +929,8 @@
     "msrpUSD": 59.99,
     "upc": "",
     "upcNote": "Shares a barcode with Mega Evolution — Mega Evolution Elite Trainer Box (Mega Lucario); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me01-gardevoir-etb.jpg"
   },
   {
     "id": "me01-lucario-etb",
@@ -933,7 +942,8 @@
     "msrpUSD": 59.99,
     "upc": "",
     "upcNote": "Shares a barcode with Mega Evolution — Mega Evolution Elite Trainer Box (Mega Gardevoir); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me01-lucario-etb.jpg"
   },
   {
     "id": "me02-etb",
@@ -944,7 +954,8 @@
     "releaseDate": "2025-11-14",
     "msrpUSD": 59.99,
     "upc": "196214124813",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me02-etb.jpg"
   },
   {
     "id": "me03-etb",
@@ -955,7 +966,8 @@
     "releaseDate": "2026-01-30",
     "msrpUSD": 59.99,
     "upc": "196214132474",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me03-etb.jpg"
   },
   {
     "id": "me04-etb",
@@ -966,7 +978,8 @@
     "releaseDate": "2026-04-24",
     "msrpUSD": 59.99,
     "upc": "196214152038",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me04-etb.jpg"
   },
   {
     "id": "me05-etb",
@@ -977,7 +990,8 @@
     "releaseDate": "2026-06-19",
     "msrpUSD": 59.99,
     "upc": "196214154117",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me05-etb.jpg"
   },
   {
     "id": "me06-etb",
@@ -988,7 +1002,8 @@
     "releaseDate": "2026-08-14",
     "msrpUSD": 59.99,
     "upc": "196214157422",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me06-etb.jpg"
   },
   {
     "id": "me30th-etb",
@@ -1012,7 +1027,8 @@
     "msrpUSD": 69.99,
     "upc": "820650853425",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv01-pc-koraidon-etb.jpg"
   },
   {
     "id": "sv01-pc-miraidon-etb",
@@ -1024,7 +1040,8 @@
     "msrpUSD": 69.99,
     "upc": "0820650854576",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv01-pc-miraidon-etb.jpg"
   },
   {
     "id": "sv02-pc-etb",
@@ -1036,7 +1053,8 @@
     "msrpUSD": 69.99,
     "upc": "0820650853678",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv02-pc-etb.jpg"
   },
   {
     "id": "sv03-pc-etb",
@@ -1089,7 +1107,8 @@
     "upc": "",
     "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv45-pc-etb.jpg"
   },
   {
     "id": "sv05-pc-etb",
@@ -1114,7 +1133,8 @@
     "msrpUSD": 69.99,
     "upc": "820650857997",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv06-pc-etb.jpg"
   },
   {
     "id": "sv07-pc-etb",
@@ -1126,7 +1146,8 @@
     "msrpUSD": 69.99,
     "upc": "820650859236",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv07-pc-etb.jpg"
   },
   {
     "id": "sv08-pc-surging-etb",
@@ -1138,7 +1159,8 @@
     "msrpUSD": 69.99,
     "upc": "820650879531",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv08-pc-surging-etb.jpg"
   },
   {
     "id": "sv08pt5-pc-prismatic-etb",
@@ -1150,7 +1172,8 @@
     "msrpUSD": 69.99,
     "upc": "196214105195",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv08pt5-pc-prismatic-etb.jpg"
   },
   {
     "id": "sv09-pc-etb",
@@ -1176,7 +1199,8 @@
     "upc": "",
     "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv10-pc-etb.jpg"
   },
   {
     "id": "swsh06-pc-etb",
@@ -1214,7 +1238,8 @@
     "msrpUSD": 59.99,
     "upc": "820650809866",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh25-pc-etb.jpg"
   },
   {
     "id": "swsh08-pc-etb",
@@ -1226,7 +1251,8 @@
     "msrpUSD": 59.99,
     "upc": "820650809941",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh08-pc-etb.jpg"
   },
   {
     "id": "swsh09-pc-etb",
@@ -1238,7 +1264,8 @@
     "msrpUSD": 59.99,
     "upc": "820650850066",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh09-pc-etb.jpg"
   },
   {
     "id": "swsh11-pc-etb",
@@ -1250,7 +1277,8 @@
     "msrpUSD": 59.99,
     "upc": "820650851353",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh11-pc-etb.jpg"
   },
   {
     "id": "swsh12-pc-etb",
@@ -1262,7 +1290,8 @@
     "msrpUSD": 59.99,
     "upc": "820650851629",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh12-pc-etb.jpg"
   },
   {
     "id": "swsh125-pc-etb",
@@ -1274,7 +1303,8 @@
     "msrpUSD": 59.99,
     "upc": "820650851872",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh125-pc-etb.jpg"
   },
   {
     "genre": "yugioh",
@@ -2906,7 +2936,8 @@
     "set": "",
     "setId": "",
     "type": "collection",
-    "upc": "196214156647"
+    "upc": "196214156647",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/pkm-deck-crafters-collection-2026.png"
   },
   {
     "genre": "onepiece",
