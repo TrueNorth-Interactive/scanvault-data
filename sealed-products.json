@@ -974,7 +974,8 @@
     "releaseDate": "2026-10-02",
     "msrpUSD": 149.99,
     "upc": "196214158801",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me30th-etb.png"
   },
   {
     "id": "sv01-pc-koraidon-etb",
@@ -2483,7 +2484,8 @@
     "set": "Marvel's Spider-Man",
     "setId": "spm",
     "type": "bundle",
-    "upc": "195166290034"
+    "upc": "195166290034",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-spm-gift.png"
   },
   {
     "genre": "mtg",
@@ -2602,7 +2604,8 @@
     "set": "Marvel Super Heroes",
     "setId": "msh",
     "type": "bundle",
-    "upc": "195166315423"
+    "upc": "195166315423",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-msh-gift.png"
   },
   {
     "genre": "mtg",
@@ -2829,7 +2832,8 @@
     "set": "Delta Reign",
     "setId": "me06",
     "type": "etb",
-    "upc": "196214165809"
+    "upc": "196214165809",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me06-deltareign-etb.png"
   },
   {
     "genre": "onepiece",
@@ -3219,7 +3223,8 @@
     "set": "Battles of Legend: Glorious Gallery",
     "setId": "blgg",
     "type": "booster-box",
-    "upc": "083717871941"
+    "upc": "083717871941",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-blgg-booster-box.png"
   },
   {
     "genre": "yugioh",
@@ -3230,6 +3235,7 @@
     "set": "Magnificent Monsters",
     "setId": "mamo",
     "type": "box",
-    "upc": "083717873037"
+    "upc": "083717873037",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-mamo-box.png"
   }
 ]
