@@ -190,7 +190,8 @@
     "set": "Journey Together",
     "setId": "sv09",
     "type": "etb",
-    "upc": "196214108554"
+    "upc": "196214108554",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv09-journeytogether-etb.jpg"
   },
   {
     "genre": "pokemon",
@@ -425,7 +426,8 @@
     "releaseDate": "2022-02-25",
     "msrpUSD": 39.99,
     "upc": "820650850127",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh09-etb.jpg"
   },
   {
     "id": "swsh10-etb",
@@ -436,7 +438,8 @@
     "releaseDate": "2022-05-27",
     "msrpUSD": 49.99,
     "upc": "820650850394",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh10-etb.jpg"
   },
   {
     "id": "swsh105-pogo-etb",
@@ -496,7 +499,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with Sun & Moon — Sun & Moon Elite Trainer Box (Lunala); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm01-solgaleo-etb.jpg"
   },
   {
     "id": "sm01-lunala-etb",
@@ -508,7 +512,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with Sun & Moon — Sun & Moon Elite Trainer Box (Solgaleo); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm01-lunala-etb.jpg"
   },
   {
     "id": "sm02-etb",
@@ -519,7 +524,8 @@
     "releaseDate": "2017-05-05",
     "msrpUSD": 39.99,
     "upc": "820650802263",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm02-etb.jpg"
   },
   {
     "id": "sm03-etb",
@@ -530,7 +536,8 @@
     "releaseDate": "2017-08-04",
     "msrpUSD": 39.99,
     "upc": "820650802416",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm03-etb.jpg"
   },
   {
     "id": "sm35-shininglegends-etb",
@@ -541,7 +548,8 @@
     "releaseDate": "2017-10-06",
     "msrpUSD": 39.99,
     "upc": "820650803192",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm35-shininglegends-etb.jpg"
   },
   {
     "id": "sm04-etb",
@@ -552,7 +560,8 @@
     "releaseDate": "2017-11-03",
     "msrpUSD": 39.99,
     "upc": "820650802607",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm04-etb.jpg"
   },
   {
     "id": "sm05-duskmane-etb",
@@ -564,7 +573,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with Sun & Moon — Ultra Prism Elite Trainer Box (Dawn Wings Necrozma); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm05-duskmane-etb.jpg"
   },
   {
     "id": "sm05-dawnwings-etb",
@@ -576,7 +586,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with Sun & Moon — Ultra Prism Elite Trainer Box (Dusk Mane Necrozma); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm05-dawnwings-etb.jpg"
   },
   {
     "id": "sm06-etb",
@@ -587,7 +598,8 @@
     "releaseDate": "2018-05-04",
     "msrpUSD": 39.99,
     "upc": "820650804335",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm06-etb.jpg"
   },
   {
     "id": "sm07-etb",
@@ -598,7 +610,8 @@
     "releaseDate": "2018-08-03",
     "msrpUSD": 39.99,
     "upc": "820650804502",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm07-etb.jpg"
   },
   {
     "id": "sm75-dragonmajesty-etb",
@@ -609,7 +622,8 @@
     "releaseDate": "2018-09-07",
     "msrpUSD": 39.99,
     "upc": "820650804793",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm75-dragonmajesty-etb.jpg"
   },
   {
     "id": "sm08-etb",
@@ -620,7 +634,8 @@
     "releaseDate": "2018-11-02",
     "msrpUSD": 39.99,
     "upc": "820650804670",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm08-etb.jpg"
   },
   {
     "id": "sm09-etb",
@@ -631,7 +646,8 @@
     "releaseDate": "2019-02-01",
     "msrpUSD": 39.99,
     "upc": "820650804984",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm09-etb.jpg"
   },
   {
     "id": "sm10-etb",
@@ -642,7 +658,8 @@
     "releaseDate": "2019-05-03",
     "msrpUSD": 39.99,
     "upc": "820650805639",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm10-etb.jpg"
   },
   {
     "id": "sm11-etb",
@@ -653,7 +670,8 @@
     "releaseDate": "2019-08-02",
     "msrpUSD": 39.99,
     "upc": "820650805844",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sm11-etb.jpg"
   },
   {
     "id": "sm115-hiddenfates-etb",
@@ -689,7 +707,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with XY — XY Elite Trainer Box (Yveltal); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy01-xerneas-etb.jpg"
   },
   {
     "id": "xy01-yveltal-etb",
@@ -701,7 +720,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with XY — XY Elite Trainer Box (Xerneas); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy01-yveltal-etb.jpg"
   },
   {
     "id": "xy03-etb",
@@ -712,7 +732,8 @@
     "releaseDate": "2014-08-13",
     "msrpUSD": 39.99,
     "upc": "820650109317",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy03-etb.jpg"
   },
   {
     "id": "xy04-etb",
@@ -723,7 +744,8 @@
     "releaseDate": "2014-11-05",
     "msrpUSD": 39.99,
     "upc": "820650109416",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy04-etb.jpg"
   },
   {
     "id": "xy05-groudon-etb",
@@ -735,7 +757,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with XY — Primal Clash Elite Trainer Box (Primal Kyogre); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy05-groudon-etb.jpg"
   },
   {
     "id": "xy05-kyogre-etb",
@@ -747,7 +770,8 @@
     "msrpUSD": 39.99,
     "upc": "",
     "upcNote": "Shares a barcode with XY — Primal Clash Elite Trainer Box (Primal Groudon); UPC blanked so a scan never files the wrong variant.",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy05-kyogre-etb.jpg"
   },
   {
     "id": "xy06-etb",
@@ -758,7 +782,8 @@
     "releaseDate": "2015-05-06",
     "msrpUSD": 39.99,
     "upc": "820650800276",
-    "genre": "pokemon"
+    "genre": "pokemon",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/xy06-etb.jpg"
   },
   {
     "id": "xy07-etb",
