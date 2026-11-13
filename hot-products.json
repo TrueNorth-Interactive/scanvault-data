@@ -27,6 +27,18 @@
   ],
   "mtg": [
     {
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-trk-bundle.png",
+      "name": "Star Trek Bundle",
+      "q": "magic the gathering star trek bundle",
+      "tag": "Hot"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-trk-beammeup.webp",
+      "name": "Star Trek Beam Me Up Bundle",
+      "q": "magic the gathering star trek beam me up bundle",
+      "tag": "Hot"
+    },
+    {
       "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fra-secretlair.jpg",
       "name": "Reality Fracture Secret Lair Bundle",
       "q": "magic the gathering reality fracture secret lair bundle",
@@ -36,18 +48,6 @@
       "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-festival-in-a-box-atlanta-2026.jpg",
       "name": "Festival in a Box: Atlanta 2026",
       "q": "magic the gathering festival in a box atlanta 2026",
-      "tag": "Hot"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-fra-bundle.jpg",
-      "name": "Reality Fracture Bundle",
-      "q": "magic the gathering reality fracture bundle",
-      "tag": "Hot"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/mtg-hob-bundle.webp",
-      "name": "The Hobbit Bundle",
-      "q": "magic the gathering the hobbit bundle",
       "tag": "Hot"
     }
   ],
@@ -105,6 +105,12 @@
   ],
   "yugioh": [
     {
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ygo-magnificent-maestros-box.jpg",
+      "name": "Magnificent Maestros Box",
+      "q": "yugioh magnificent maestros box",
+      "tag": "Hot"
+    },
+    {
       "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/ygo-beyond-the-brave-box.jpg",
       "name": "Beyond the Brave Booster Box",
       "q": "yugioh beyond the brave booster box",
@@ -120,12 +126,6 @@
       "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2024-dueling-mirrors.jpg",
       "name": "Yu-Gi-Oh! 25th Anniversary Tin: Dueling Mirrors",
       "q": "yugioh yu gi oh 25th anniversary tin dueling mirrors",
-      "tag": "Hot"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2023-dueling-heroes.jpg",
-      "name": "Yu-Gi-Oh! 25th Anniversary Tin: Dueling Heroes",
-      "q": "yugioh yu gi oh 25th anniversary tin dueling heroes",
       "tag": "Hot"
     }
   ],
@@ -156,5 +156,5 @@
     }
   ],
   "note": "Home Hot Products, per genre. Refreshed daily by the hot-products watcher: newest released sealed products with verified art, per genre. Not a sales ranking -- no free source publishes one this machine can read.",
-  "updated": "2026-11-04"
+  "updated": "2026-11-13"
 }
