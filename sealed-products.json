@@ -1084,8 +1084,8 @@
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv35-pc-151-etb.jpg"
   },
   {
-    "id": "sv04-pc-etb",
-    "name": "Scarlet & Violet — Paradox Rift Pokémon Center Elite Trainer Box",
+    "id": "sv04-pc-ironvaliant-etb",
+    "name": "Scarlet & Violet — Paradox Rift Pokémon Center Elite Trainer Box (Iron Valiant)",
     "set": "Paradox Rift",
     "setId": "sv04",
     "type": "etb",
@@ -1094,7 +1094,22 @@
     "upc": "",
     "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv04-pc-ironvaliant-etb.jpg"
+  },
+  {
+    "id": "sv04-pc-roaringmoon-etb",
+    "name": "Scarlet & Violet — Paradox Rift Pokémon Center Elite Trainer Box (Roaring Moon)",
+    "set": "Paradox Rift",
+    "setId": "sv04",
+    "type": "etb",
+    "releaseDate": "2023-11-03",
+    "msrpUSD": 69.99,
+    "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
+    "genre": "pokemon",
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv04-pc-roaringmoon-etb.jpg"
   },
   {
     "id": "sv45-pc-etb",
@@ -1111,8 +1126,8 @@
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv45-pc-etb.jpg"
   },
   {
-    "id": "sv05-pc-etb",
-    "name": "Scarlet & Violet — Temporal Forces Pokémon Center Elite Trainer Box",
+    "id": "sv05-pc-ironleaves-etb",
+    "name": "Scarlet & Violet — Temporal Forces Pokémon Center Elite Trainer Box (Iron Leaves)",
     "set": "Temporal Forces",
     "setId": "sv05",
     "type": "etb",
@@ -1121,7 +1136,22 @@
     "upc": "",
     "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv05-pc-ironleaves-etb.jpg"
+  },
+  {
+    "id": "sv05-pc-walkingwake-etb",
+    "name": "Scarlet & Violet — Temporal Forces Pokémon Center Elite Trainer Box (Walking Wake)",
+    "set": "Temporal Forces",
+    "setId": "sv05",
+    "type": "etb",
+    "releaseDate": "2024-03-22",
+    "msrpUSD": 69.99,
+    "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
+    "genre": "pokemon",
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv05-pc-walkingwake-etb.jpg"
   },
   {
     "id": "sv06-pc-etb",
@@ -1203,8 +1233,8 @@
     "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv10-pc-etb.jpg"
   },
   {
-    "id": "swsh06-pc-etb",
-    "name": "Sword & Shield — Chilling Reign Pokémon Center Elite Trainer Box",
+    "id": "swsh06-pc-icerider-etb",
+    "name": "Sword & Shield — Chilling Reign Pokémon Center Elite Trainer Box (Ice Rider Calyrex)",
     "set": "Chilling Reign",
     "setId": "swsh06",
     "type": "etb",
@@ -1213,11 +1243,26 @@
     "upc": "",
     "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh06-pc-icerider-etb.jpg"
   },
   {
-    "id": "swsh07-pc-etb",
-    "name": "Sword & Shield — Evolving Skies Pokémon Center Elite Trainer Box",
+    "id": "swsh06-pc-shadowrider-etb",
+    "name": "Sword & Shield — Chilling Reign Pokémon Center Elite Trainer Box (Shadow Rider Calyrex)",
+    "set": "Chilling Reign",
+    "setId": "swsh06",
+    "type": "etb",
+    "releaseDate": "2021-06-18",
+    "msrpUSD": 59.99,
+    "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
+    "genre": "pokemon",
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh06-pc-shadowrider-etb.jpg"
+  },
+  {
+    "id": "swsh07-pc-espeon-etb",
+    "name": "Sword & Shield — Evolving Skies Pokémon Center Elite Trainer Box (Vaporeon/Espeon/Glaceon/Sylveon)",
     "set": "Evolving Skies",
     "setId": "swsh07",
     "type": "etb",
@@ -1226,7 +1271,22 @@
     "upc": "",
     "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
     "genre": "pokemon",
-    "exclusive": "pokemon-center"
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh07-pc-espeon-etb.jpg"
+  },
+  {
+    "id": "swsh07-pc-umbreon-etb",
+    "name": "Sword & Shield — Evolving Skies Pokémon Center Elite Trainer Box (Jolteon/Flareon/Umbreon/Leafeon)",
+    "set": "Evolving Skies",
+    "setId": "swsh07",
+    "type": "etb",
+    "releaseDate": "2021-08-27",
+    "msrpUSD": 59.99,
+    "upc": "",
+    "upcNote": "UPC not yet sourced; barcode scan falls back to browse/manual.",
+    "genre": "pokemon",
+    "exclusive": "pokemon-center",
+    "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/swsh07-pc-umbreon-etb.jpg"
   },
   {
     "id": "swsh25-pc-etb",
