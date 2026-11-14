@@ -1,27 +1,27 @@
 {
   "pokemon": [
     {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv11-blackbolt-etb.jpg",
-      "name": "Scarlet & Violet — Black Bolt Elite Trainer Box",
-      "q": "pokemon scarlet and violet black bolt elite trainer box",
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me06-deltareign-etb.png",
+      "name": "Mega Evolution — Delta Reign Elite Trainer Box",
+      "q": "pokemon mega evolution delta reign elite trainer box",
       "tag": "Hot"
     },
     {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv11-whiteflare-etb.png",
-      "name": "Scarlet & Violet — White Flare Elite Trainer Box",
-      "q": "pokemon scarlet and violet white flare elite trainer box",
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/pkm-deck-crafters-collection-2026.png",
+      "name": "Deck Crafter's Collection (2026)",
+      "q": "pokemon deck crafter s collection 2026",
       "tag": "Hot"
     },
     {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv10-destinedrivals-etb.jpg",
-      "name": "Scarlet & Violet — Destined Rivals Elite Trainer Box",
-      "q": "pokemon scarlet and violet destined rivals elite trainer box",
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me30th-etb.png",
+      "name": "Mega Evolution — 30th Celebration Elite Trainer Box",
+      "q": "pokemon mega evolution 30th celebration elite trainer box",
       "tag": "Hot"
     },
     {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/sv09-pc-etb.webp",
-      "name": "Scarlet & Violet — Journey Together Pokémon Center Elite Trainer Box",
-      "q": "pokemon scarlet and violet journey together pokemon center elite trainer box",
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/me06-etb.jpg",
+      "name": "Mega Evolution — Pitch Black Elite Trainer Box",
+      "q": "pokemon mega evolution pitch black elite trainer box",
       "tag": "Hot"
     }
   ],
@@ -117,15 +117,15 @@
       "tag": "Hot"
     },
     {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2025-mega-pack-tin.webp",
-      "name": "Yu-Gi-Oh! 2025 Mega-Pack Tin",
-      "q": "yugioh yu gi oh 2025 mega pack tin",
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-mamo-box.png",
+      "name": "Magnificent Monsters Box",
+      "q": "yugioh magnificent monsters box",
       "tag": "Hot"
     },
     {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-2024-dueling-mirrors.jpg",
-      "name": "Yu-Gi-Oh! 25th Anniversary Tin: Dueling Mirrors",
-      "q": "yugioh yu gi oh 25th anniversary tin dueling mirrors",
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/yg-blgg-booster-box.png",
+      "name": "Battles of Legend: Glorious Gallery Booster Box",
+      "q": "yugioh battles of legend glorious gallery booster box",
       "tag": "Hot"
     }
   ],
@@ -156,5 +156,5 @@
     }
   ],
   "note": "Home Hot Products, per genre. Refreshed daily by the hot-products watcher: newest released sealed products with verified art, per genre. Not a sales ranking -- no free source publishes one this machine can read.",
-  "updated": "2026-11-13"
+  "updated": "2026-11-14"
 }
