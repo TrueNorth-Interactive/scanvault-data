@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-14T10:14:29Z",
+ "generated": "2026-11-15T10:18:01Z",
  "methodologyVersion": "2",
  "tcg": "pokemon",
- "asOf": "2026-11-13",
- "value": 991.0,
- "dayChangePct": -1.55,
+ "asOf": "2026-11-14",
+ "value": 996.4,
+ "dayChangePct": 0.54,
  "constituents": 92,
  "constituentsTotal": 100,
  "waitingCount": 8,
  "staleCount": 0,
- "feedUpdatedAt": "2026-11-13",
+ "feedUpdatedAt": "2026-11-14",
  "source": "tcgdex",
  "history": [
   {
@@ -39,6 +39,10 @@
   {
    "d": "2026-11-13",
    "v": 991.0
+  },
+  {
+   "d": "2026-11-14",
+   "v": 996.4
   }
  ]
 }
