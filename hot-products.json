@@ -79,6 +79,18 @@
   ],
   "onepiece": [
     {
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op18-box.png",
+      "name": "The Dominance of God Booster Box",
+      "q": "one piece card game the dominance of god booster box",
+      "tag": "Hot"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-gc2026-heroines-gift.webp",
+      "name": "Gift Collection -ONE PIECE Heroines-",
+      "q": "one piece card game gift collection one piece heroines",
+      "tag": "Hot"
+    },
+    {
       "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-eb05-heroines-precious-box.webp",
       "name": "ONE PIECE HEROINES PRECIOUS BOX",
       "q": "one piece card game one piece heroines precious box",
@@ -88,18 +100,6 @@
       "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-ts03-mini-case.png",
       "name": "Mini Case Set (Luffy/Shanks/Hancock)",
       "q": "one piece card game mini case set luffy shanks hancock",
-      "tag": "Hot"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op17-box.png",
-      "name": "The World's Strongest Warriors Booster Box",
-      "q": "one piece card game the world s strongest warriors booster box",
-      "tag": "Hot"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/TrueNorth-Interactive/scanvault-data/main/sealed-images/op-op16-box.png",
-      "name": "The Time of Battle Booster Box",
-      "q": "one piece card game the time of battle booster box",
       "tag": "Hot"
     }
   ],
@@ -156,5 +156,5 @@
     }
   ],
   "note": "Home Hot Products, per genre. Refreshed daily by the hot-products watcher: newest released sealed products with verified art, per genre. Not a sales ranking -- no free source publishes one this machine can read.",
-  "updated": "2026-11-14"
+  "updated": "2026-11-20"
 }
