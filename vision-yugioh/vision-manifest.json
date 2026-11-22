@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "genre": "yugioh",
+ "model": "dinov2-small-int8",
+ "dim": 384,
+ "count": 14664,
+ "indexFile": "vision-yugioh-index.json",
+ "wholeFile": "vision-yugioh-whole.f16",
+ "artFile": "vision-yugioh-art.f16",
+ "modelFile": "dinov2-small-quantized.onnx"
+}
