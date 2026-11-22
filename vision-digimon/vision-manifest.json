@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "genre": "digimon",
+ "model": "dinov2-small-int8",
+ "dim": 384,
+ "count": 5231,
+ "indexFile": "vision-digimon-index.json",
+ "wholeFile": "vision-digimon-whole.f16",
+ "artFile": "vision-digimon-art.f16",
+ "modelFile": "dinov2-small-quantized.onnx"
+}
