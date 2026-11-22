@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "genre": "lorcana",
+ "model": "dinov2-small-int8",
+ "dim": 384,
+ "count": 3520,
+ "indexFile": "vision-lorcana-index.json",
+ "wholeFile": "vision-lorcana-whole.f16",
+ "artFile": "vision-lorcana-art.f16",
+ "modelFile": "dinov2-small-quantized.onnx"
+}
