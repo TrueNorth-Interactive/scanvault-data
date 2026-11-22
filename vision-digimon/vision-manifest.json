@@ -4,6 +4,7 @@
  "model": "dinov2-small-int8",
  "dim": 384,
  "count": 5231,
+ "bytes": 8113945,
  "indexFile": "vision-digimon-index.json",
  "wholeFile": "vision-digimon-whole.f16",
  "artFile": "vision-digimon-art.f16",
