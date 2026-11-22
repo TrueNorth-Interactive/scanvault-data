@@ -1,0 +1,11 @@
+{
+ "version": 1,
+ "genre": "mtg",
+ "model": "dinov2-small-int8",
+ "dim": 384,
+ "count": 35751,
+ "indexFile": "vision-mtg-index.json",
+ "wholeFile": "vision-mtg-whole.f16",
+ "artFile": "vision-mtg-art.f16",
+ "modelFile": "dinov2-small-quantized.onnx"
+}
