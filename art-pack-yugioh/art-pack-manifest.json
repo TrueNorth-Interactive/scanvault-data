@@ -1,0 +1,6264 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-23T12:12:48.324722Z",
+ "genre": "yugioh",
+ "kind": "extra-art",
+ "count": 164,
+ "cards_covered": 124,
+ "bytes": 249226548,
+ "chunkSize": 90000000,
+ "chunks": [
+  {
+   "file": "artpack-00.bin",
+   "size": 89991667,
+   "md5": "bbf1b1f5edd03bc4fd20d952ce25b265",
+   "files": 232
+  },
+  {
+   "file": "artpack-01.bin",
+   "size": 89022848,
+   "md5": "5dae391bc186e066461431ee8346d284",
+   "files": 240
+  },
+  {
+   "file": "artpack-02.bin",
+   "size": 70212033,
+   "md5": "93253c78799b8a4855ea6cca81755f2a",
+   "files": 184
+  }
+ ],
+ "cards": {
+  "ygo-10000001": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 0,
+     "length": 1290039,
+     "size": 1290039,
+     "md5": "707e87cfb05b277c7831c5fc3c21f3db"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 1290039,
+     "length": 153914,
+     "size": 153914,
+     "md5": "f82d55d281775179caf466e55b9278f0"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 1443953,
+     "length": 164075,
+     "size": 164075,
+     "md5": "a4bc080b5aa61e302c76dd9f3dc25096"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 1608028,
+     "length": 21188,
+     "size": 21188,
+     "md5": "8e0fbfd93f3983b9778c1da9bb76bcaf"
+    }
+   },
+   "image_field": "data/images/ygo-10000001",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10000000,
+   "card_name": "Obelisk the Tormentor",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10000001.jpg"
+  },
+  "ygo-10000002": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 1629216,
+     "length": 1283436,
+     "size": 1283436,
+     "md5": "b4946eda2c882c0106be70325d48a60f"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 2912652,
+     "length": 148672,
+     "size": 148672,
+     "md5": "265966d5f47691b34cc570ba6de8ce78"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 3061324,
+     "length": 166132,
+     "size": 166132,
+     "md5": "5c045b5ab5bdd7d59a233ea72dade14a"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 3227456,
+     "length": 20870,
+     "size": 20870,
+     "md5": "a7a876afd390360e66a949a59d9374fe"
+    }
+   },
+   "image_field": "data/images/ygo-10000002",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10000000,
+   "card_name": "Obelisk the Tormentor",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10000002.jpg"
+  },
+  "ygo-10000011": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 3248326,
+     "length": 1326591,
+     "size": 1326591,
+     "md5": "9a7d395c150b5d0e603e88d4f668aa76"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 4574917,
+     "length": 163152,
+     "size": 163152,
+     "md5": "e8ef4c7b68b8aadb81ebf03081d0efbd"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 4738069,
+     "length": 170946,
+     "size": 170946,
+     "md5": "8bba17b9003ce343ee7d20b98ef8873a"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 4909015,
+     "length": 25138,
+     "size": 25138,
+     "md5": "ef47ffbbd1e41d75750f93ce4d16b141"
+    }
+   },
+   "image_field": "data/images/ygo-10000011",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10000010,
+   "card_name": "The Winged Dragon of Ra",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10000011.jpg"
+  },
+  "ygo-10000012": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 4934153,
+     "length": 1438544,
+     "size": 1438544,
+     "md5": "1149771d5844c33ecc98a4d7e107049a"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 6372697,
+     "length": 181144,
+     "size": 181144,
+     "md5": "29b21e1ef561d18e318159b24d4ed62c"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 6553841,
+     "length": 174252,
+     "size": 174252,
+     "md5": "f633ea0f6a27dd12256818413dd02eef"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 6728093,
+     "length": 23986,
+     "size": 23986,
+     "md5": "9d0d7137e944baf9b4ddafb655742c91"
+    }
+   },
+   "image_field": "data/images/ygo-10000012",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10000010,
+   "card_name": "The Winged Dragon of Ra",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10000012.jpg"
+  },
+  "ygo-10000021": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 6752079,
+     "length": 1244066,
+     "size": 1244066,
+     "md5": "fc3d04f0c61a852889494300bd998360"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 7996145,
+     "length": 143484,
+     "size": 143484,
+     "md5": "c7cab843a6ce69759f0c5d9153264952"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 8139629,
+     "length": 167789,
+     "size": 167789,
+     "md5": "4c6f5c92c64c9f04bec19b98fd90bb90"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 8307418,
+     "length": 21434,
+     "size": 21434,
+     "md5": "59981ed304546e8e868470af5c1d0807"
+    }
+   },
+   "image_field": "data/images/ygo-10000021",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10000020,
+   "card_name": "Slifer the Sky Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10000021.jpg"
+  },
+  "ygo-10000022": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 8328852,
+     "length": 1355365,
+     "size": 1355365,
+     "md5": "1909a5d64668263e7b24c2c7e3314e47"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 9684217,
+     "length": 161856,
+     "size": 161856,
+     "md5": "a486713e11fe0dbe42ac499447dfa4ef"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 9846073,
+     "length": 169643,
+     "size": 169643,
+     "md5": "f7b772c511a85eac0cc5da2ab236f9ea"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 10015716,
+     "length": 22124,
+     "size": 22124,
+     "md5": "c1f798915fa9f9d131987c87af0d40ec"
+    }
+   },
+   "image_field": "data/images/ygo-10000022",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10000020,
+   "card_name": "Slifer the Sky Dragon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10000022.jpg"
+  },
+  "ygo-10443958": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 10037840,
+     "length": 1360379,
+     "size": 1360379,
+     "md5": "c51bf41fd6c69151656a484fae56254b"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 11398219,
+     "length": 177720,
+     "size": 177720,
+     "md5": "8afe38c30262fd405028c0905c6e5709"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 11575939,
+     "length": 173480,
+     "size": 173480,
+     "md5": "1f2bd9850af6496c29861bd943080564"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 11749419,
+     "length": 25152,
+     "size": 25152,
+     "md5": "eaaf7f366a4667285e945212ff118989"
+    }
+   },
+   "image_field": "data/images/ygo-10443958",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10443957,
+   "card_name": "Cyber Dragon Infinity",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10443958.jpg"
+  },
+  "ygo-10802916": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 11774571,
+     "length": 1220252,
+     "size": 1220252,
+     "md5": "d9577fab6e5714618f168fc6490ed81c"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 12994823,
+     "length": 131570,
+     "size": 131570,
+     "md5": "0134f38f32b2fbbdb3be54bc7505689e"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 13126393,
+     "length": 160709,
+     "size": 160709,
+     "md5": "33ed24ff95ac1e41fcfe2bcc0ec4f6a4"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 13287102,
+     "length": 20202,
+     "size": 20202,
+     "md5": "4dafe04e08944b5810db3dbc334bbe2c"
+    }
+   },
+   "image_field": "data/images/ygo-10802916",
+   "source": "ygoprodeck-alt",
+   "card_pc": 10802915,
+   "card_name": "Tour Guide From the Underworld",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/10802916.jpg"
+  },
+  "ygo-11050417": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 13307304,
+     "length": 1094269,
+     "size": 1094269,
+     "md5": "36e64aa351f4e30703dc1c32a8925e61"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 14401573,
+     "length": 123824,
+     "size": 123824,
+     "md5": "a5b8721d79b37bc243f8be4f49c398a6"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 14525397,
+     "length": 149333,
+     "size": 149333,
+     "md5": "5d91917b21148d5219c34f1e9ab8d4fe"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 14674730,
+     "length": 19960,
+     "size": 19960,
+     "md5": "a62b0ec53f25a6e7d95c40e4398d2117"
+    }
+   },
+   "image_field": "data/images/ygo-11050417",
+   "source": "ygoprodeck-alt",
+   "card_pc": 11050416,
+   "card_name": "Hippo Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/11050417.jpg"
+  },
+  "ygo-11050418": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 14694690,
+     "length": 1066082,
+     "size": 1066082,
+     "md5": "3930bbc6be3c44de4fd8edfbf4317b2c"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 15760772,
+     "length": 117952,
+     "size": 117952,
+     "md5": "99f466a137bd37faea505e3c590a1d5c"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 15878724,
+     "length": 146702,
+     "size": 146702,
+     "md5": "c2fd2fe77b2460a3fbc3eb862f9b3184"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 16025426,
+     "length": 19058,
+     "size": 19058,
+     "md5": "35d71b4f3811f5154a4661a53a679836"
+    }
+   },
+   "image_field": "data/images/ygo-11050418",
+   "source": "ygoprodeck-alt",
+   "card_pc": 11050416,
+   "card_name": "Hippo Token",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/11050418.jpg"
+  },
+  "ygo-11050419": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 16044484,
+     "length": 1091066,
+     "size": 1091066,
+     "md5": "c3a76d73578af9d87f72c78753bb4ca7"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 17135550,
+     "length": 126218,
+     "size": 126218,
+     "md5": "acb1c0beffc407a341f49005626f8fe0"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 17261768,
+     "length": 149250,
+     "size": 149250,
+     "md5": "c267cdae11c4a139d41864d73a0d784f"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 17411018,
+     "length": 20270,
+     "size": 20270,
+     "md5": "83538e6393c6fc2446fe47624688fcd1"
+    }
+   },
+   "image_field": "data/images/ygo-11050419",
+   "source": "ygoprodeck-alt",
+   "card_pc": 11050416,
+   "card_name": "Hippo Token",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/11050419.jpg"
+  },
+  "ygo-14470847": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 17431288,
+     "length": 1046360,
+     "size": 1046360,
+     "md5": "239a7ca220653eaaef30044b4fe3c7ef"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 18477648,
+     "length": 114596,
+     "size": 114596,
+     "md5": "ae88bbcd493a23b87b2ee772735a4b4e"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 18592244,
+     "length": 141463,
+     "size": 141463,
+     "md5": "e379c997741027597e6b7b4f00886584"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 18733707,
+     "length": 15230,
+     "size": 15230,
+     "md5": "7009cc121709e101edeaa1ef21e1418b"
+    }
+   },
+   "image_field": "data/images/ygo-14470847",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14470846,
+   "card_name": "Ojama Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/14470847.jpg"
+  },
+  "ygo-14558128": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 18748937,
+     "length": 1255562,
+     "size": 1255562,
+     "md5": "400c50ddd24562cdc9fd67c879c5e1f5"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 20004499,
+     "length": 142952,
+     "size": 142952,
+     "md5": "e852a46a085ad09a862f045c18a59fa1"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 20147451,
+     "length": 163339,
+     "size": 163339,
+     "md5": "5e08831e902618c5250ab22f29ca52b1"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 20310790,
+     "length": 20986,
+     "size": 20986,
+     "md5": "95c76b609346501b44cb8a32a27c1e16"
+    }
+   },
+   "image_field": "data/images/ygo-14558128",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14558127,
+   "card_name": "Ash Blossom & Joyous Spring",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/14558128.jpg"
+  },
+  "ygo-14878872": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 20331776,
+     "length": 1089042,
+     "size": 1089042,
+     "md5": "9489c33db0aa66f9edad78f5e90b980a"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 21420818,
+     "length": 118304,
+     "size": 118304,
+     "md5": "e2d7e09abbb60984dd2ca4ded6b412b7"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 21539122,
+     "length": 148336,
+     "size": 148336,
+     "md5": "88d247d477b697fd97793a874b0e8f32"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 21687458,
+     "length": 17468,
+     "size": 17468,
+     "md5": "3da10ade1cea629e1a7e25bdc760f971"
+    }
+   },
+   "image_field": "data/images/ygo-14878872",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14878871,
+   "card_name": "Rescue Cat",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/14878872.jpg"
+  },
+  "ygo-14898067": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 21704926,
+     "length": 1190565,
+     "size": 1190565,
+     "md5": "7da868f66acf83621c4f4aaf7bee9168"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 22895491,
+     "length": 125862,
+     "size": 125862,
+     "md5": "7b09a7ba6cb25ee64b1484cae5aaa453"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 23021353,
+     "length": 157459,
+     "size": 157459,
+     "md5": "6d957a5464da749499ae90a6cfa68144"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 23178812,
+     "length": 19612,
+     "size": 19612,
+     "md5": "b10e3267782a113c0327d29553e72516"
+    }
+   },
+   "image_field": "data/images/ygo-14898067",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14898066,
+   "card_name": "Vorse Raider",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/14898067.jpg"
+  },
+  "ygo-15259704": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 23198424,
+     "length": 1027035,
+     "size": 1027035,
+     "md5": "44e63e29fec40ddbcded0c48ab98fa08"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 24225459,
+     "length": 97474,
+     "size": 97474,
+     "md5": "fe369b84000a07410ec21667f7d2d17c"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 24322933,
+     "length": 139817,
+     "size": 139817,
+     "md5": "48514288d7c96e3f2bc6cfde85d4662a"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 24462750,
+     "length": 15290,
+     "size": 15290,
+     "md5": "d8a2764d258310bd30a1ac3c21d23519"
+    }
+   },
+   "image_field": "data/images/ygo-15259704",
+   "source": "ygoprodeck-alt",
+   "card_pc": 15259703,
+   "card_name": "Toon World",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/15259704.jpg"
+  },
+  "ygo-15341823": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 24478040,
+     "length": 842839,
+     "size": 842839,
+     "md5": "718993dd86e6bca46f546fa6f330013c"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 25320879,
+     "length": 78966,
+     "size": 78966,
+     "md5": "0fb22ac1d45fc87244dae44d32a2fb21"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 25399845,
+     "length": 128113,
+     "size": 128113,
+     "md5": "d97441f3e59383068162ff239eec91cf"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 25527958,
+     "length": 12570,
+     "size": 12570,
+     "md5": "ebcbd8306a47532002bd669d4dc5664e"
+    }
+   },
+   "image_field": "data/images/ygo-15341823",
+   "source": "ygoprodeck-alt",
+   "card_pc": 15341822,
+   "card_name": "Fluff Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/15341823.jpg"
+  },
+  "ygo-1546124": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 25540528,
+     "length": 1364643,
+     "size": 1364643,
+     "md5": "abab30063d92c4341c92576f9f9c0d0f"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 26905171,
+     "length": 158706,
+     "size": 158706,
+     "md5": "cdaea5ed313dee1f48957a0cc9c55bd8"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 27063877,
+     "length": 177284,
+     "size": 177284,
+     "md5": "c497806c8fa3cf950a2e63b0e56ef865"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 27241161,
+     "length": 24454,
+     "size": 24454,
+     "md5": "b63a07a512771435d146793763c078cd"
+    }
+   },
+   "image_field": "data/images/ygo-1546124",
+   "source": "ygoprodeck-alt",
+   "card_pc": 1546123,
+   "card_name": "Cyber End Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/1546124.jpg"
+  },
+  "ygo-16178682": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 27265615,
+     "length": 1488619,
+     "size": 1488619,
+     "md5": "ffb9e034a923bff8fc258dfd12f9518d"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 28754234,
+     "length": 188830,
+     "size": 188830,
+     "md5": "dfd050995cb6236e6df4a0d3dd7cb58c"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 28943064,
+     "length": 179847,
+     "size": 179847,
+     "md5": "81ff42f475956979f5c2b89fd7aea4d2"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 29122911,
+     "length": 25168,
+     "size": 25168,
+     "md5": "0586a40247a3b50fb460220606b408bf"
+    }
+   },
+   "image_field": "data/images/ygo-16178682",
+   "source": "ygoprodeck-alt",
+   "card_pc": 16178681,
+   "card_name": "Odd-Eyes Pendulum Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/16178682.jpg"
+  },
+  "ygo-16178683": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 29148079,
+     "length": 1328232,
+     "size": 1328232,
+     "md5": "b81220d916da936f2ddf2f1264f624fd"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 30476311,
+     "length": 158042,
+     "size": 158042,
+     "md5": "f5e86ae2e96deeb5fc25dbea7a85bff3"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 30634353,
+     "length": 170711,
+     "size": 170711,
+     "md5": "cc99af8bb09c3ed5249a1b8bd9e2699c"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 30805064,
+     "length": 23004,
+     "size": 23004,
+     "md5": "96d3afba05392ebb7dc6625833e9c963"
+    }
+   },
+   "image_field": "data/images/ygo-16178683",
+   "source": "ygoprodeck-alt",
+   "card_pc": 16178681,
+   "card_name": "Odd-Eyes Pendulum Dragon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/16178683.jpg"
+  },
+  "ygo-16195943": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 30828068,
+     "length": 1344225,
+     "size": 1344225,
+     "md5": "f4a0171685d861c8e58101f5ffa2bcae"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 32172293,
+     "length": 162560,
+     "size": 162560,
+     "md5": "4ed77f72a352de1bfb4eb3194f2bcbd2"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 32334853,
+     "length": 173044,
+     "size": 173044,
+     "md5": "e27f6f1b94e7ad116658363f311254f7"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 32507897,
+     "length": 24418,
+     "size": 24418,
+     "md5": "e40421d76b36342d11af57d9c55976b1"
+    }
+   },
+   "image_field": "data/images/ygo-16195943",
+   "source": "ygoprodeck-alt",
+   "card_pc": 16195942,
+   "card_name": "Dark Rebellion Xyz Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/16195943.jpg"
+  },
+  "ygo-18144506": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 32532315,
+     "length": 962485,
+     "size": 962485,
+     "md5": "5a078421014c230615f06a07d9f50d41"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 33494800,
+     "length": 86336,
+     "size": 86336,
+     "md5": "749d5b7192027bcb2668a5a3a7178ef1"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 33581136,
+     "length": 137726,
+     "size": 137726,
+     "md5": "ef77d80b9e897a0a633bd8dd7d5cba0e"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 33718862,
+     "length": 13686,
+     "size": 13686,
+     "md5": "e4bc55460e82d9be3e0f6b9d5a5f5c9e"
+    }
+   },
+   "image_field": "data/images/ygo-18144506",
+   "source": "ygoprodeck-alt",
+   "card_pc": 18144507,
+   "card_name": "Harpie's Feather Duster",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/18144506.jpg"
+  },
+  "ygo-1861630": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 33732548,
+     "length": 1452052,
+     "size": 1452052,
+     "md5": "ff0c2046a055b2aed199553701798671"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 35184600,
+     "length": 169922,
+     "size": 169922,
+     "md5": "916d455ab07eff1df9f5d02e988ad67c"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 35354522,
+     "length": 184142,
+     "size": 184142,
+     "md5": "2cde573c40e027dac46fd75ee3746992"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 35538664,
+     "length": 25938,
+     "size": 25938,
+     "md5": "6955010b7be6ab8a6354477a1657304d"
+    }
+   },
+   "image_field": "data/images/ygo-1861630",
+   "source": "ygoprodeck-alt",
+   "card_pc": 1861629,
+   "card_name": "Decode Talker",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/1861630.jpg"
+  },
+  "ygo-18807108": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 35564602,
+     "length": 1252007,
+     "size": 1252007,
+     "md5": "3a35f839a8a2c901ff9b9daec0663768"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 36816609,
+     "length": 137480,
+     "size": 137480,
+     "md5": "8f246b0f81b3a83f53a4ccc9f5b5822c"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 36954089,
+     "length": 164499,
+     "size": 164499,
+     "md5": "ab4bee579e3fa798a75fb6da694e130a"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 37118588,
+     "length": 21366,
+     "size": 21366,
+     "md5": "bb675edad499fcda7a04d8af77d555f5"
+    }
+   },
+   "image_field": "data/images/ygo-18807108",
+   "source": "ygoprodeck-alt",
+   "card_pc": 18807109,
+   "card_name": "Spellbinding Circle",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/18807108.jpg"
+  },
+  "ygo-19230407": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 37139954,
+     "length": 1135877,
+     "size": 1135877,
+     "md5": "cf72d87a57f9ff0468285b767f558bc1"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 38275831,
+     "length": 126186,
+     "size": 126186,
+     "md5": "32cfcf571cf273bbb41a939a342c1eaa"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 38402017,
+     "length": 151565,
+     "size": 151565,
+     "md5": "61edcb35a8dba126d7a7f48410b0e982"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 38553582,
+     "length": 18418,
+     "size": 18418,
+     "md5": "ff40d858262cad248905b9420bde28c2"
+    }
+   },
+   "image_field": "data/images/ygo-19230407",
+   "source": "ygoprodeck-alt",
+   "card_pc": 19230408,
+   "card_name": "Offerings to the Doomed",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/19230407.jpg"
+  },
+  "ygo-20250830": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 38572000,
+     "length": 1280574,
+     "size": 1280574,
+     "md5": "6e69af2fdbca4e78e23ba278060dff54"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 39852574,
+     "length": 153200,
+     "size": 153200,
+     "md5": "708d7d06c034f5a88488ad8c3de20eec"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 40005774,
+     "length": 164757,
+     "size": 164757,
+     "md5": "37185f117633dacde1ad98b80d0cb0e4"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 40170531,
+     "length": 21232,
+     "size": 21232,
+     "md5": "84c0b446e61fcb8e6de7771da40c27b4"
+    }
+   },
+   "image_field": "data/images/ygo-20250830",
+   "source": "ygoprodeck-alt",
+   "card_pc": 95658967,
+   "card_name": "Ritual Sanctuary",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/20250830.jpg"
+  },
+  "ygo-20366275": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 40191763,
+     "length": 1366338,
+     "size": 1366338,
+     "md5": "14ce9b22778b69aa0a0ef2f04f334c64"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 41558101,
+     "length": 169082,
+     "size": 169082,
+     "md5": "49833f814e5b48c79db4f365dbd970d3"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 41727183,
+     "length": 176065,
+     "size": 176065,
+     "md5": "f232dff14058df55135f323e2a3c23c5"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 41903248,
+     "length": 24868,
+     "size": 24868,
+     "md5": "7b3b83acb719fbb7e3fd47292bce4779"
+    }
+   },
+   "image_field": "data/images/ygo-20366275",
+   "source": "ygoprodeck-alt",
+   "card_pc": 20366274,
+   "card_name": "El Shaddoll Construct",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/20366275.jpg"
+  },
+  "ygo-20721929": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 41928116,
+     "length": 1227715,
+     "size": 1227715,
+     "md5": "61e5ffddbb72b4631067e3cbdd570b2f"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 43155831,
+     "length": 134032,
+     "size": 134032,
+     "md5": "33820a45de3077cff3699fae4836cc4e"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 43289863,
+     "length": 161310,
+     "size": 161310,
+     "md5": "16ff112c0f5a3d9b55390365f3a5714c"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 43451173,
+     "length": 20564,
+     "size": 20564,
+     "md5": "9df40abaad172774641f97f66239c3b4"
+    }
+   },
+   "image_field": "data/images/ygo-20721929",
+   "source": "ygoprodeck-alt",
+   "card_pc": 20721928,
+   "card_name": "Elemental HERO Sparkman",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/20721929.jpg"
+  },
+  "ygo-21844577": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 43471737,
+     "length": 1213152,
+     "size": 1213152,
+     "md5": "3bc163d715fec09c0c661e6860dd53f0"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 44684889,
+     "length": 135064,
+     "size": 135064,
+     "md5": "1f6877295458fb40831b2630832d5154"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 44819953,
+     "length": 161391,
+     "size": 161391,
+     "md5": "74d66e06109eca1f91d403247d6201c3"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 44981344,
+     "length": 20268,
+     "size": 20268,
+     "md5": "45223a74b4dfa12aa23a137f9e19d048"
+    }
+   },
+   "image_field": "data/images/ygo-21844577",
+   "source": "ygoprodeck-alt",
+   "card_pc": 21844576,
+   "card_name": "Elemental HERO Avian",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/21844577.jpg"
+  },
+  "ygo-22984000": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 45001612,
+     "length": 1336528,
+     "size": 1336528,
+     "md5": "48aecc5b61321811c29e00e6d66c948e"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 46338140,
+     "length": 172426,
+     "size": 172426,
+     "md5": "d992c4c95d865b1f17bffad10fecafba"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 46510566,
+     "length": 173300,
+     "size": 173300,
+     "md5": "d66611a20ebe8d978aa77ff5edb882ac"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 46683866,
+     "length": 24372,
+     "size": 24372,
+     "md5": "7c94c365d3f1b5dd204ffddef554997a"
+    }
+   },
+   "image_field": "data/images/ygo-22984000",
+   "source": "ygoprodeck-alt",
+   "card_pc": 101303084,
+   "card_name": "Mercurium the Living Quicksilver",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/22984000.jpg"
+  },
+  "ygo-23401840": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 46708238,
+     "length": 1256585,
+     "size": 1256585,
+     "md5": "c8a3d83c29f8d8a1cadcbdde64b8fde9"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 47964823,
+     "length": 140748,
+     "size": 140748,
+     "md5": "ed5f0867d8e80ad1a55a66af4fab958f"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 48105571,
+     "length": 163283,
+     "size": 163283,
+     "md5": "b44d90d11678c4b679571f73d832cd12"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 48268854,
+     "length": 21204,
+     "size": 21204,
+     "md5": "716569d73ab3bd489bc43becc1b2e1d5"
+    }
+   },
+   "image_field": "data/images/ygo-23401840",
+   "source": "ygoprodeck-alt",
+   "card_pc": 23401839,
+   "card_name": "Senju of the Thousand Hands",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/23401840.jpg"
+  },
+  "ygo-23995347": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 48290058,
+     "length": 1277303,
+     "size": 1277303,
+     "md5": "44cbac822a8d197f74bd60a547f1f8ae"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 49567361,
+     "length": 142596,
+     "size": 142596,
+     "md5": "15c9a9d949ab35d51ce40e8406546024"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 49709957,
+     "length": 170218,
+     "size": 170218,
+     "md5": "a2e2944e75274ed1cb4bb3cb078c24f1"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 49880175,
+     "length": 22980,
+     "size": 22980,
+     "md5": "23ff2ac483589c54665a75c6afca617c"
+    }
+   },
+   "image_field": "data/images/ygo-23995347",
+   "source": "ygoprodeck-alt",
+   "card_pc": 23995346,
+   "card_name": "Blue-Eyes Ultimate Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/23995347.jpg"
+  },
+  "ygo-23995348": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 49903155,
+     "length": 1322924,
+     "size": 1322924,
+     "md5": "c1822fa4e1e4f8bab3908db3ca482ce2"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 51226079,
+     "length": 153440,
+     "size": 153440,
+     "md5": "843c54f57a12c77a97b195d43f5098d6"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 51379519,
+     "length": 170256,
+     "size": 170256,
+     "md5": "f089540874f76fdf42d1dcb2c4a29173"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 51549775,
+     "length": 22922,
+     "size": 22922,
+     "md5": "8cc595d1e68f798684c6d3c65c1cce8a"
+    }
+   },
+   "image_field": "data/images/ygo-23995348",
+   "source": "ygoprodeck-alt",
+   "card_pc": 23995346,
+   "card_name": "Blue-Eyes Ultimate Dragon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/23995348.jpg"
+  },
+  "ygo-24433921": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 51572697,
+     "length": 1103963,
+     "size": 1103963,
+     "md5": "181ea7b0ebd997e2b5ed651d34fcbad4"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 52676660,
+     "length": 110768,
+     "size": 110768,
+     "md5": "6a1e59adc179f3eb33db20c83074b254"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 52787428,
+     "length": 151076,
+     "size": 151076,
+     "md5": "94c0ab02e6d1fab033fefc3a8f921eab"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 52938504,
+     "length": 18526,
+     "size": 18526,
+     "md5": "c674a2ff8a3ca64573b5aa192b6ac0f4"
+    }
+   },
+   "image_field": "data/images/ygo-24433921",
+   "source": "ygoprodeck-alt",
+   "card_pc": 24433920,
+   "card_name": "Pendulum Machine",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/24433921.jpg"
+  },
+  "ygo-27847700": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 52957030,
+     "length": 1110977,
+     "size": 1110977,
+     "md5": "f08fa72869980fcdf26ff69f4b5c8ffb"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 54068007,
+     "length": 111982,
+     "size": 111982,
+     "md5": "7203e00a051d1acc7fc905a342458be1"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 54179989,
+     "length": 153358,
+     "size": 153358,
+     "md5": "4463b15c63aea3981d61002a4c86291b"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 54333347,
+     "length": 18104,
+     "size": 18104,
+     "md5": "bd1d68c1d8fd63bae8459b89bc0c9e53"
+    }
+   },
+   "image_field": "data/images/ygo-27847700",
+   "source": "ygoprodeck-alt",
+   "card_pc": 24094653,
+   "card_name": "Polymerization",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/27847700.jpg"
+  },
+  "ygo-27911550": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 54351451,
+     "length": 1244662,
+     "size": 1244662,
+     "md5": "8e2d0c27e85fed972072665cfc8b7d69"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 55596113,
+     "length": 138182,
+     "size": 138182,
+     "md5": "b2953fb7b89dad4f3ca96e60d72354c2"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 55734295,
+     "length": 161778,
+     "size": 161778,
+     "md5": "952ea1a99d38b8ff4db84503d9c5c857"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 55896073,
+     "length": 19296,
+     "size": 19296,
+     "md5": "39362d4dbcaa2ec8a3eb6dea095b6541"
+    }
+   },
+   "image_field": "data/images/ygo-27911550",
+   "source": "ygoprodeck-alt",
+   "card_pc": 27911549,
+   "card_name": "Parasite Paracide",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/27911550.jpg"
+  },
+  "ygo-29843092": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 55915369,
+     "length": 1021824,
+     "size": 1021824,
+     "md5": "fcc4fd37bef2db953169d450baa07943"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 56937193,
+     "length": 107344,
+     "size": 107344,
+     "md5": "57e58e868ea0aee2acf133f44a9a8525"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 57044537,
+     "length": 144742,
+     "size": 144742,
+     "md5": "55474ea62d3cf36bba66695ecda23ea7"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 57189279,
+     "length": 16950,
+     "size": 16950,
+     "md5": "8537e6faa753d0317c4c0c2813692edc"
+    }
+   },
+   "image_field": "data/images/ygo-29843092",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14470846,
+   "card_name": "Ojama Token",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/29843092.jpg"
+  },
+  "ygo-29843093": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 57206229,
+     "length": 1053284,
+     "size": 1053284,
+     "md5": "da53ae383f5ac9874718c278c88a4ebf"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 58259513,
+     "length": 113940,
+     "size": 113940,
+     "md5": "4f696c7fc855bfde00e0383be7309b4b"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 58373453,
+     "length": 146375,
+     "size": 146375,
+     "md5": "df8de2ecf4733cdb84db31b98f60b12d"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 58519828,
+     "length": 17226,
+     "size": 17226,
+     "md5": "d0816eff46e7ddfcd083ee9be52350f7"
+    }
+   },
+   "image_field": "data/images/ygo-29843093",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14470846,
+   "card_name": "Ojama Token",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/29843093.jpg"
+  },
+  "ygo-29843094": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 58537054,
+     "length": 1034351,
+     "size": 1034351,
+     "md5": "1fcacdaf5e29ad9848bdcaebce1a53a1"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 59571405,
+     "length": 108928,
+     "size": 108928,
+     "md5": "040d26eb49b80fc128e27cbef241fb20"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 59680333,
+     "length": 145708,
+     "size": 145708,
+     "md5": "f848d58f978717ed961270de06ba4b51"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 59826041,
+     "length": 16628,
+     "size": 16628,
+     "md5": "b0327da0d3fffbb51b198af90c045b9e"
+    }
+   },
+   "image_field": "data/images/ygo-29843094",
+   "source": "ygoprodeck-alt",
+   "card_pc": 14470846,
+   "card_name": "Ojama Token",
+   "alt_index": 4,
+   "source_url": "https://images.ygoprodeck.com/images/cards/29843094.jpg"
+  },
+  "ygo-31122091": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 59842669,
+     "length": 938665,
+     "size": 938665,
+     "md5": "83787dcf07d626e6788ef5a16304bfc9"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 60781334,
+     "length": 100012,
+     "size": 100012,
+     "md5": "27cbfd8f62d15c835a6dfb848ea3262b"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 60881346,
+     "length": 139538,
+     "size": 139538,
+     "md5": "de96ca0819ff73a07111255f83b14974"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 61020884,
+     "length": 15968,
+     "size": 15968,
+     "md5": "928cdc24a268b75d6c92b99de5241921"
+    }
+   },
+   "image_field": "data/images/ygo-31122091",
+   "source": "ygoprodeck-alt",
+   "card_pc": 31122090,
+   "card_name": "Gyakutenno Megami",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/31122091.jpg"
+  },
+  "ygo-31764354": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 61036852,
+     "length": 1400308,
+     "size": 1400308,
+     "md5": "16402e254d996040037629108a06efa1"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 62437160,
+     "length": 164632,
+     "size": 164632,
+     "md5": "d7e53cbabd087c9345b75ff37bc8c772"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 62601792,
+     "length": 173881,
+     "size": 173881,
+     "md5": "0278f0c37ef6751599e1892b7ed2bd9f"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 62775673,
+     "length": 22932,
+     "size": 22932,
+     "md5": "95215f461bf5526924570061ef9a1d50"
+    }
+   },
+   "image_field": "data/images/ygo-31764354",
+   "source": "ygoprodeck-alt",
+   "card_pc": 31764353,
+   "card_name": "Familiar-Possessed - Wynn",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/31764354.jpg"
+  },
+  "ygo-31833039": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 62798605,
+     "length": 1524866,
+     "size": 1524866,
+     "md5": "34b4d21ccb8ba5f5b75200aec6fb898c"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 64323471,
+     "length": 190984,
+     "size": 190984,
+     "md5": "90c679d0970c6ab665100f4c47080a44"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 64514455,
+     "length": 186696,
+     "size": 186696,
+     "md5": "cc944eafe0c131ac22db6328cedc1e6d"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 64701151,
+     "length": 26544,
+     "size": 26544,
+     "md5": "4d10c01c5342941148d1b6168c39eb08"
+    }
+   },
+   "image_field": "data/images/ygo-31833039",
+   "source": "ygoprodeck-alt",
+   "card_pc": 31833038,
+   "card_name": "Borreload Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/31833039.jpg"
+  },
+  "ygo-31887906": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 64727695,
+     "length": 1373445,
+     "size": 1373445,
+     "md5": "899cf5da30bfa11196d5fb80f775a773"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 66101140,
+     "length": 160266,
+     "size": 160266,
+     "md5": "d3dd3f75bb156a42c188709531e307a4"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 66261406,
+     "length": 174046,
+     "size": 174046,
+     "md5": "aaaa9a40510f6d8f1866f8649aa7c09e"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 66435452,
+     "length": 22934,
+     "size": 22934,
+     "md5": "7924cc150a72e17eec742f6c71520997"
+    }
+   },
+   "image_field": "data/images/ygo-31887906",
+   "source": "ygoprodeck-alt",
+   "card_pc": 31887905,
+   "card_name": "Familiar-Possessed - Aussa",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/31887906.jpg"
+  },
+  "ygo-32003339": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 66458386,
+     "length": 1140582,
+     "size": 1140582,
+     "md5": "c5e5bbb779b7e4eb16a984d521b28ffe"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 67598968,
+     "length": 130826,
+     "size": 130826,
+     "md5": "861fc05155a5b991023b6595b3db7701"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 67729794,
+     "length": 157633,
+     "size": 157633,
+     "md5": "40236e18010ed51404df3b1aa3661d29"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 67887427,
+     "length": 22314,
+     "size": 22314,
+     "md5": "7429c7b3219f7c93ade49c3f19fa5a53"
+    }
+   },
+   "image_field": "data/images/ygo-32003339",
+   "source": "ygoprodeck-alt",
+   "card_pc": 32003338,
+   "card_name": "Number 34: Terror-Byte",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/32003339.jpg"
+  },
+  "ygo-32012842": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 67909741,
+     "length": 1028772,
+     "size": 1028772,
+     "md5": "1f8dae2d9d5d840a0964e63e3a6f1c72"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 68938513,
+     "length": 104986,
+     "size": 104986,
+     "md5": "e204c3bbe7c4d08468b67ffff09f74e3"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 69043499,
+     "length": 142045,
+     "size": 142045,
+     "md5": "ca032e6788e901745899271448f5bf6f"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 69185544,
+     "length": 16856,
+     "size": 16856,
+     "md5": "57a960eb6e92f3e6e47171d1aa45f02c"
+    }
+   },
+   "image_field": "data/images/ygo-32012842",
+   "source": "ygoprodeck-alt",
+   "card_pc": 32012841,
+   "card_name": "Millennium Shield",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/32012842.jpg"
+  },
+  "ygo-32448766": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 69202400,
+     "length": 1608246,
+     "size": 1608246,
+     "md5": "655062bf15f5e77d924b2fe02212330e"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 70810646,
+     "length": 212068,
+     "size": 212068,
+     "md5": "8de1d97d954f8a3ca12594c6d548801e"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 71022714,
+     "length": 190225,
+     "size": 190225,
+     "md5": "1ad8c72dc1f483ed0891a42f5fa782c5"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 71212939,
+     "length": 28142,
+     "size": 28142,
+     "md5": "983d05573b0b5f2494cdc0e5c3556514"
+    }
+   },
+   "image_field": "data/images/ygo-32448766",
+   "source": "ygoprodeck-alt",
+   "card_pc": 32448765,
+   "card_name": "Trickstar Holly Angel",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/32448766.jpg"
+  },
+  "ygo-35686187": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 71241081,
+     "length": 965036,
+     "size": 965036,
+     "md5": "93faba6a6ecd6aedc1de794413be9122"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 72206117,
+     "length": 90650,
+     "size": 90650,
+     "md5": "cbc30f1eb00aa04ee5f08afc197be567"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 72296767,
+     "length": 134008,
+     "size": 134008,
+     "md5": "e83a1c0f009a4df95b9245c3467e059e"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 72430775,
+     "length": 13164,
+     "size": 13164,
+     "md5": "1ce7ffcf31801db660a6b826e55d89da"
+    }
+   },
+   "image_field": "data/images/ygo-35686187",
+   "source": "ygoprodeck-alt",
+   "card_pc": 35686188,
+   "card_name": "Tragedy",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/35686187.jpg"
+  },
+  "ygo-36354008": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 72443939,
+     "length": 1240608,
+     "size": 1240608,
+     "md5": "11bad1151352f70e93efdd029c8d9199"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 73684547,
+     "length": 136446,
+     "size": 136446,
+     "md5": "4d0c1c088ee1f1ce9c9dbaecec5179e3"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 73820993,
+     "length": 164044,
+     "size": 164044,
+     "md5": "2a8e2f6599c2ddce2c5989bd2cea70eb"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 73985037,
+     "length": 21514,
+     "size": 21514,
+     "md5": "e495fbdd904e34709b9ea9d43c75146a"
+    }
+   },
+   "image_field": "data/images/ygo-36354008",
+   "source": "ygoprodeck-alt",
+   "card_pc": 36354007,
+   "card_name": "Gilford the Lightning",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/36354008.jpg"
+  },
+  "ygo-36996508": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 74006551,
+     "length": 1171217,
+     "size": 1171217,
+     "md5": "6968090e0c3a200adf9d4d3eea80e09b"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 75177768,
+     "length": 136510,
+     "size": 136510,
+     "md5": "fadb0a0f0193f93621bf31f9df0aabc6"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 75314278,
+     "length": 153344,
+     "size": 153344,
+     "md5": "638e39370e10a9bc445cc94f3a210488"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 75467622,
+     "length": 20680,
+     "size": 20680,
+     "md5": "6b66817ebd39d87b3581278c10b19406"
+    }
+   },
+   "image_field": "data/images/ygo-36996508",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 6,
+   "source_url": "https://images.ygoprodeck.com/images/cards/36996508.jpg"
+  },
+  "ygo-37390590": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 75488302,
+     "length": 1184054,
+     "size": 1184054,
+     "md5": "35ed6ec9048aa5c2b10cd58fbc615cc5"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 76672356,
+     "length": 122176,
+     "size": 122176,
+     "md5": "c75ee20c4dd284e64104231322363b61"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 76794532,
+     "length": 158921,
+     "size": 158921,
+     "md5": "9b960f71085e5f1a6f9d9c63ae867013"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 76953453,
+     "length": 19496,
+     "size": 19496,
+     "md5": "1774a965a528cebac699348b7bbf91c7"
+    }
+   },
+   "image_field": "data/images/ygo-37390590",
+   "source": "ygoprodeck-alt",
+   "card_pc": 37390589,
+   "card_name": "Kunai with Chain",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/37390590.jpg"
+  },
+  "ygo-38033122": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 76972949,
+     "length": 1330335,
+     "size": 1330335,
+     "md5": "f0dceb24c1ca6bcafb8faec79d4e88fc"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 78303284,
+     "length": 149068,
+     "size": 149068,
+     "md5": "e6c45edd4628c235ef1c357b76d10764"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 78452352,
+     "length": 170358,
+     "size": 170358,
+     "md5": "a1b1e953067864f021d48f70f1e8dcb0"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 78622710,
+     "length": 23360,
+     "size": 23360,
+     "md5": "55d8654aea88afcec61166faf66471c1"
+    }
+   },
+   "image_field": "data/images/ygo-38033122",
+   "source": "ygoprodeck-alt",
+   "card_pc": 38033121,
+   "card_name": "Dark Magician Girl",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/38033122.jpg"
+  },
+  "ygo-38033123": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 78646070,
+     "length": 1287670,
+     "size": 1287670,
+     "md5": "a122a75d1aa2ec9f14cc46b0855962dd"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 79933740,
+     "length": 141250,
+     "size": 141250,
+     "md5": "e5d2211400cbf372364683335c22a470"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 80074990,
+     "length": 166792,
+     "size": 166792,
+     "md5": "3001e376ac91670691ea473756c7801c"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 80241782,
+     "length": 21826,
+     "size": 21826,
+     "md5": "b622828c7e50cb32e2f6b219c8df3fdd"
+    }
+   },
+   "image_field": "data/images/ygo-38033123",
+   "source": "ygoprodeck-alt",
+   "card_pc": 38033121,
+   "card_name": "Dark Magician Girl",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/38033123.jpg"
+  },
+  "ygo-38033124": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 80263608,
+     "length": 1110295,
+     "size": 1110295,
+     "md5": "224ddd8c8e9a2911c6bc646355fd3eb1"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 81373903,
+     "length": 115020,
+     "size": 115020,
+     "md5": "2bca89a7450a9659d19a8f8569219c6d"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 81488923,
+     "length": 150134,
+     "size": 150134,
+     "md5": "cb340457af366d09df4c40172f541ca9"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 81639057,
+     "length": 18518,
+     "size": 18518,
+     "md5": "a6d49d3605af7afd94b603344e36ec34"
+    }
+   },
+   "image_field": "data/images/ygo-38033124",
+   "source": "ygoprodeck-alt",
+   "card_pc": 38033121,
+   "card_name": "Dark Magician Girl",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/38033124.jpg"
+  },
+  "ygo-38033125": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 81657575,
+     "length": 1176049,
+     "size": 1176049,
+     "md5": "2418e106ff20798aadde2381bead39e6"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 82833624,
+     "length": 117948,
+     "size": 117948,
+     "md5": "665de0f8b5ae8aa1ad3ec63c0567bb70"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 82951572,
+     "length": 156784,
+     "size": 156784,
+     "md5": "0bc396a8befcf28f960176ee300b6e7b"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 83108356,
+     "length": 19140,
+     "size": 19140,
+     "md5": "1504ce7ec52205036a75561b4ccb5aa0"
+    }
+   },
+   "image_field": "data/images/ygo-38033125",
+   "source": "ygoprodeck-alt",
+   "card_pc": 38033121,
+   "card_name": "Dark Magician Girl",
+   "alt_index": 4,
+   "source_url": "https://images.ygoprodeck.com/images/cards/38033125.jpg"
+  },
+  "ygo-38033126": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 83127496,
+     "length": 1287020,
+     "size": 1287020,
+     "md5": "f6e41f4016bd5b0944235ca4bacef726"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 84414516,
+     "length": 142848,
+     "size": 142848,
+     "md5": "55b5d4ed48764327a171221aa422b56b"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 84557364,
+     "length": 163709,
+     "size": 163709,
+     "md5": "4ea76aca88163635fd2b56e41f6a161c"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 84721073,
+     "length": 21214,
+     "size": 21214,
+     "md5": "2adf193b334a8cfea444bed7620d9fc0"
+    }
+   },
+   "image_field": "data/images/ygo-38033126",
+   "source": "ygoprodeck-alt",
+   "card_pc": 38033121,
+   "card_name": "Dark Magician Girl",
+   "alt_index": 5,
+   "source_url": "https://images.ygoprodeck.com/images/cards/38033126.jpg"
+  },
+  "ygo-38342336": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 84742287,
+     "length": 1465621,
+     "size": 1465621,
+     "md5": "f72514a728f6b03192105c623e2cfb5c"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 86207908,
+     "length": 179298,
+     "size": 179298,
+     "md5": "7325acbf8cea92a716665076fe04bae4"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 86387206,
+     "length": 177578,
+     "size": 177578,
+     "md5": "61718864a5c4ffeac091fa26e70f7f0f"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 86564784,
+     "length": 24014,
+     "size": 24014,
+     "md5": "afbc43af189e476fb645f994a54634d5"
+    }
+   },
+   "image_field": "data/images/ygo-38342336",
+   "source": "ygoprodeck-alt",
+   "card_pc": 38342335,
+   "card_name": "Knightmare Unicorn",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/38342336.jpg"
+  },
+  "ygo-39751093": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 86588798,
+     "length": 1307702,
+     "size": 1307702,
+     "md5": "b92048fd99c424cced4726ab4505d38c"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 87896500,
+     "length": 145860,
+     "size": 145860,
+     "md5": "d2dcc1f65029979653fce1ba6d2bfcfc"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 88042360,
+     "length": 168123,
+     "size": 168123,
+     "md5": "0397c9e22a0e6fbc4d3d1620ac2e771a"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 88210483,
+     "length": 21740,
+     "size": 21740,
+     "md5": "715744e7572714e4097b7734f665ae3b"
+    }
+   },
+   "image_field": "data/images/ygo-39751093",
+   "source": "ygoprodeck-alt",
+   "card_pc": 39751094,
+   "card_name": "Otohime",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/39751093.jpg"
+  },
+  "ygo-40044919": {
+   "files": {
+    "high.png": {
+     "chunk": 0,
+     "offset": 88232223,
+     "length": 1399335,
+     "size": 1399335,
+     "md5": "95d16748bb5737fafcd00328e3114ff1"
+    },
+    "high.webp": {
+     "chunk": 0,
+     "offset": 89631558,
+     "length": 161004,
+     "size": 161004,
+     "md5": "d90c7d86a79c2c750ecab6b383403a87"
+    },
+    "low.png": {
+     "chunk": 0,
+     "offset": 89792562,
+     "length": 175587,
+     "size": 175587,
+     "md5": "2c6c11d442e6d795d5f98a6ac0a68bdf"
+    },
+    "low.webp": {
+     "chunk": 0,
+     "offset": 89968149,
+     "length": 23518,
+     "size": 23518,
+     "md5": "bf42e55d622f26598fc49765024ddce7"
+    }
+   },
+   "image_field": "data/images/ygo-40044919",
+   "source": "ygoprodeck-alt",
+   "card_pc": 40044918,
+   "card_name": "Elemental HERO Stratos",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/40044919.jpg"
+  },
+  "ygo-40542826": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 0,
+     "length": 1395115,
+     "size": 1395115,
+     "md5": "6b95bfe4d58a4bb5eef6b443c3c66450"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 1395115,
+     "length": 163706,
+     "size": 163706,
+     "md5": "690eb673b91b8125e147d760b6c46ab6"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 1558821,
+     "length": 173646,
+     "size": 173646,
+     "md5": "d926a2954210a172076ea39071d8cb83"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 1732467,
+     "length": 23210,
+     "size": 23210,
+     "md5": "8531eb29991802e0062ab067805541ee"
+    }
+   },
+   "image_field": "data/images/ygo-40542826",
+   "source": "ygoprodeck-alt",
+   "card_pc": 40542825,
+   "card_name": "Familiar-Possessed - Lyna",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/40542826.jpg"
+  },
+  "ygo-40640058": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 1755677,
+     "length": 969154,
+     "size": 969154,
+     "md5": "af4bd11b8720919d6b11e5b2aa5a90c5"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 2724831,
+     "length": 94328,
+     "size": 94328,
+     "md5": "992d4531a6f3aef6151f58fcd23daf96"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 2819159,
+     "length": 134940,
+     "size": 134940,
+     "md5": "b136595e2635c507c9745507c0ddbf2c"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 2954099,
+     "length": 15266,
+     "size": 15266,
+     "md5": "87a327a9610d2d1435190210a9ef0202"
+    }
+   },
+   "image_field": "data/images/ygo-40640058",
+   "source": "ygoprodeck-alt",
+   "card_pc": 40640057,
+   "card_name": "Kuriboh",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/40640058.jpg"
+  },
+  "ygo-40640059": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 2969365,
+     "length": 1106261,
+     "size": 1106261,
+     "md5": "2387e867fef2b07f8adfa565138dd104"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 4075626,
+     "length": 109434,
+     "size": 109434,
+     "md5": "418613e7568d6b0c1e3854ad9f2e38e3"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 4185060,
+     "length": 149004,
+     "size": 149004,
+     "md5": "a05ca7a7b6cac5fde41f9babaeabdee0"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 4334064,
+     "length": 17388,
+     "size": 17388,
+     "md5": "279bfc49918fa565273c8be68763b093"
+    }
+   },
+   "image_field": "data/images/ygo-40640059",
+   "source": "ygoprodeck-alt",
+   "card_pc": 40640057,
+   "card_name": "Kuriboh",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/40640059.jpg"
+  },
+  "ygo-41209828": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 4351452,
+     "length": 1513967,
+     "size": 1513967,
+     "md5": "23b6a5b57b10c8383a18d1b0518ded8e"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 5865419,
+     "length": 202504,
+     "size": 202504,
+     "md5": "95ab89092e4749ab95d8c916d256d36d"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 6067923,
+     "length": 178608,
+     "size": 178608,
+     "md5": "80e27c3a129edc6a3fc7b10fd5dbf949"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 6246531,
+     "length": 24744,
+     "size": 24744,
+     "md5": "a336c8cf46b40c2236866ac8e1fa4b83"
+    }
+   },
+   "image_field": "data/images/ygo-41209828",
+   "source": "ygoprodeck-alt",
+   "card_pc": 41209827,
+   "card_name": "Starving Venom Fusion Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/41209828.jpg"
+  },
+  "ygo-41356846": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 6271275,
+     "length": 1167173,
+     "size": 1167173,
+     "md5": "9fa6628766e182ac0c4e46b0b7247ff3"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 7438448,
+     "length": 117530,
+     "size": 117530,
+     "md5": "3c61365b1d6a6752e1f90f89e892eb25"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 7555978,
+     "length": 157270,
+     "size": 157270,
+     "md5": "d37991e198d4abd659caf55851440344"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 7713248,
+     "length": 18702,
+     "size": 18702,
+     "md5": "2bb416543877d382122f973f298fe0af"
+    }
+   },
+   "image_field": "data/images/ygo-41356846",
+   "source": "ygoprodeck-alt",
+   "card_pc": 41356845,
+   "card_name": "Acid Trap Hole",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/41356846.jpg"
+  },
+  "ygo-41462084": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 7731950,
+     "length": 1030377,
+     "size": 1030377,
+     "md5": "5321711103d56c37fca69cc2bcd1f6e6"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 8762327,
+     "length": 100232,
+     "size": 100232,
+     "md5": "688ff31d0249a04631e1adeedaf302b6"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 8862559,
+     "length": 142843,
+     "size": 142843,
+     "md5": "d64b9317260a9d76381a6356f75a0156"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 9005402,
+     "length": 16342,
+     "size": 16342,
+     "md5": "666fb86701729ae9fdbf4d0481de0f30"
+    }
+   },
+   "image_field": "data/images/ygo-41462084",
+   "source": "ygoprodeck-alt",
+   "card_pc": 41462083,
+   "card_name": "Thousand Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/41462084.jpg"
+  },
+  "ygo-41463182": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 9021744,
+     "length": 1471997,
+     "size": 1471997,
+     "md5": "eb3e7e82a15a48def372f1d64338170d"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 10493741,
+     "length": 183326,
+     "size": 183326,
+     "md5": "c8ec6df455fcb3ea51be4df26d221f07"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 10677067,
+     "length": 182670,
+     "size": 182670,
+     "md5": "49fa9a21d13da0e389bdb89d758cb646"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 10859737,
+     "length": 26566,
+     "size": 26566,
+     "md5": "fb00415260f1a7c2b6d11eb0d1b7f947"
+    }
+   },
+   "image_field": "data/images/ygo-41463182",
+   "source": "ygoprodeck-alt",
+   "card_pc": 41463181,
+   "card_name": "Salamangreat Heatleo",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/41463182.jpg"
+  },
+  "ygo-42035045": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 10886303,
+     "length": 1108885,
+     "size": 1108885,
+     "md5": "55e049e27a0bef257900c68d5965d28d"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 11995188,
+     "length": 105354,
+     "size": 105354,
+     "md5": "48acd1b6b23beb513735fb27570b6be0"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 12100542,
+     "length": 150237,
+     "size": 150237,
+     "md5": "40395737d9ad1cd05fd0096fd7ea5a95"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 12250779,
+     "length": 17702,
+     "size": 17702,
+     "md5": "ec260cd9f19914c950bccbf6728940d5"
+    }
+   },
+   "image_field": "data/images/ygo-42035045",
+   "source": "ygoprodeck-alt",
+   "card_pc": 42035044,
+   "card_name": "Panther Warrior",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/42035045.jpg"
+  },
+  "ygo-4280259": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 12268481,
+     "length": 1293937,
+     "size": 1293937,
+     "md5": "cddbeb01ecdb39b3b507ad8a394d9041"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 13562418,
+     "length": 145978,
+     "size": 145978,
+     "md5": "931a6955dce999e9101b30c182c4d71d"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 13708396,
+     "length": 167810,
+     "size": 167810,
+     "md5": "b2782670cb3fb246e0b07272dce19472"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 13876206,
+     "length": 21282,
+     "size": 21282,
+     "md5": "7df4b40cb1fce6010451f9f69431bf75"
+    }
+   },
+   "image_field": "data/images/ygo-4280259",
+   "source": "ygoprodeck-alt",
+   "card_pc": 4280258,
+   "card_name": "Apollousa, Bow of the Goddess",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/4280259.jpg"
+  },
+  "ygo-4376659": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 13897488,
+     "length": 1411008,
+     "size": 1411008,
+     "md5": "1cb0d61caa974ccb0f57267c989c05a1"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 15308496,
+     "length": 166414,
+     "size": 166414,
+     "md5": "394366f3f781e19093b619cd7ae8fb8e"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 15474910,
+     "length": 174250,
+     "size": 174250,
+     "md5": "d919917efe5e64e1ef5b059e08312644"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 15649160,
+     "length": 23252,
+     "size": 23252,
+     "md5": "6b09ded13f4dfc595da837b5b5bbb4d3"
+    }
+   },
+   "image_field": "data/images/ygo-4376659",
+   "source": "ygoprodeck-alt",
+   "card_pc": 4376658,
+   "card_name": "Familiar-Possessed - Hiita",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/4376659.jpg"
+  },
+  "ygo-43892409": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 15672412,
+     "length": 1368871,
+     "size": 1368871,
+     "md5": "d487bebb53a12d5d4da3ac344e94de66"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 17041283,
+     "length": 165156,
+     "size": 165156,
+     "md5": "576922d61014ca8bd0aec158a41f39bd"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 17206439,
+     "length": 175212,
+     "size": 175212,
+     "md5": "5ea19d2036751135bac6fe21ed3e5d0f"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 17381651,
+     "length": 23610,
+     "size": 23610,
+     "md5": "34436f1c79cdc6c97eae7d1ae8336218"
+    }
+   },
+   "image_field": "data/images/ygo-43892409",
+   "source": "ygoprodeck-alt",
+   "card_pc": 43892408,
+   "card_name": "Dark Magician Girl the Dragon Knight",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/43892409.jpg"
+  },
+  "ygo-44508095": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 17405261,
+     "length": 1262481,
+     "size": 1262481,
+     "md5": "27c80f9ecc9dff6d6a4f753c1bb6bf4f"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 18667742,
+     "length": 176138,
+     "size": 176138,
+     "md5": "538d2ee1fc19f56254eb85c6cbc6d0c7"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 18843880,
+     "length": 162878,
+     "size": 162878,
+     "md5": "5d1ebf3cc32ada757d846004fc9c9e0c"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 19006758,
+     "length": 22670,
+     "size": 22670,
+     "md5": "89cb67eab3098fbc12c1753f5661aec5"
+    }
+   },
+   "image_field": "data/images/ygo-44508095",
+   "source": "ygoprodeck-alt",
+   "card_pc": 44508094,
+   "card_name": "Stardust Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/44508095.jpg"
+  },
+  "ygo-45231178": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 19029428,
+     "length": 1115227,
+     "size": 1115227,
+     "md5": "5675971ca04ff5be424f22766d484df0"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 20144655,
+     "length": 112164,
+     "size": 112164,
+     "md5": "dea3877dc7b70402d40d8e700b2913ad"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 20256819,
+     "length": 151907,
+     "size": 151907,
+     "md5": "e7cfad2425c8f8c27140bba5e39e733a"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 20408726,
+     "length": 19014,
+     "size": 19014,
+     "md5": "3b0c9d10ee3aef3916129442f0c23877"
+    }
+   },
+   "image_field": "data/images/ygo-45231178",
+   "source": "ygoprodeck-alt",
+   "card_pc": 45231177,
+   "card_name": "Flame Swordsman",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/45231178.jpg"
+  },
+  "ygo-46173681": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 20427740,
+     "length": 956903,
+     "size": 956903,
+     "md5": "2f3808dc89de9e86273ebddd97bd1037"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 21384643,
+     "length": 92812,
+     "size": 92812,
+     "md5": "e4d0542c8a86bcbb56eaf3609902a3dc"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 21477455,
+     "length": 138023,
+     "size": 138023,
+     "md5": "53edc409b0f884dcb1d6db331489754d"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 21615478,
+     "length": 15406,
+     "size": 15406,
+     "md5": "2e11c602ca667775f8ad1a0ac69a5f84"
+    }
+   },
+   "image_field": "data/images/ygo-46173681",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46173680,
+   "card_name": "Doomsday Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46173681.jpg"
+  },
+  "ygo-46986415": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 21630884,
+     "length": 1116012,
+     "size": 1116012,
+     "md5": "f5aee4bb5f2a796d49dec2852023fa3e"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 22746896,
+     "length": 124728,
+     "size": 124728,
+     "md5": "af2a6e2ea5ec4ad33709061efc2efb50"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 22871624,
+     "length": 149590,
+     "size": 149590,
+     "md5": "34ea533d0852163c2a9f0446a4c82f71"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 23021214,
+     "length": 19316,
+     "size": 19316,
+     "md5": "c20e330278569bc4bd97046a80671639"
+    }
+   },
+   "image_field": "data/images/ygo-46986415",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986415.jpg"
+  },
+  "ygo-46986416": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 23040530,
+     "length": 1250028,
+     "size": 1250028,
+     "md5": "200d3e0177a472b2897eae686410722a"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 24290558,
+     "length": 147462,
+     "size": 147462,
+     "md5": "b5d9ac4b0f421e6c8b22406b0b0b37fe"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 24438020,
+     "length": 157893,
+     "size": 157893,
+     "md5": "9727328fb160133953caae33d5961fc4"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 24595913,
+     "length": 19894,
+     "size": 19894,
+     "md5": "0232d5c00723dd3c1c9c9aeef91d0ecf"
+    }
+   },
+   "image_field": "data/images/ygo-46986416",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986416.jpg"
+  },
+  "ygo-46986417": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 24615807,
+     "length": 904526,
+     "size": 904526,
+     "md5": "65f2e52a9fe51a0c4aa7462c166bb64a"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 25520333,
+     "length": 96222,
+     "size": 96222,
+     "md5": "cccddbd6cd73750995cd17b2aaf5870e"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 25616555,
+     "length": 126347,
+     "size": 126347,
+     "md5": "62b9c10323780d3230ac250cddb122c0"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 25742902,
+     "length": 15724,
+     "size": 15724,
+     "md5": "e50b8bc4cff464381e152c17d31f75bf"
+    }
+   },
+   "image_field": "data/images/ygo-46986417",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986417.jpg"
+  },
+  "ygo-46986418": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 25758626,
+     "length": 1263456,
+     "size": 1263456,
+     "md5": "82b8f2f485656a2f8e1f6528a46aedeb"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 27022082,
+     "length": 142234,
+     "size": 142234,
+     "md5": "0a7a946764e413ffab4f8e0c2d164ac5"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 27164316,
+     "length": 160038,
+     "size": 160038,
+     "md5": "7f13aecb71e0b11f7958924bedcad334"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 27324354,
+     "length": 19822,
+     "size": 19822,
+     "md5": "bd4ec0233bddde2d0b22791f260dd9e7"
+    }
+   },
+   "image_field": "data/images/ygo-46986418",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 4,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986418.jpg"
+  },
+  "ygo-46986419": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 27344176,
+     "length": 1310850,
+     "size": 1310850,
+     "md5": "c53df93862983b05332a595bcb94afb6"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 28655026,
+     "length": 151766,
+     "size": 151766,
+     "md5": "79d74dbb8811e62550c91194ae2db08d"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 28806792,
+     "length": 165278,
+     "size": 165278,
+     "md5": "4f11f336556429707287bb4c60ceb4a9"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 28972070,
+     "length": 22354,
+     "size": 22354,
+     "md5": "fa6365a314a6e04ae5f981b653b3bf62"
+    }
+   },
+   "image_field": "data/images/ygo-46986419",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 5,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986419.jpg"
+  },
+  "ygo-46986420": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 28994424,
+     "length": 1246958,
+     "size": 1246958,
+     "md5": "ad880cf4171ea32f592388e012a23ea9"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 30241382,
+     "length": 136820,
+     "size": 136820,
+     "md5": "06ff10c5b52d0f21a44c23846aeb8fc6"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 30378202,
+     "length": 161642,
+     "size": 161642,
+     "md5": "628f9b4821ed926ac99a1b05dd4acb57"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 30539844,
+     "length": 21170,
+     "size": 21170,
+     "md5": "0b0308374fae4ebd0494ffff8de143b5"
+    }
+   },
+   "image_field": "data/images/ygo-46986420",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 7,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986420.jpg"
+  },
+  "ygo-46986421": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 30561014,
+     "length": 1295679,
+     "size": 1295679,
+     "md5": "2f72c559bc00552a71b2042ebccb89bd"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 31856693,
+     "length": 161356,
+     "size": 161356,
+     "md5": "b36b30c6a19ec5f5c4ea21c90bad2efb"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 32018049,
+     "length": 161061,
+     "size": 161061,
+     "md5": "f65cec7840dd752b3144cc42ecf73db6"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 32179110,
+     "length": 21636,
+     "size": 21636,
+     "md5": "a42bf57ae956eca10d979c3696a122d0"
+    }
+   },
+   "image_field": "data/images/ygo-46986421",
+   "source": "ygoprodeck-alt",
+   "card_pc": 46986414,
+   "card_name": "Dark Magician",
+   "alt_index": 8,
+   "source_url": "https://images.ygoprodeck.com/images/cards/46986421.jpg"
+  },
+  "ygo-47852925": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 32200746,
+     "length": 1022615,
+     "size": 1022615,
+     "md5": "6440c13330f34dc7663ddc57e48e6269"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 33223361,
+     "length": 98614,
+     "size": 98614,
+     "md5": "9395eef08a6b07a9419c9852e8a2f8ba"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 33321975,
+     "length": 141922,
+     "size": 141922,
+     "md5": "39dab116d97861756caa15b58908d166"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 33463897,
+     "length": 15808,
+     "size": 15808,
+     "md5": "76495290763eea9034150864785de422"
+    }
+   },
+   "image_field": "data/images/ygo-47852925",
+   "source": "ygoprodeck-alt",
+   "card_pc": 47852924,
+   "card_name": "Soul of the Pure",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/47852925.jpg"
+  },
+  "ygo-49791928": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 33479705,
+     "length": 1155048,
+     "size": 1155048,
+     "md5": "27a0ba814f076049650f2ac12ed832bf"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 34634753,
+     "length": 128212,
+     "size": 128212,
+     "md5": "2ce0f1091628db6ed1d15891ae162fb2"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 34762965,
+     "length": 154980,
+     "size": 154980,
+     "md5": "c95bad92dcdada814580b31e473300dc"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 34917945,
+     "length": 21272,
+     "size": 21272,
+     "md5": "95feb2b9f6daa4a0174ddaf8c16e4a5a"
+    }
+   },
+   "image_field": "data/images/ygo-49791928",
+   "source": "ygoprodeck-alt",
+   "card_pc": 49791927,
+   "card_name": "Tiger Axe",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/49791928.jpg"
+  },
+  "ygo-5043011": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 34939217,
+     "length": 1462410,
+     "size": 1462410,
+     "md5": "9f28f3a8ea68fd01d5981fd85b893d69"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 36401627,
+     "length": 177318,
+     "size": 177318,
+     "md5": "211b143ef152d5198dc3df6ffbe847d9"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 36578945,
+     "length": 180249,
+     "size": 180249,
+     "md5": "f435b1d94dffaa0b440f9b12db670b10"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 36759194,
+     "length": 25574,
+     "size": 25574,
+     "md5": "d944604d16a4eb9735c973b9f5f1ee39"
+    }
+   },
+   "image_field": "data/images/ygo-5043011",
+   "source": "ygoprodeck-alt",
+   "card_pc": 5043010,
+   "card_name": "Firewall Dragon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/5043011.jpg"
+  },
+  "ygo-5043012": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 36784768,
+     "length": 1535288,
+     "size": 1535288,
+     "md5": "8d07b3c476ac5a798cce4ad1455187a7"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 38320056,
+     "length": 193116,
+     "size": 193116,
+     "md5": "7d32fab8a87790143a97de8011c4dbd8"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 38513172,
+     "length": 185881,
+     "size": 185881,
+     "md5": "4ddd6d3b5f8bd606897451768467de2b"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 38699053,
+     "length": 25768,
+     "size": 25768,
+     "md5": "21e74231e9f72e1abb5fa08c17c8199e"
+    }
+   },
+   "image_field": "data/images/ygo-5043012",
+   "source": "ygoprodeck-alt",
+   "card_pc": 5043010,
+   "card_name": "Firewall Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/5043012.jpg"
+  },
+  "ygo-52038442": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 38724821,
+     "length": 1168693,
+     "size": 1168693,
+     "md5": "613024ddd3ed11739a761960a77d754b"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 39893514,
+     "length": 129304,
+     "size": 129304,
+     "md5": "de5adc43c6149df61ebfe40a7aca7f8d"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 40022818,
+     "length": 152011,
+     "size": 152011,
+     "md5": "701be659939e267462e161086c8aaa14"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 40174829,
+     "length": 16966,
+     "size": 16966,
+     "md5": "5874d27cc8bb5b7b6b24ddc8763385f9"
+    }
+   },
+   "image_field": "data/images/ygo-52038442",
+   "source": "ygoprodeck-alt",
+   "card_pc": 52038441,
+   "card_name": "Ghost Mourner & Moonlit Chill",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/52038442.jpg"
+  },
+  "ygo-52900001": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 40191795,
+     "length": 1112508,
+     "size": 1112508,
+     "md5": "d71b8fa9b4809e7b8e263d1a12884983"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 41304303,
+     "length": 124178,
+     "size": 124178,
+     "md5": "868ff31a65cefa0f6dba0e704e1f79cc"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 41428481,
+     "length": 151431,
+     "size": 151431,
+     "md5": "63877732439e3add886740587f9eb588"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 41579912,
+     "length": 19074,
+     "size": 19074,
+     "md5": "36d6e06fd30bee4ce73c4e498d44a818"
+    }
+   },
+   "image_field": "data/images/ygo-52900001",
+   "source": "ygoprodeck-alt",
+   "card_pc": 25415053,
+   "card_name": "Shinobird Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/52900001.jpg"
+  },
+  "ygo-55878039": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 41598986,
+     "length": 1407518,
+     "size": 1407518,
+     "md5": "b4a261906c0ffa3dd521ab6d06ad5eca"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 43006504,
+     "length": 169140,
+     "size": 169140,
+     "md5": "19b9a0e3dbf6f34362fc66c0e26ca9dd"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 43175644,
+     "length": 177130,
+     "size": 177130,
+     "md5": "f91ff5880bff271f33b8d3c147ae6065"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 43352774,
+     "length": 23218,
+     "size": 23218,
+     "md5": "e4b0b8e5d068c95dd8f07022f2266521"
+    }
+   },
+   "image_field": "data/images/ygo-55878039",
+   "source": "ygoprodeck-alt",
+   "card_pc": 55878038,
+   "card_name": "Chaos Dragon Levianeer",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/55878039.jpg"
+  },
+  "ygo-56043446": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 43375992,
+     "length": 1230207,
+     "size": 1230207,
+     "md5": "d401166c8d0530056f780df23fae59df"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 44606199,
+     "length": 135354,
+     "size": 135354,
+     "md5": "b4603754fa1cad3009f72bfdfd69ce41"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 44741553,
+     "length": 161841,
+     "size": 161841,
+     "md5": "b03c75b1d9a134b99c69636b529cd0af"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 44903394,
+     "length": 20710,
+     "size": 20710,
+     "md5": "5d030439e77237ffa8e99a693be930d5"
+    }
+   },
+   "image_field": "data/images/ygo-56043446",
+   "source": "ygoprodeck-alt",
+   "card_pc": 56043447,
+   "card_name": "Viser Des",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/56043446.jpg"
+  },
+  "ygo-56993277": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 44924104,
+     "length": 929755,
+     "size": 929755,
+     "md5": "733f728fb1cd4cd52b077b9e8ced4bba"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 45853859,
+     "length": 87466,
+     "size": 87466,
+     "md5": "010f78ab6e62706e46f7ecae3c5c544e"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 45941325,
+     "length": 132610,
+     "size": 132610,
+     "md5": "db1a6f2006c57c3c5698d780280318ef"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 46073935,
+     "length": 14048,
+     "size": 14048,
+     "md5": "42488c52cd2400bad627f7ee76daeb8e"
+    }
+   },
+   "image_field": "data/images/ygo-56993277",
+   "source": "ygoprodeck-alt",
+   "card_pc": 56993276,
+   "card_name": "Wattcancel",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/56993277.jpg"
+  },
+  "ygo-57116034": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 46087983,
+     "length": 1197993,
+     "size": 1197993,
+     "md5": "9bdee1951cce20115c709a745ef8430b"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 47285976,
+     "length": 120610,
+     "size": 120610,
+     "md5": "e0808ae871d420ad0a8bffa17b6a10e4"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 47406586,
+     "length": 159788,
+     "size": 159788,
+     "md5": "63f19c42d13e4d34811fdc30583ef46b"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 47566374,
+     "length": 19972,
+     "size": 19972,
+     "md5": "43ec8fbb725cbdc4fca831030a091930"
+    }
+   },
+   "image_field": "data/images/ygo-57116034",
+   "source": "ygoprodeck-alt",
+   "card_pc": 57116033,
+   "card_name": "Winged Kuriboh",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/57116034.jpg"
+  },
+  "ygo-57728571": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 47586346,
+     "length": 1260414,
+     "size": 1260414,
+     "md5": "827df17306eaeda05978190620690955"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 48846760,
+     "length": 137650,
+     "size": 137650,
+     "md5": "0563e7bc7ebaadb31619021ee01dc2b2"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 48984410,
+     "length": 165106,
+     "size": 165106,
+     "md5": "4901c3f86c0b054f99bebaa3e5acace2"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 49149516,
+     "length": 20266,
+     "size": 20266,
+     "md5": "74c0d82e617e6db72974e1ed3b4ba17c"
+    }
+   },
+   "image_field": "data/images/ygo-57728571",
+   "source": "ygoprodeck-alt",
+   "card_pc": 57728570,
+   "card_name": "Crush Card Virus",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/57728571.jpg"
+  },
+  "ygo-58932616": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 49169782,
+     "length": 1183405,
+     "size": 1183405,
+     "md5": "939c245c010bd146468a66d51bdb995b"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 50353187,
+     "length": 125172,
+     "size": 125172,
+     "md5": "a42f55f011f8273f8e32e39ea3825823"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 50478359,
+     "length": 157205,
+     "size": 157205,
+     "md5": "f4cf1bc60757bc73bb8798289402de73"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 50635564,
+     "length": 19904,
+     "size": 19904,
+     "md5": "7f77f889f4851cc8bffd1a8714cd70b8"
+    }
+   },
+   "image_field": "data/images/ygo-58932616",
+   "source": "ygoprodeck-alt",
+   "card_pc": 58932615,
+   "card_name": "Elemental HERO Burstinatrix",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/58932616.jpg"
+  },
+  "ygo-59438931": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 50655468,
+     "length": 1461417,
+     "size": 1461417,
+     "md5": "1a6a14d01584c73367708418bc7ff01f"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 52116885,
+     "length": 176578,
+     "size": 176578,
+     "md5": "237ec9911df9e437835ca443040d87bf"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 52293463,
+     "length": 180661,
+     "size": 180661,
+     "md5": "d81ae1b6006dfd054a599a1b55d115f0"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 52474124,
+     "length": 25014,
+     "size": 25014,
+     "md5": "9948028321619685a565bf49e158c91a"
+    }
+   },
+   "image_field": "data/images/ygo-59438931",
+   "source": "ygoprodeck-alt",
+   "card_pc": 59438930,
+   "card_name": "Ghost Ogre & Snow Rabbit",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/59438931.jpg"
+  },
+  "ygo-60643554": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 52499138,
+     "length": 1228199,
+     "size": 1228199,
+     "md5": "bdc252095ab514f81815f809b6b91cf5"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 53727337,
+     "length": 135628,
+     "size": 135628,
+     "md5": "27adaa542ea71947d03a0d93db2c02ff"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 53862965,
+     "length": 162220,
+     "size": 162220,
+     "md5": "c744e3b6048879073028c1ea41ed949c"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 54025185,
+     "length": 20396,
+     "size": 20396,
+     "md5": "7ab1e626a9bbaaf0dcebbb34902af598"
+    }
+   },
+   "image_field": "data/images/ygo-60643554",
+   "source": "ygoprodeck-alt",
+   "card_pc": 60643553,
+   "card_name": "Ghost Sister & Spooky Dogwood",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/60643554.jpg"
+  },
+  "ygo-60764583": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 54045581,
+     "length": 821478,
+     "size": 821478,
+     "md5": "abe98509e07171893885815bbaa920ed"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 54867059,
+     "length": 80734,
+     "size": 80734,
+     "md5": "254fc35f0d503ab12f7cb6368f8b7910"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 54947793,
+     "length": 125102,
+     "size": 125102,
+     "md5": "f814d1a80c53ffe75d9afe57b0b2b129"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 55072895,
+     "length": 12610,
+     "size": 12610,
+     "md5": "0f6b22e56c01fc72dbcd2ee184dec1b4"
+    }
+   },
+   "image_field": "data/images/ygo-60764583",
+   "source": "ygoprodeck-alt",
+   "card_pc": 60764582,
+   "card_name": "Lamb Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/60764583.jpg"
+  },
+  "ygo-61307543": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 55085505,
+     "length": 404436,
+     "size": 404436,
+     "md5": "19703b481324f63a2498a85002240eec"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 55489941,
+     "length": 56224,
+     "size": 56224,
+     "md5": "87c9a4e11fd4591ad6c41b121c706ff6"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 55546165,
+     "length": 159151,
+     "size": 159151,
+     "md5": "d381908e31689989216bf00cffb620c1"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 55705316,
+     "length": 19358,
+     "size": 19358,
+     "md5": "edd6c71b2a97cafbaf7d69bd9eeadb5c"
+    }
+   },
+   "image_field": "data/images/ygo-61307543",
+   "source": "ygoprodeck-alt",
+   "card_pc": 61307542,
+   "card_name": "Paleozoic Anomalocaris",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/61307543.jpg"
+  },
+  "ygo-6150045": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 55724674,
+     "length": 1347923,
+     "size": 1347923,
+     "md5": "69082bcacefa835c88f11d330f6b9404"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 57072597,
+     "length": 162884,
+     "size": 162884,
+     "md5": "9951cf8638a230592bd05fb82833796e"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 57235481,
+     "length": 172400,
+     "size": 172400,
+     "md5": "c9616a70be9b9b8fbc69d583f32f099c"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 57407881,
+     "length": 23964,
+     "size": 23964,
+     "md5": "fed02d0cd3b41d9d74b0fe423e2c3df1"
+    }
+   },
+   "image_field": "data/images/ygo-6150045",
+   "source": "ygoprodeck-alt",
+   "card_pc": 6150044,
+   "card_name": "Arcana Knight Joker",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/6150045.jpg"
+  },
+  "ygo-62015409": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 57431845,
+     "length": 1426787,
+     "size": 1426787,
+     "md5": "0452ff0254ab245176e037844fedf5ac"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 58858632,
+     "length": 170496,
+     "size": 170496,
+     "md5": "b5dd68a0cdcc5e8fe3a045d86d703bdd"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 59029128,
+     "length": 178351,
+     "size": 178351,
+     "md5": "57cc8a9579c5e5b9b44f81e82d5cf4a7"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 59207479,
+     "length": 23656,
+     "size": 23656,
+     "md5": "566d31a827198a9da5e0c54db112a65d"
+    }
+   },
+   "image_field": "data/images/ygo-62015409",
+   "source": "ygoprodeck-alt",
+   "card_pc": 62015408,
+   "card_name": "Ghost Reaper & Winter Cherries",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/62015409.jpg"
+  },
+  "ygo-63288574": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 59231135,
+     "length": 1457572,
+     "size": 1457572,
+     "md5": "5a3b8638d80cf7dc4051afc15cb948f5"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 60688707,
+     "length": 178740,
+     "size": 178740,
+     "md5": "3636020846702f9120ce02acecddb0e6"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 60867447,
+     "length": 179476,
+     "size": 179476,
+     "md5": "02ae7027ae904b267783c2caea945d31"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 61046923,
+     "length": 25098,
+     "size": 25098,
+     "md5": "9826e84497ca559d6c8a292281e32a33"
+    }
+   },
+   "image_field": "data/images/ygo-63288574",
+   "source": "ygoprodeck-alt",
+   "card_pc": 63288573,
+   "card_name": "Sky Striker Ace - Kagari",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/63288574.jpg"
+  },
+  "ygo-6368039": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 61072021,
+     "length": 1165829,
+     "size": 1165829,
+     "md5": "bedfa1541daecfe38a1ab2fbe8676a9c"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 62237850,
+     "length": 125728,
+     "size": 125728,
+     "md5": "4011836043f372bd08ef4bcdafd2583e"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 62363578,
+     "length": 155621,
+     "size": 155621,
+     "md5": "1cb9e2b0618d9b906025a6e12f818817"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 62519199,
+     "length": 20264,
+     "size": 20264,
+     "md5": "cd8b5452a6b937a62a722551a830604e"
+    }
+   },
+   "image_field": "data/images/ygo-6368039",
+   "source": "ygoprodeck-alt",
+   "card_pc": 6368038,
+   "card_name": "Gaia The Fierce Knight",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/6368039.jpg"
+  },
+  "ygo-64335804": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 62539463,
+     "length": 1241037,
+     "size": 1241037,
+     "md5": "7c62519afcf8c2ebc5e88627f00d2103"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 63780500,
+     "length": 137598,
+     "size": 137598,
+     "md5": "956c6a7f6655b8aeca76213898a62b08"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 63918098,
+     "length": 163351,
+     "size": 163351,
+     "md5": "35b3e5395dccb1aa441860a4fbe44b49"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 64081449,
+     "length": 21764,
+     "size": 21764,
+     "md5": "24227044a68105b09cf162be31c93577"
+    }
+   },
+   "image_field": "data/images/ygo-64335804",
+   "source": "ygoprodeck-alt",
+   "card_pc": 64335805,
+   "card_name": "Red-Eyes Black Metal Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/64335804.jpg"
+  },
+  "ygo-65741787": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 64103213,
+     "length": 1449060,
+     "size": 1449060,
+     "md5": "c766ace81cd120411ffdc00815d2796f"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 65552273,
+     "length": 177774,
+     "size": 177774,
+     "md5": "6b75d15ef30ab0adb0e9e45851223119"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 65730047,
+     "length": 179171,
+     "size": 179171,
+     "md5": "d3a62cf792eee8cd925bd74497c05b21"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 65909218,
+     "length": 25336,
+     "size": 25336,
+     "md5": "a1f36de0a11acd3220ca9a43221508c5"
+    }
+   },
+   "image_field": "data/images/ygo-65741787",
+   "source": "ygoprodeck-alt",
+   "card_pc": 65741786,
+   "card_name": "I:P Masquerena",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/65741787.jpg"
+  },
+  "ygo-68540058": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 65934554,
+     "length": 1110458,
+     "size": 1110458,
+     "md5": "5f9ae8c3def6a1213cc466c21eb2b14c"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 67045012,
+     "length": 109880,
+     "size": 109880,
+     "md5": "9f345328d009d73178c224c4d931e147"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 67154892,
+     "length": 151369,
+     "size": 151369,
+     "md5": "b1b06fae4ee5a31a361ab6968c357d81"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 67306261,
+     "length": 17264,
+     "size": 17264,
+     "md5": "484bf59a3e23364df0630268df855b2c"
+    }
+   },
+   "image_field": "data/images/ygo-68540058",
+   "source": "ygoprodeck-alt",
+   "card_pc": 68540059,
+   "card_name": "Metalmorph",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/68540058.jpg"
+  },
+  "ygo-68881650": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 67323525,
+     "length": 1378924,
+     "size": 1378924,
+     "md5": "c5f160aa28ade0ca533e88b5e53c0216"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 68702449,
+     "length": 161212,
+     "size": 161212,
+     "md5": "f022294b512dc7be88cf6dc5817ecc62"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 68863661,
+     "length": 174069,
+     "size": 174069,
+     "md5": "f4b06203de151983155c45323b9026b4"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 69037730,
+     "length": 23244,
+     "size": 23244,
+     "md5": "8bdca6b83dad186b5a52a8d7ec685fd7"
+    }
+   },
+   "image_field": "data/images/ygo-68881650",
+   "source": "ygoprodeck-alt",
+   "card_pc": 68881649,
+   "card_name": "Familiar-Possessed - Eria",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/68881650.jpg"
+  },
+  "ygo-69140099": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 69060974,
+     "length": 1110138,
+     "size": 1110138,
+     "md5": "057f6e2b2e359f4c2e4d2a8350496773"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 70171112,
+     "length": 111832,
+     "size": 111832,
+     "md5": "0f3683f044023be3bcb74e67a997a28d"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 70282944,
+     "length": 149871,
+     "size": 149871,
+     "md5": "52247f0df931cce110dfdcb204efbc0d"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 70432815,
+     "length": 17966,
+     "size": 17966,
+     "md5": "d7a238cf561c638ac83d01e814cbb7af"
+    }
+   },
+   "image_field": "data/images/ygo-69140099",
+   "source": "ygoprodeck-alt",
+   "card_pc": 69140098,
+   "card_name": "Gemini Elf",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/69140099.jpg"
+  },
+  "ygo-70095155": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 70450781,
+     "length": 1202324,
+     "size": 1202324,
+     "md5": "66128a7f788761daaf00de7d6efb91a9"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 71653105,
+     "length": 126652,
+     "size": 126652,
+     "md5": "199abdd1422fb3764c44c39d29068bf5"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 71779757,
+     "length": 162593,
+     "size": 162593,
+     "md5": "897df5cb41b3d02c4235203006725642"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 71942350,
+     "length": 19696,
+     "size": 19696,
+     "md5": "5475f1de53d61da5221a40c9feb5836d"
+    }
+   },
+   "image_field": "data/images/ygo-70095155",
+   "source": "ygoprodeck-alt",
+   "card_pc": 70095154,
+   "card_name": "Cyber Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/70095155.jpg"
+  },
+  "ygo-70781053": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 71962046,
+     "length": 1199935,
+     "size": 1199935,
+     "md5": "03a618763972673e9001634cc75ba796"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 73161981,
+     "length": 128638,
+     "size": 128638,
+     "md5": "84a3a2f234ff682af4b4866b5639dc26"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 73290619,
+     "length": 162725,
+     "size": 162725,
+     "md5": "87e27dc9c22bbbe02c01678abe029e2e"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 73453344,
+     "length": 20928,
+     "size": 20928,
+     "md5": "379f4eba216a477c1786c155b52d6eb6"
+    }
+   },
+   "image_field": "data/images/ygo-70781053",
+   "source": "ygoprodeck-alt",
+   "card_pc": 70781052,
+   "card_name": "Summoned Skull",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/70781053.jpg"
+  },
+  "ygo-70781054": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 73474272,
+     "length": 1178891,
+     "size": 1178891,
+     "md5": "29d1bfd73c8381e24ae535764b58bb08"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 74653163,
+     "length": 128532,
+     "size": 128532,
+     "md5": "d3df00e54853bd3d23375a91841d7460"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 74781695,
+     "length": 160336,
+     "size": 160336,
+     "md5": "a40e444ca4f0aaba472ef0ba0419e43a"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 74942031,
+     "length": 20992,
+     "size": 20992,
+     "md5": "912f97dd28573355af3fbb9453672ce2"
+    }
+   },
+   "image_field": "data/images/ygo-70781054",
+   "source": "ygoprodeck-alt",
+   "card_pc": 70781052,
+   "card_name": "Summoned Skull",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/70781054.jpg"
+  },
+  "ygo-70781055": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 74963023,
+     "length": 1076424,
+     "size": 1076424,
+     "md5": "7061f821324efddbec49b3424a8c3e16"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 76039447,
+     "length": 121090,
+     "size": 121090,
+     "md5": "d9b0ff78577c016e048ad62393723519"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 76160537,
+     "length": 149134,
+     "size": 149134,
+     "md5": "1738f5e5d2085a2b61259838e13ea664"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 76309671,
+     "length": 19372,
+     "size": 19372,
+     "md5": "82d17c599499ace8c574826c4943d195"
+    }
+   },
+   "image_field": "data/images/ygo-70781055",
+   "source": "ygoprodeck-alt",
+   "card_pc": 70781052,
+   "card_name": "Summoned Skull",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/70781055.jpg"
+  },
+  "ygo-73134081": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 76329043,
+     "length": 947207,
+     "size": 947207,
+     "md5": "651c5c2f8f384772ba578b3f302ffe43"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 77276250,
+     "length": 89746,
+     "size": 89746,
+     "md5": "a1f7ab41a7d681e322530e2bed59b618"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 77365996,
+     "length": 129117,
+     "size": 129117,
+     "md5": "f9f3721ce8e6006d52dd04ba223ff16e"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 77495113,
+     "length": 13466,
+     "size": 13466,
+     "md5": "6e418b0e062d9ebbc71e8fd056c401b5"
+    }
+   },
+   "image_field": "data/images/ygo-73134081",
+   "source": "ygoprodeck-alt",
+   "card_pc": 73134082,
+   "card_name": "Final Flame",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/73134081.jpg"
+  },
+  "ygo-73580472": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 77508579,
+     "length": 1138440,
+     "size": 1138440,
+     "md5": "ca8c0c71bb835545b67f178ad9cdc5f0"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 78647019,
+     "length": 140370,
+     "size": 140370,
+     "md5": "20295f45dc8a2ccb64cee12c360fe469"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 78787389,
+     "length": 157432,
+     "size": 157432,
+     "md5": "d40da62a6be4bbb266bae195bf60b076"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 78944821,
+     "length": 22340,
+     "size": 22340,
+     "md5": "5f63039c372c533d3dda29d62e46f7be"
+    }
+   },
+   "image_field": "data/images/ygo-73580472",
+   "source": "ygoprodeck-alt",
+   "card_pc": 73580471,
+   "card_name": "Black Rose Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/73580472.jpg"
+  },
+  "ygo-73642297": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 78967161,
+     "length": 1235104,
+     "size": 1235104,
+     "md5": "c5cc16cf9c9aa590b1200a67f54716a2"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 80202265,
+     "length": 140194,
+     "size": 140194,
+     "md5": "1324bf476601216a56c6a00cbb0907f4"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 80342459,
+     "length": 161785,
+     "size": 161785,
+     "md5": "1d9506d5e4166b2532d485ec49c856a4"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 80504244,
+     "length": 18812,
+     "size": 18812,
+     "md5": "545980929b6f561945c45bea290a6224"
+    }
+   },
+   "image_field": "data/images/ygo-73642297",
+   "source": "ygoprodeck-alt",
+   "card_pc": 73642296,
+   "card_name": "Ghost Belle & Haunted Mansion",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/73642297.jpg"
+  },
+  "ygo-73915053": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 80523056,
+     "length": 794294,
+     "size": 794294,
+     "md5": "b305de947a473d933cf408bb71079150"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 81317350,
+     "length": 78592,
+     "size": 78592,
+     "md5": "89b929cba91f0f4f805e5ca5b89d1a82"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 81395942,
+     "length": 122127,
+     "size": 122127,
+     "md5": "d0fd35fa151263454a09c4d43ef62180"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 81518069,
+     "length": 12764,
+     "size": 12764,
+     "md5": "eb7093b54a261d0e044f433624c74e65"
+    }
+   },
+   "image_field": "data/images/ygo-73915053",
+   "source": "ygoprodeck-alt",
+   "card_pc": 73915052,
+   "card_name": "Sheep Token",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/73915053.jpg"
+  },
+  "ygo-73915054": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 81530833,
+     "length": 798316,
+     "size": 798316,
+     "md5": "3b85275786195102d13091ad9ebc8ce6"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 82329149,
+     "length": 80034,
+     "size": 80034,
+     "md5": "f8c5492ecca01c6510dd35cb6188712f"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 82409183,
+     "length": 122411,
+     "size": 122411,
+     "md5": "4e9f4d034777eeba5955574d49a12b69"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 82531594,
+     "length": 13118,
+     "size": 13118,
+     "md5": "2e80aa348bab0d2eaa87ed4e460ac3b9"
+    }
+   },
+   "image_field": "data/images/ygo-73915054",
+   "source": "ygoprodeck-alt",
+   "card_pc": 73915052,
+   "card_name": "Sheep Token",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/73915054.jpg"
+  },
+  "ygo-73915055": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 82544712,
+     "length": 767247,
+     "size": 767247,
+     "md5": "a562246322042947934366ae36a5ab00"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 83311959,
+     "length": 76348,
+     "size": 76348,
+     "md5": "0c009b840e3a9c70ffba6c45d16f0474"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 83388307,
+     "length": 119225,
+     "size": 119225,
+     "md5": "abdf8a94debf232387667e894f224d2d"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 83507532,
+     "length": 12406,
+     "size": 12406,
+     "md5": "ff04092bc33b55d08350ae42526aff95"
+    }
+   },
+   "image_field": "data/images/ygo-73915055",
+   "source": "ygoprodeck-alt",
+   "card_pc": 73915052,
+   "card_name": "Sheep Token",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/73915055.jpg"
+  },
+  "ygo-74677423": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 83519938,
+     "length": 1104560,
+     "size": 1104560,
+     "md5": "2cc296c61cb47b16b322d8acd0430baa"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 84624498,
+     "length": 112754,
+     "size": 112754,
+     "md5": "91eadfecdcec7215572bda325af1ca4a"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 84737252,
+     "length": 150880,
+     "size": 150880,
+     "md5": "4c6c1ce6a21fe5c7e0811ba37c62f2a5"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 84888132,
+     "length": 17952,
+     "size": 17952,
+     "md5": "6bbbb3890401fab0c5c7b897204f8883"
+    }
+   },
+   "image_field": "data/images/ygo-74677423",
+   "source": "ygoprodeck-alt",
+   "card_pc": 74677422,
+   "card_name": "Red-Eyes Black Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/74677423.jpg"
+  },
+  "ygo-74677424": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 84906084,
+     "length": 1139750,
+     "size": 1139750,
+     "md5": "c567f1d51379b00b3c76712d31e24c55"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 86045834,
+     "length": 117650,
+     "size": 117650,
+     "md5": "9c08cdb5cd4e8cb12c65e2ba42791494"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 86163484,
+     "length": 157653,
+     "size": 157653,
+     "md5": "35a5742d6797b9fd80948e3f48506b89"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 86321137,
+     "length": 20060,
+     "size": 20060,
+     "md5": "637a8ebf98df93dfb1f36a3f80c17d7d"
+    }
+   },
+   "image_field": "data/images/ygo-74677424",
+   "source": "ygoprodeck-alt",
+   "card_pc": 74677422,
+   "card_name": "Red-Eyes Black Dragon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/74677424.jpg"
+  },
+  "ygo-74677425": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 86341197,
+     "length": 1096391,
+     "size": 1096391,
+     "md5": "eee70e2c29d3b58b3015003bfb8e0e00"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 87437588,
+     "length": 107462,
+     "size": 107462,
+     "md5": "45ae826be5466ac2aa4bf64efb40a4f5"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 87545050,
+     "length": 150885,
+     "size": 150885,
+     "md5": "84ebc670181a0a40e643915b35a5c40b"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 87695935,
+     "length": 17950,
+     "size": 17950,
+     "md5": "7320f6bc7f777bc7ebee9ea87abe1b0f"
+    }
+   },
+   "image_field": "data/images/ygo-74677425",
+   "source": "ygoprodeck-alt",
+   "card_pc": 74677422,
+   "card_name": "Red-Eyes Black Dragon",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/74677425.jpg"
+  },
+  "ygo-74677426": {
+   "files": {
+    "high.png": {
+     "chunk": 1,
+     "offset": 87713885,
+     "length": 1046069,
+     "size": 1046069,
+     "md5": "f4f43be504cb84f24fb1ec7bffb36d8c"
+    },
+    "high.webp": {
+     "chunk": 1,
+     "offset": 88759954,
+     "length": 100820,
+     "size": 100820,
+     "md5": "c4ba06dd51618054128596dc5b37f8b8"
+    },
+    "low.png": {
+     "chunk": 1,
+     "offset": 88860774,
+     "length": 145410,
+     "size": 145410,
+     "md5": "010b44f61b909c5b7de948b761a53bc5"
+    },
+    "low.webp": {
+     "chunk": 1,
+     "offset": 89006184,
+     "length": 16664,
+     "size": 16664,
+     "md5": "2be6840afd908c5fddec88bfeeba5957"
+    }
+   },
+   "image_field": "data/images/ygo-74677426",
+   "source": "ygoprodeck-alt",
+   "card_pc": 74677422,
+   "card_name": "Red-Eyes Black Dragon",
+   "alt_index": 4,
+   "source_url": "https://images.ygoprodeck.com/images/cards/74677426.jpg"
+  },
+  "ygo-74677427": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 0,
+     "length": 1280959,
+     "size": 1280959,
+     "md5": "9eec06e7e1f30497440178d9782aedd9"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 1280959,
+     "length": 139544,
+     "size": 139544,
+     "md5": "0da0582d7e2e187038d598f3a9d1f58c"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 1420503,
+     "length": 164008,
+     "size": 164008,
+     "md5": "7fd4fd46ebadb881333ef7cd0d6b6cc8"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 1584511,
+     "length": 20862,
+     "size": 20862,
+     "md5": "924f6138a6df3b4eb2db08692b0a7ebe"
+    }
+   },
+   "image_field": "data/images/ygo-74677427",
+   "source": "ygoprodeck-alt",
+   "card_pc": 74677422,
+   "card_name": "Red-Eyes Black Dragon",
+   "alt_index": 5,
+   "source_url": "https://images.ygoprodeck.com/images/cards/74677427.jpg"
+  },
+  "ygo-77585514": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 1605373,
+     "length": 1184203,
+     "size": 1184203,
+     "md5": "2b0b6fa29fd7797eaf6760436727956b"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 2789576,
+     "length": 131386,
+     "size": 131386,
+     "md5": "f4dff6a197ca8e6caee8b973f23467b3"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 2920962,
+     "length": 156721,
+     "size": 156721,
+     "md5": "cb278f5bf1586e6336a122833629f2b5"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 3077683,
+     "length": 21068,
+     "size": 21068,
+     "md5": "1cd223350f07c378496b5cca1c780002"
+    }
+   },
+   "image_field": "data/images/ygo-77585514",
+   "source": "ygoprodeck-alt",
+   "card_pc": 77585513,
+   "card_name": "Jinzo",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/77585514.jpg"
+  },
+  "ygo-77754945": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 3098751,
+     "length": 1128798,
+     "size": 1128798,
+     "md5": "4dfe2b210fde0d0f4079a07fc153b2ab"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 4227549,
+     "length": 114932,
+     "size": 114932,
+     "md5": "dd60b2ddfcc9c9195e77c79346cbd352"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 4342481,
+     "length": 151110,
+     "size": 151110,
+     "md5": "33a4b98541bdcdf47bee96b55ffc9d3e"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 4493591,
+     "length": 18598,
+     "size": 18598,
+     "md5": "8891bbcd262d7e5a8a65e64414bae955"
+    }
+   },
+   "image_field": "data/images/ygo-77754945",
+   "source": "ygoprodeck-alt",
+   "card_pc": 77754944,
+   "card_name": "Widespread Ruin",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/77754945.jpg"
+  },
+  "ygo-78193832": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 4512189,
+     "length": 1034592,
+     "size": 1034592,
+     "md5": "504c44e7aa6843044bf1f98f59df50b3"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 5546781,
+     "length": 106240,
+     "size": 106240,
+     "md5": "80ce056556e0ada04935b66513c13890"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 5653021,
+     "length": 145119,
+     "size": 145119,
+     "md5": "8980f68a8f570287f612b6ef9e361b4c"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 5798140,
+     "length": 16636,
+     "size": 16636,
+     "md5": "f917d1259b44394af43069ed256104c3"
+    }
+   },
+   "image_field": "data/images/ygo-78193832",
+   "source": "ygoprodeck-alt",
+   "card_pc": 78193831,
+   "card_name": "Buster Blader",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/78193832.jpg"
+  },
+  "ygo-78437365": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 5814776,
+     "length": 1399847,
+     "size": 1399847,
+     "md5": "0a3b586b79dbea4d5d101d2187ee59ba"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 7214623,
+     "length": 166462,
+     "size": 166462,
+     "md5": "f5551b1f89e8a5509d36498042b082db"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 7381085,
+     "length": 175907,
+     "size": 175907,
+     "md5": "a2557e574feca3430306c38a46493c70"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 7556992,
+     "length": 24536,
+     "size": 24536,
+     "md5": "53afabe992b09263d9996649ba099046"
+    }
+   },
+   "image_field": "data/images/ygo-78437365",
+   "source": "ygoprodeck-alt",
+   "card_pc": 78437364,
+   "card_name": "Gouki The Great Ogre",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/78437365.jpg"
+  },
+  "ygo-7852510": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 7581528,
+     "length": 1207649,
+     "size": 1207649,
+     "md5": "56c58b094ad3c4311b86953445931378"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 8789177,
+     "length": 126156,
+     "size": 126156,
+     "md5": "3a13a1865bcdcfdf477bc0de4ce1a3fc"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 8915333,
+     "length": 158629,
+     "size": 158629,
+     "md5": "c0a1b5faba5e81a2cd537823bab7306d"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 9073962,
+     "length": 18836,
+     "size": 18836,
+     "md5": "f0acee881506452f1647a20ed2604ae4"
+    }
+   },
+   "image_field": "data/images/ygo-7852510",
+   "source": "ygoprodeck-alt",
+   "card_pc": 7852509,
+   "card_name": "Loop of Destruction",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/7852510.jpg"
+  },
+  "ygo-78661339": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 9092798,
+     "length": 1432943,
+     "size": 1432943,
+     "md5": "bd8158e741b99c083d7b915e3379d9b7"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 10525741,
+     "length": 184648,
+     "size": 184648,
+     "md5": "2944ffa80cf0c2293f60de21804aa716"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 10710389,
+     "length": 173760,
+     "size": 173760,
+     "md5": "c4c7836050c68e5647a0180ed20df243"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 10884149,
+     "length": 23798,
+     "size": 23798,
+     "md5": "c5920bbc225af01f1b866630a2c75cc9"
+    }
+   },
+   "image_field": "data/images/ygo-78661339",
+   "source": "ygoprodeck-alt",
+   "card_pc": 78661338,
+   "card_name": "Fantastical Dragon Phantazmay",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/78661339.jpg"
+  },
+  "ygo-80193356": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 10907947,
+     "length": 1212021,
+     "size": 1212021,
+     "md5": "faeab33eda1010c6bc0ed080ab700bf6"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 12119968,
+     "length": 128188,
+     "size": 128188,
+     "md5": "3d5e2663085168e44763584b09398c20"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 12248156,
+     "length": 159429,
+     "size": 159429,
+     "md5": "41d5f06267b1795517acd44954688b57"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 12407585,
+     "length": 19284,
+     "size": 19284,
+     "md5": "b9c59db25283d84d7ea507c5768f0324"
+    }
+   },
+   "image_field": "data/images/ygo-80193356",
+   "source": "ygoprodeck-alt",
+   "card_pc": 80193355,
+   "card_name": "Dramatic Rescue",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/80193356.jpg"
+  },
+  "ygo-80604091": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 12426869,
+     "length": 947316,
+     "size": 947316,
+     "md5": "cc0b27489acb0693cbc55e39c06f04f6"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 13374185,
+     "length": 89728,
+     "size": 89728,
+     "md5": "4133c2704276a486af33b55b98c909ae"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 13463913,
+     "length": 135564,
+     "size": 135564,
+     "md5": "6ac694d32242411934fe7228dc21598d"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 13599477,
+     "length": 14586,
+     "size": 14586,
+     "md5": "e789b160d92734ed4b6c6498b2bcab85"
+    }
+   },
+   "image_field": "data/images/ygo-80604091",
+   "source": "ygoprodeck-alt",
+   "card_pc": 80604092,
+   "card_name": "Ultimate Offering",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/80604091.jpg"
+  },
+  "ygo-81172177": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 13614063,
+     "length": 441010,
+     "size": 441010,
+     "md5": "81dfdde237ea700bf60ce672381ad3d7"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 14055073,
+     "length": 62190,
+     "size": 62190,
+     "md5": "db25841777b91b59e95de51322790838"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 14117263,
+     "length": 170227,
+     "size": 170227,
+     "md5": "4c132add53fdee6f6d68a44974b62011"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 14287490,
+     "length": 22292,
+     "size": 22292,
+     "md5": "5aa3c72053eeea98b37f025d2d27b540"
+    }
+   },
+   "image_field": "data/images/ygo-81172177",
+   "source": "ygoprodeck-alt",
+   "card_pc": 81172176,
+   "card_name": "Fiend Comedian",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/81172177.jpg"
+  },
+  "ygo-81439174": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 14309782,
+     "length": 1007384,
+     "size": 1007384,
+     "md5": "b725b3bf157f70ccff3a124e6291fe5d"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 15317166,
+     "length": 98422,
+     "size": 98422,
+     "md5": "9b11370c78b88773a74039e4619bd573"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 15415588,
+     "length": 141668,
+     "size": 141668,
+     "md5": "952b0b6cd1c361fb06848b986d3a7aba"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 15557256,
+     "length": 14378,
+     "size": 14378,
+     "md5": "472bb360cd0f06a489b33349af7d532e"
+    }
+   },
+   "image_field": "data/images/ygo-81439174",
+   "source": "ygoprodeck-alt",
+   "card_pc": 81439173,
+   "card_name": "Foolish Burial",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/81439174.jpg"
+  },
+  "ygo-81480460": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 15571634,
+     "length": 1092501,
+     "size": 1092501,
+     "md5": "4e01ffc633bd1cad963ac48e698bf7c7"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 16664135,
+     "length": 108854,
+     "size": 108854,
+     "md5": "551750b1e8723082b1b95b936cc9c0ab"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 16772989,
+     "length": 148850,
+     "size": 148850,
+     "md5": "84e42db34bc4d478e65cf3ee3896d6f2"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 16921839,
+     "length": 17960,
+     "size": 17960,
+     "md5": "5b8dc7664aced33dccf560276e2245f1"
+    }
+   },
+   "image_field": "data/images/ygo-81480460",
+   "source": "ygoprodeck-alt",
+   "card_pc": 81480461,
+   "card_name": "Barrel Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/81480460.jpg"
+  },
+  "ygo-82044279": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 16939799,
+     "length": 1372826,
+     "size": 1372826,
+     "md5": "33e9254c893cffdb956bded06c98c575"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 18312625,
+     "length": 198624,
+     "size": 198624,
+     "md5": "b91adfff79c8ea22b81b9b71bd49d096"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 18511249,
+     "length": 170494,
+     "size": 170494,
+     "md5": "46fdef787aff1f59c6805195373b0ae3"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 18681743,
+     "length": 25056,
+     "size": 25056,
+     "md5": "36edb6666aa56ea85f0c3ea00b3f20fb"
+    }
+   },
+   "image_field": "data/images/ygo-82044279",
+   "source": "ygoprodeck-alt",
+   "card_pc": 82044280,
+   "card_name": "Clear Wing Synchro Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/82044279.jpg"
+  },
+  "ygo-83011277": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 18706799,
+     "length": 1059905,
+     "size": 1059905,
+     "md5": "f392ef705589d3375e4f1212ac2843ab"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 19766704,
+     "length": 104776,
+     "size": 104776,
+     "md5": "bbaccbe61e6714ac79b03abb0eebc94b"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 19871480,
+     "length": 143530,
+     "size": 143530,
+     "md5": "76a4dbb970807326f30a571aec02c25d"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 20015010,
+     "length": 16858,
+     "size": 16858,
+     "md5": "8688fbecaeb285c0100d2d429386c6f6"
+    }
+   },
+   "image_field": "data/images/ygo-83011277",
+   "source": "ygoprodeck-alt",
+   "card_pc": 83011278,
+   "card_name": "Mystic Tomato",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/83011277.jpg"
+  },
+  "ygo-83555667": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 20031868,
+     "length": 1084167,
+     "size": 1084167,
+     "md5": "3ba9c593526e8c1d4d3b109bedb7dd3e"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 21116035,
+     "length": 109926,
+     "size": 109926,
+     "md5": "cfb3d6ed84dee3b0dd52123ca447a739"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 21225961,
+     "length": 148509,
+     "size": 148509,
+     "md5": "17c297c54a2d584c832252ce895982e7"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 21374470,
+     "length": 17300,
+     "size": 17300,
+     "md5": "1e4ca5e921aeb627d6eada06fcf2b422"
+    }
+   },
+   "image_field": "data/images/ygo-83555667",
+   "source": "ygoprodeck-alt",
+   "card_pc": 83555666,
+   "card_name": "Ring of Destruction",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/83555667.jpg"
+  },
+  "ygo-83764718": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 21391770,
+     "length": 909484,
+     "size": 909484,
+     "md5": "a9eb5627c6f3445fe6abdb389b597a6d"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 22301254,
+     "length": 75966,
+     "size": 75966,
+     "md5": "ab12353318d0f727673bf38eb3e92d12"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 22377220,
+     "length": 127339,
+     "size": 127339,
+     "md5": "5dc7f62fff554bf544621eb8f5c6cb39"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 22504559,
+     "length": 12630,
+     "size": 12630,
+     "md5": "14794eff4048c555bff408add6379ed3"
+    }
+   },
+   "image_field": "data/images/ygo-83764718",
+   "source": "ygoprodeck-alt",
+   "card_pc": 83764719,
+   "card_name": "Monster Reborn",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/83764718.jpg"
+  },
+  "ygo-83965311": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 22517189,
+     "length": 1445346,
+     "size": 1445346,
+     "md5": "e9abe0f9467336b146e9b0f68eeecf4a"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 23962535,
+     "length": 175500,
+     "size": 175500,
+     "md5": "5345bb84c3594c08cc20dcaecea9e0d4"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 24138035,
+     "length": 180521,
+     "size": 180521,
+     "md5": "e87f5daf0c498b408193a3d1a550a5bc"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 24318556,
+     "length": 25432,
+     "size": 25432,
+     "md5": "8f71a5703f74181ec7c58562640618e7"
+    }
+   },
+   "image_field": "data/images/ygo-83965311",
+   "source": "ygoprodeck-alt",
+   "card_pc": 83965310,
+   "card_name": "Destiny HERO - Plasma",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/83965311.jpg"
+  },
+  "ygo-84013238": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 24343988,
+     "length": 1409521,
+     "size": 1409521,
+     "md5": "5d0c43f33e8b87f22709ca7162830117"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 25753509,
+     "length": 178098,
+     "size": 178098,
+     "md5": "687b4bc7019f5c773ae16dfce5a1eacd"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 25931607,
+     "length": 175957,
+     "size": 175957,
+     "md5": "45fdfc64d03888ada7c7efac56ee953e"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 26107564,
+     "length": 25368,
+     "size": 25368,
+     "md5": "6531f09bba8f38c3e4754162e098bc47"
+    }
+   },
+   "image_field": "data/images/ygo-84013238",
+   "source": "ygoprodeck-alt",
+   "card_pc": 84013237,
+   "card_name": "Number 39: Utopia",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/84013238.jpg"
+  },
+  "ygo-84080938": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 26132932,
+     "length": 1034418,
+     "size": 1034418,
+     "md5": "6d1478124cba9fb9f025ef1095f4f576"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 27167350,
+     "length": 103108,
+     "size": 103108,
+     "md5": "4e5f9f5c28396eb91f3d48af1d13de71"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 27270458,
+     "length": 145242,
+     "size": 145242,
+     "md5": "2b456ce845c0a0b7f1bf368205589124"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 27415700,
+     "length": 16294,
+     "size": 16294,
+     "md5": "086e90779301aee6bddb4bd6305105d5"
+    }
+   },
+   "image_field": "data/images/ygo-84080938",
+   "source": "ygoprodeck-alt",
+   "card_pc": 84080939,
+   "card_name": "The Forgiving Maiden",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/84080938.jpg"
+  },
+  "ygo-84257639": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 27431994,
+     "length": 1046279,
+     "size": 1046279,
+     "md5": "ca9a7a47fdb78c227cb5901face6e39d"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 28478273,
+     "length": 99052,
+     "size": 99052,
+     "md5": "c77a78326834991df8a2c46a1d85156a"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 28577325,
+     "length": 143789,
+     "size": 143789,
+     "md5": "cadeddb99fa6a4edd73b08d3ddeb9873"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 28721114,
+     "length": 16046,
+     "size": 16046,
+     "md5": "734211d05aababcd6d4497b7c768051d"
+    }
+   },
+   "image_field": "data/images/ygo-84257639",
+   "source": "ygoprodeck-alt",
+   "card_pc": 84257640,
+   "card_name": "Dian Keto the Cure Master",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/84257639.jpg"
+  },
+  "ygo-85289966": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 28737160,
+     "length": 1465842,
+     "size": 1465842,
+     "md5": "3352f5898dbf4c3b632d94a311549026"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 30203002,
+     "length": 176724,
+     "size": 176724,
+     "md5": "d2dcbfe7c3a1cb617913c03b8befe5f3"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 30379726,
+     "length": 179441,
+     "size": 179441,
+     "md5": "37ecb530279d692f612d0827cd4daeeb"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 30559167,
+     "length": 24948,
+     "size": 24948,
+     "md5": "c7ee57c98865c46873977f194a404886"
+    }
+   },
+   "image_field": "data/images/ygo-85289966",
+   "source": "ygoprodeck-alt",
+   "card_pc": 85289965,
+   "card_name": "Borrelsword Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/85289966.jpg"
+  },
+  "ygo-86120752": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 30584115,
+     "length": 1390779,
+     "size": 1390779,
+     "md5": "ad11648d61b7dc181c055e51204e4c70"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 31974894,
+     "length": 164644,
+     "size": 164644,
+     "md5": "02e2c02d139e99152fe7b83706564481"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 32139538,
+     "length": 172268,
+     "size": 172268,
+     "md5": "9525387a5b3c648de01cbe09d0b751ad"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 32311806,
+     "length": 22972,
+     "size": 22972,
+     "md5": "8a4504a2619b877074fbcae926a8a213"
+    }
+   },
+   "image_field": "data/images/ygo-86120752",
+   "source": "ygoprodeck-alt",
+   "card_pc": 86120751,
+   "card_name": "Aleister the Invoker",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/86120752.jpg"
+  },
+  "ygo-87322378": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 32334778,
+     "length": 1067658,
+     "size": 1067658,
+     "md5": "c01f41809475b9f9e67af7519aea7216"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 33402436,
+     "length": 109050,
+     "size": 109050,
+     "md5": "e7f97a71fa441a914f75bb990b64f445"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 33511486,
+     "length": 144566,
+     "size": 144566,
+     "md5": "d5f4bf49bb21aaaeff257f5814e9cedc"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 33656052,
+     "length": 17482,
+     "size": 17482,
+     "md5": "63348f3e916b91448a508c6e56394736"
+    }
+   },
+   "image_field": "data/images/ygo-87322378",
+   "source": "ygoprodeck-alt",
+   "card_pc": 87322377,
+   "card_name": "Launcher Spider",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/87322378.jpg"
+  },
+  "ygo-88264979": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 33673534,
+     "length": 1455442,
+     "size": 1455442,
+     "md5": "7aa98ef6133fd38c2d4aaece64b750d6"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 35128976,
+     "length": 180040,
+     "size": 180040,
+     "md5": "4ac69a4b92995991983585ede9c1ae30"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 35309016,
+     "length": 180760,
+     "size": 180760,
+     "md5": "1ef52e8cc1af33ddcdb3a036e606343b"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 35489776,
+     "length": 25170,
+     "size": 25170,
+     "md5": "2982ef465e24d832a6c0468619a8476e"
+    }
+   },
+   "image_field": "data/images/ygo-88264979",
+   "source": "ygoprodeck-alt",
+   "card_pc": 88264978,
+   "card_name": "Red-Eyes Darkness Metal Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/88264979.jpg"
+  },
+  "ygo-89631140": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 35514946,
+     "length": 1251602,
+     "size": 1251602,
+     "md5": "195558b45ffdc269ee9454e8eb178301"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 36766548,
+     "length": 135958,
+     "size": 135958,
+     "md5": "8da54c3d4b308e7be23330603f19cb84"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 36902506,
+     "length": 166635,
+     "size": 166635,
+     "md5": "adc109018aff689045f7c3ca385b97c6"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 37069141,
+     "length": 22394,
+     "size": 22394,
+     "md5": "2a488ae0735625fee2689a9833025ac8"
+    }
+   },
+   "image_field": "data/images/ygo-89631140",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631140.jpg"
+  },
+  "ygo-89631141": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 37091535,
+     "length": 1348216,
+     "size": 1348216,
+     "md5": "ef75db95931fb5d817263fb49042f12c"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 38439751,
+     "length": 160618,
+     "size": 160618,
+     "md5": "78280c37d019f2d98d9a5f1e1cdde90d"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 38600369,
+     "length": 171175,
+     "size": 171175,
+     "md5": "7159cae7f0e6f19765e4eaa5c58ef04d"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 38771544,
+     "length": 23304,
+     "size": 23304,
+     "md5": "d54b575c2724c9e251a2cfe852524dbe"
+    }
+   },
+   "image_field": "data/images/ygo-89631141",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631141.jpg"
+  },
+  "ygo-89631142": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 38794848,
+     "length": 1343191,
+     "size": 1343191,
+     "md5": "c4ec5fd556d888dcf9ed6a7844f3f16b"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 40138039,
+     "length": 159386,
+     "size": 159386,
+     "md5": "ab01869bb2f697f35090e1304fe35b23"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 40297425,
+     "length": 171310,
+     "size": 171310,
+     "md5": "8ed05e8eaa5d83cc9de9793695b7f4c5"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 40468735,
+     "length": 23614,
+     "size": 23614,
+     "md5": "a5a98d6455895e0961c531be5e49f804"
+    }
+   },
+   "image_field": "data/images/ygo-89631142",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 3,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631142.jpg"
+  },
+  "ygo-89631143": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 40492349,
+     "length": 1015410,
+     "size": 1015410,
+     "md5": "682ffb2f98854ee4929343cbe189956b"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 41507759,
+     "length": 110178,
+     "size": 110178,
+     "md5": "2a9d3fa55ff4fe6c941a0de5e6e0be75"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 41617937,
+     "length": 142675,
+     "size": 142675,
+     "md5": "88968d636394b738a0c13dff2a356026"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 41760612,
+     "length": 17084,
+     "size": 17084,
+     "md5": "f55c8c4d8df05b87f50bcf6322810b63"
+    }
+   },
+   "image_field": "data/images/ygo-89631143",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 4,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631143.jpg"
+  },
+  "ygo-89631144": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 41777696,
+     "length": 1136325,
+     "size": 1136325,
+     "md5": "0f74fe0c717ba799b7dbceec04c317ad"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 42914021,
+     "length": 120388,
+     "size": 120388,
+     "md5": "515762bcad040dbd875b46fc5b0cf034"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 43034409,
+     "length": 157247,
+     "size": 157247,
+     "md5": "8d866e762159db8e1615ce055daad9ad"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 43191656,
+     "length": 19130,
+     "size": 19130,
+     "md5": "9dd6fbcf6e16684013648fc0ad609712"
+    }
+   },
+   "image_field": "data/images/ygo-89631144",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 5,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631144.jpg"
+  },
+  "ygo-89631145": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 43210786,
+     "length": 1150684,
+     "size": 1150684,
+     "md5": "34b1ce99be9a9e0aaaf19d65be461397"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 44361470,
+     "length": 129308,
+     "size": 129308,
+     "md5": "9afe1c042f89a2438dddf042ed5a4d97"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 44490778,
+     "length": 156040,
+     "size": 156040,
+     "md5": "5019723e73692a821641774f9606858b"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 44646818,
+     "length": 19086,
+     "size": 19086,
+     "md5": "b84b2f1ceafce52c1b955cf2cdb1988b"
+    }
+   },
+   "image_field": "data/images/ygo-89631145",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 6,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631145.jpg"
+  },
+  "ygo-89631146": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 44665904,
+     "length": 1286353,
+     "size": 1286353,
+     "md5": "1815e6ad641f5ca0c782aa3dca3922b2"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 45952257,
+     "length": 150880,
+     "size": 150880,
+     "md5": "8527878e648326386c5fe791b0cd6025"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 46103137,
+     "length": 166320,
+     "size": 166320,
+     "md5": "0bccf933dacfa165eb35cab1f82089df"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 46269457,
+     "length": 21746,
+     "size": 21746,
+     "md5": "8e4fc451bef1f3d082e17b51ab46b42f"
+    }
+   },
+   "image_field": "data/images/ygo-89631146",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89631139,
+   "card_name": "Blue-Eyes White Dragon",
+   "alt_index": 7,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89631146.jpg"
+  },
+  "ygo-89943724": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 46291203,
+     "length": 1285285,
+     "size": 1285285,
+     "md5": "644551346ff8bacb54eced1834e33ce2"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 47576488,
+     "length": 149504,
+     "size": 149504,
+     "md5": "1a0ff4a44b40a683c8cd59f54d03f4fd"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 47725992,
+     "length": 165760,
+     "size": 165760,
+     "md5": "eeec4659881339294f21fcb633aba060"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 47891752,
+     "length": 22182,
+     "size": 22182,
+     "md5": "53ba6490ee4f91232ca62befbc43db41"
+    }
+   },
+   "image_field": "data/images/ygo-89943724",
+   "source": "ygoprodeck-alt",
+   "card_pc": 89943723,
+   "card_name": "Elemental HERO Neos",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/89943724.jpg"
+  },
+  "ygo-90330454": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 47913934,
+     "length": 953623,
+     "size": 953623,
+     "md5": "f3924e84d719880aaf74d0229b1d63ed"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 48867557,
+     "length": 96334,
+     "size": 96334,
+     "md5": "f68f46dab9427209b74513ced1c37882"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 48963891,
+     "length": 133154,
+     "size": 133154,
+     "md5": "f15340ed0a7e2df06b91aafeea2779b7"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 49097045,
+     "length": 15850,
+     "size": 15850,
+     "md5": "a78ef209bafbe1f4fc93fff398948909"
+    }
+   },
+   "image_field": "data/images/ygo-90330454",
+   "source": "ygoprodeck-alt",
+   "card_pc": 90330453,
+   "card_name": "Last Day of Witch",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/90330454.jpg"
+  },
+  "ygo-90590304": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 49112895,
+     "length": 1148868,
+     "size": 1148868,
+     "md5": "6836ef5108b6c67a476ee775393fc43e"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 50261763,
+     "length": 134690,
+     "size": 134690,
+     "md5": "22bcb32219e3d59f9c6ccb87bc69f140"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 50396453,
+     "length": 156391,
+     "size": 156391,
+     "md5": "95d1bcdf9e1765c34c32d27b83cb338f"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 50552844,
+     "length": 20452,
+     "size": 20452,
+     "md5": "d1e797f5b9c18f4756531bde6d1545e7"
+    }
+   },
+   "image_field": "data/images/ygo-90590304",
+   "source": "ygoprodeck-alt",
+   "card_pc": 90590303,
+   "card_name": "Number 41: Bagooska the Terribly Tired Tapir",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/90590304.jpg"
+  },
+  "ygo-90740330": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 50573296,
+     "length": 1211183,
+     "size": 1211183,
+     "md5": "a62eea554e828629911f000a57fc67ef"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 51784479,
+     "length": 131538,
+     "size": 131538,
+     "md5": "2351b7d1baa8683f5ae412818ad886b2"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 51916017,
+     "length": 160299,
+     "size": 160299,
+     "md5": "c22ba418c9c74c40b4cf866b1d5c34da"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 52076316,
+     "length": 20298,
+     "size": 20298,
+     "md5": "6485a8c4ec7be28a8466fd098df29da6"
+    }
+   },
+   "image_field": "data/images/ygo-90740330",
+   "source": "ygoprodeck-alt",
+   "card_pc": 90740329,
+   "card_name": "Taunt",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/90740330.jpg"
+  },
+  "ygo-91152257": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 52096614,
+     "length": 1196921,
+     "size": 1196921,
+     "md5": "fe79895e4b7417172af2c4b6da5e3baa"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 53293535,
+     "length": 124872,
+     "size": 124872,
+     "md5": "e5feaedb44611d5a0ec7b580ce52e9ba"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 53418407,
+     "length": 157995,
+     "size": 157995,
+     "md5": "e6cb8824247388d1e79db1c3202e486e"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 53576402,
+     "length": 19654,
+     "size": 19654,
+     "md5": "91c1717603a269a78f76fcdfa46b522f"
+    }
+   },
+   "image_field": "data/images/ygo-91152257",
+   "source": "ygoprodeck-alt",
+   "card_pc": 91152256,
+   "card_name": "Celtic Guardian",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/91152257.jpg"
+  },
+  "ygo-91152258": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 53596056,
+     "length": 1084943,
+     "size": 1084943,
+     "md5": "6611fb20cd0aadb1a19060b9cfd6e4a2"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 54680999,
+     "length": 126340,
+     "size": 126340,
+     "md5": "f7b8b8f6150a7dd500b09fa19cc70bf8"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 54807339,
+     "length": 144970,
+     "size": 144970,
+     "md5": "1c368419690a5ecb8aa62543c0f689b3"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 54952309,
+     "length": 18402,
+     "size": 18402,
+     "md5": "eab4977e620cc9120e21c29b76fdd271"
+    }
+   },
+   "image_field": "data/images/ygo-91152258",
+   "source": "ygoprodeck-alt",
+   "card_pc": 91152256,
+   "card_name": "Celtic Guardian",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/91152258.jpg"
+  },
+  "ygo-91998120": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 54970711,
+     "length": 1361716,
+     "size": 1361716,
+     "md5": "03a17c0367522da9de56a9704b72768b"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 56332427,
+     "length": 163144,
+     "size": 163144,
+     "md5": "fc4acaa32be35bff7536952eb58d0ef7"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 56495571,
+     "length": 175156,
+     "size": 175156,
+     "md5": "f0cfa6d16cba66e199ad124c9599b485"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 56670727,
+     "length": 23972,
+     "size": 23972,
+     "md5": "6a512126c9c5be02a0f562a2155f9626"
+    }
+   },
+   "image_field": "data/images/ygo-91998120",
+   "source": "ygoprodeck-alt",
+   "card_pc": 91998119,
+   "card_name": "XYZ-Dragon Cannon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/91998120.jpg"
+  },
+  "ygo-91998121": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 56694699,
+     "length": 1410294,
+     "size": 1410294,
+     "md5": "b60cfbd94320e8d8721aa488c5499c2b"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 58104993,
+     "length": 170730,
+     "size": 170730,
+     "md5": "c4eab81d4f6d22cc23d84088f3fa8c64"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 58275723,
+     "length": 180453,
+     "size": 180453,
+     "md5": "92bb8d2fe53039cbda6e5ba018955f81"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 58456176,
+     "length": 25430,
+     "size": 25430,
+     "md5": "64a8fc4e1a9663e46ddc8bb86b64ae27"
+    }
+   },
+   "image_field": "data/images/ygo-91998121",
+   "source": "ygoprodeck-alt",
+   "card_pc": 91998119,
+   "card_name": "XYZ-Dragon Cannon",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/91998121.jpg"
+  },
+  "ygo-94145022": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 58481606,
+     "length": 1406487,
+     "size": 1406487,
+     "md5": "120f948584b18f40f134731102eb65e8"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 59888093,
+     "length": 166260,
+     "size": 166260,
+     "md5": "22466ef9bec801260fda070f4df3bdf0"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 60054353,
+     "length": 172309,
+     "size": 172309,
+     "md5": "a616bc56329d6b20f84d63ee1450d9ac"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 60226662,
+     "length": 22822,
+     "size": 22822,
+     "md5": "58ba796b841c2f11b7a6c4b3d41cc7e2"
+    }
+   },
+   "image_field": "data/images/ygo-94145022",
+   "source": "ygoprodeck-alt",
+   "card_pc": 94145021,
+   "card_name": "Droll & Lock Bird",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/94145022.jpg"
+  },
+  "ygo-94977270": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 60249484,
+     "length": 1316582,
+     "size": 1316582,
+     "md5": "06299b2f05c2323ff30718a4b7c383a1"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 61566066,
+     "length": 151790,
+     "size": 151790,
+     "md5": "2cde742d3287ea969e8e743aabec9dbc"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 61717856,
+     "length": 168241,
+     "size": 168241,
+     "md5": "c23f1d2c764564afe837d47c4b100e47"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 61886097,
+     "length": 21742,
+     "size": 21742,
+     "md5": "a4931fdb0ad0e92a2151a72589e67858"
+    }
+   },
+   "image_field": "data/images/ygo-94977270",
+   "source": "ygoprodeck-alt",
+   "card_pc": 94977269,
+   "card_name": "El Shaddoll Winda",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/94977270.jpg"
+  },
+  "ygo-95440947": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 61907839,
+     "length": 1453789,
+     "size": 1453789,
+     "md5": "6c86dec7f7901fa12ccb0d752ff071ac"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 63361628,
+     "length": 184996,
+     "size": 184996,
+     "md5": "545ed444ebf7ad8673769761f34b4cc8"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 63546624,
+     "length": 178163,
+     "size": 178163,
+     "md5": "af20f3350561a345feb18387d728d96b"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 63724787,
+     "length": 24728,
+     "size": 24728,
+     "md5": "9b0fdc9a249379187f007932720966bb"
+    }
+   },
+   "image_field": "data/images/ygo-95440947",
+   "source": "ygoprodeck-alt",
+   "card_pc": 95440946,
+   "card_name": "Eldlich the Golden Lord",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/95440947.jpg"
+  },
+  "ygo-97590748": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 63749515,
+     "length": 1067629,
+     "size": 1067629,
+     "md5": "85304b19c868a19d92ede5646c05f15f"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 64817144,
+     "length": 103914,
+     "size": 103914,
+     "md5": "10a4c06ac0224c7438ca57a9e67f8889"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 64921058,
+     "length": 146889,
+     "size": 146889,
+     "md5": "78cdc8a57cd8093989f60e09256b77c2"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 65067947,
+     "length": 17412,
+     "size": 17412,
+     "md5": "7e3e886b44dcd300fc00c88cba84978e"
+    }
+   },
+   "image_field": "data/images/ygo-97590748",
+   "source": "ygoprodeck-alt",
+   "card_pc": 97590747,
+   "card_name": "La Jinn the Mystical Genie of the Lamp",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/97590748.jpg"
+  },
+  "ygo-98502114": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 65085359,
+     "length": 1310494,
+     "size": 1310494,
+     "md5": "2f6629ca38a542a20f195d82affe70f1"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 66395853,
+     "length": 147988,
+     "size": 147988,
+     "md5": "eef902052df063d8e05fce663ec76d22"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 66543841,
+     "length": 170090,
+     "size": 170090,
+     "md5": "806d526e31ad383c6a0b1c2f01432ed4"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 66713931,
+     "length": 22576,
+     "size": 22576,
+     "md5": "c3eb336a960823fe26ad5ad791d74fcf"
+    }
+   },
+   "image_field": "data/images/ygo-98502114",
+   "source": "ygoprodeck-alt",
+   "card_pc": 98502113,
+   "card_name": "Dark Paladin",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/98502114.jpg"
+  },
+  "ygo-98502115": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 66736507,
+     "length": 1406121,
+     "size": 1406121,
+     "md5": "ac348c43aa0d43a60c46fa23646df458"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 68142628,
+     "length": 174788,
+     "size": 174788,
+     "md5": "84da1a93615197cd5a27e624ea290384"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 68317416,
+     "length": 178796,
+     "size": 178796,
+     "md5": "2459c15b3d48281a4190205de3d164ab"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 68496212,
+     "length": 26230,
+     "size": 26230,
+     "md5": "6c948bcd80afd71d35262a4216ef35ff"
+    }
+   },
+   "image_field": "data/images/ygo-98502115",
+   "source": "ygoprodeck-alt",
+   "card_pc": 98502113,
+   "card_name": "Dark Paladin",
+   "alt_index": 2,
+   "source_url": "https://images.ygoprodeck.com/images/cards/98502115.jpg"
+  },
+  "ygo-99267151": {
+   "files": {
+    "high.png": {
+     "chunk": 2,
+     "offset": 68522442,
+     "length": 1339704,
+     "size": 1339704,
+     "md5": "4aaa21b9f16908d5557080047103781d"
+    },
+    "high.webp": {
+     "chunk": 2,
+     "offset": 69862146,
+     "length": 157696,
+     "size": 157696,
+     "md5": "53123072389d02496c611229162ad368"
+    },
+    "low.png": {
+     "chunk": 2,
+     "offset": 70019842,
+     "length": 169661,
+     "size": 169661,
+     "md5": "903395fbb8fa2ac6d4b7f970e3bf0359"
+    },
+    "low.webp": {
+     "chunk": 2,
+     "offset": 70189503,
+     "length": 22530,
+     "size": 22530,
+     "md5": "f01e886703e004e459e3a9c459315327"
+    }
+   },
+   "image_field": "data/images/ygo-99267151",
+   "source": "ygoprodeck-alt",
+   "card_pc": 99267150,
+   "card_name": "Five-Headed Dragon",
+   "alt_index": 1,
+   "source_url": "https://images.ygoprodeck.com/images/cards/99267151.jpg"
+  }
+ }
+}
