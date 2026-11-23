@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T11:13:38Z",
-  "count": 5268,
-  "bytes": 1295295,
+  "generatedAt": "2026-11-23T11:16:34Z",
+  "count": 5278,
+  "bytes": 1297011,
   "source": "DigimonCard.io getAllCards + search (card= batched, 100/batch)"
 }
