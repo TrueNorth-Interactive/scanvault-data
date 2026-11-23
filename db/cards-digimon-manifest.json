@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T11:16:34Z",
+  "generatedAt": "2026-11-23T21:55:09Z",
   "count": 5278,
-  "bytes": 1297011,
-  "source": "DigimonCard.io getAllCards + search (card= batched, 100/batch)"
+  "bytes": 1297029,
+  "source": "DigimonCard.io getAllCards + search (card= batched, 100/batch); BT1 tcgcsv merge 2026-11-23 (group 2733, TCGplayer market via tcgcsv.com, build-time fetch): p added dig:BT1-025 0.85 + dig:BT1-044 0.59 (Foil market \u2014 foil-only Super Rare printings, no Normal row exists); dig:BT1-029/030/066 p already equal tcgcsv Normal market (0.16/0.10/0.10)"
 }
