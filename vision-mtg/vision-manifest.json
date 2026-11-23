@@ -3,10 +3,10 @@
  "genre": "mtg",
  "model": "dinov2-small-int8",
  "dim": 384,
- "count": 35751,
- "bytes": 56522340,
+ "count": 52485,
  "indexFile": "vision-mtg-index.json",
  "wholeFile": "vision-mtg-whole.f16",
  "artFile": "vision-mtg-art.f16",
- "modelFile": "dinov2-small-quantized.onnx"
+ "modelFile": "dinov2-small-quantized.onnx",
+ "bytes": 82978794
 }
