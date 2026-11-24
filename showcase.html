@@ -69,6 +69,7 @@ body{
 .delta{font-size:13px;font-weight:800;padding:4px 10px;border-radius:999px;flex:none}
 .delta.up{color:#06281a;background:var(--good)}
 .delta.down{color:#3d0a0a;background:var(--bad)}
+.delta.flat{color:var(--mut);background:transparent;border:1px solid var(--line)} /* (2026-10-28 loop-r8) neutral pill for flat movers */
 .cta-wrap{text-align:center;margin-top:38px;padding:26px 18px;border:1px solid var(--line);
   border-radius:18px;background:linear-gradient(150deg,#141b3a,#0d1226)}
 .cta-wrap p{color:var(--mut);font-size:14px;margin:0 0 16px}
@@ -92,7 +93,7 @@ body{
       <div class="total" id="scTotal">$0</div>
       <p class="sub" id="scSub"></p>
     </div>
-    <div class="sec">
+    <div class="sec" id="scTopSec">
       <h2>Top cards</h2>
       <div class="grid" id="scTop"></div>
     </div>
@@ -104,7 +105,7 @@ body{
       <p>This is a snapshot shared by its owner — no account needed to view it.<br>Want one for your own collection?</p>
       <a class="btn-gold" href="https://play.google.com/store/apps/details?id=com.truenorthinteractive.scanvault">Get ScanVault — track your own collection</a>
       <p style="margin:14px 0 0;font-size:13px"><a href="https://truenorth-interactive.ca/" style="color:var(--mut)">Visit the True North Interactive website</a></p>
-      <p style="margin:16px 0 0">Flexing yours? Post it with <b>#ScanVault</b> — the best get featured.</p>
+      <p style="margin:16px 0 0">Flexing yours? Post it with <b>#ScanVault</b>.</p>
     </div>
     <p class="fine">Made with <b>ScanVault</b> by <b><a href="https://truenorth-interactive.ca/" style="color:var(--txt)">True North Interactive</a></b>.<br>
     This page is fully static: your visit is not tracked, and nothing is stored or sent anywhere.</p>
@@ -145,6 +146,31 @@ function fmtUSD(v) {
   if (!Number.isFinite(n)) n = 0;
   return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
+// (2026-11-24 share-currency, Dan) Display-currency rendering: a payload
+// minted after the app change carries currency + fxRate +
+// totalValueDisplay (the sharer's display currency, the rate used, and
+// the converted total). Render those when all three are valid; old
+// payloads (no new fields) and any invalid new field render USD exactly
+// as before, so already-shared links are byte-identical.
+function hasDisplayFields(p) {
+  return !!(p && typeof p === 'object' &&
+    typeof p.currency === 'string' && /^[A-Z]{3}$/.test(p.currency) &&
+    Number.isFinite(p.fxRate) && p.fxRate > 0 &&
+    Number.isFinite(p.totalValueDisplay));
+}
+function fmtDisplay(v, fxRate) {
+  var n = Number(v) * fxRate;
+  if (!Number.isFinite(n)) n = 0;
+  return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+}
+function heroTotal(m) {
+  if (m.display) return fmtUSD(m.display.totalValueDisplay) + ' ' + m.display.currency;
+  return fmtUSD(m.totalValue) + ' USD';
+}
+function cardValueText(v, m) {
+  if (m.display) return fmtDisplay(v, m.display.fxRate);
+  return fmtUSD(v);
+}
 function fmtDelta(d) {
   var n = Number(d);
   if (!Number.isFinite(n)) n = 0;
@@ -154,14 +180,19 @@ function fmtDelta(d) {
 // pure layer stays testable without a browser).
 function showcaseModel(p) {
   var top = p.top10.slice(0, 10).map(function (c) {
+    /* (2026-10-28 loop-r9) A null entry used to throw on c.name and abort the render mid-way, leaving the hero at its $0 default with no cards and no broken state. Coerce it to an empty card instead. */
+    c = c || {};
     return {
       name: String(c.name || 'Unknown card'),
       set: String(c.set || ''),
       value: Number.isFinite(c.value) ? c.value : 0,
-      imageUrl: String(c.imageUrl || '')
+      // (2026-10-28 loop-r5) Render-side scheme allowlist: the app's thumb() and the Worker's OG tag already accept http(s) only, but the render path took imageUrl verbatim, so a crafted payload's data: image rendered as a top card. LOCAL-ONLY (staged, unpushed).
+      imageUrl: (typeof c.imageUrl === 'string' && /^https?:\/\//.test(c.imageUrl)) ? c.imageUrl : ''
     };
   });
   var movers = Array.isArray(p.biggestMovers) ? p.biggestMovers.slice(0, 5).map(function (m) {
+    /* (2026-10-28 loop-r9) Same null-entry guard as the top cards above: a null mover aborted the whole render. */
+    m = m || {};
     return {
       name: String(m.name || 'Unknown card'),
       delta: Number.isFinite(m.delta) ? m.delta : 0
@@ -170,7 +201,9 @@ function showcaseModel(p) {
   return {
     genre: String(p.genre || 'Collection'),
     totalValue: p.totalValue,
+    display: hasDisplayFields(p) ? { currency: p.currency, fxRate: p.fxRate, totalValueDisplay: p.totalValueDisplay } : null,
     cardCount: p.cardCount,
+    sealedProducts: (p.sealedProducts != null ? (p.sealedProducts | 0) : (p.sealedCount | 0)), // (2026-10-28 loop-r4) staged for the next push: old payloads carry sealedCount but no sealedProducts — mirror the caption/dialog fallback so the sealed split does not vanish for already-shared links
     asOf: String(p.asOf || ''),
     top: top,
     movers: movers
@@ -190,31 +223,40 @@ function renderShowcase() {
   // whole payload in the address bar, so copying the link after opening
   // pasted a long URL again and defeated the short link). Long fragment
   // links still decode from the hash as before.
-  var payload = (typeof window.__SV_PAYLOAD__ !== 'undefined' && window.__SV_PAYLOAD__)
-    ? window.__SV_PAYLOAD__
-    : decodePayload(window.location.hash);
+  // (2026-10-28 loop-r6) A hash present in the URL is the newest instruction: a short-link tab (injected __SV_PAYLOAD__) that later receives a long-link hash used to keep rendering the old short payload, so same-tab hashchange only worked long->long.
+  var payload = window.location.hash ? decodePayload(window.location.hash) : null;
+  /* (2026-10-28 loop-r7) A present-but-unusable hash no longer discards the short link's own payload */
+  if (!isValidPayload(payload) && typeof window.__SV_PAYLOAD__ !== 'undefined' && window.__SV_PAYLOAD__) payload = window.__SV_PAYLOAD__;
   var ok = isValidPayload(payload);
   document.getElementById('showcase').classList.toggle('hidden', !ok);
   document.getElementById('broken').classList.toggle('hidden', ok);
+  document.title = 'Collection Showcase — ScanVault'; // (2026-10-28 loop-r6) a valid->broken hashchange otherwise leaves the previous collection's title in place
   if (!ok) return;
   var m = showcaseModel(payload);
-  document.title = escHtml(m.genre) + ' collection — ScanVault showcase';
+  document.title = m.genre + ' collection — ScanVault showcase'; // (2026-10-28 rerun) staged for the next push: document.title is plain text, not markup — escHtml would show a literal &amp; for a genre containing &
   document.getElementById('scTitle').innerHTML = escHtml(m.genre) + ' <span class="gold">collection</span>';
-  document.getElementById('scTotal').textContent = fmtUSD(m.totalValue);
+  document.getElementById('scTotal').textContent = heroTotal(m); /* (2026-10-28 loop-r7) hero total carries the same explicit USD label as dialog/caption — (2026-11-24 share-currency) or the sharer's display currency when the payload carries it */
+  // (2026-10-28 loop-r5) Sealed-only sublines used to read "0 cards + N sealed products" — drop the cards clause when cardCount is 0. LOCAL-ONLY (staged, unpushed).
+  // (2026-10-28 loop-r6) Singular card count: a 1-card share read '1 cards' here while dialog, caption, and Worker OG all already singularize.
   document.getElementById('scSub').innerHTML =
-    '<b>' + m.cardCount.toLocaleString('en-US') + '</b> cards' +
+    (m.cardCount > 0 ? '<b>' + m.cardCount.toLocaleString('en-US') + '</b> card' + (m.cardCount === 1 ? '' : 's') + (m.sealedProducts > 0 ? ' + <b>' + m.sealedProducts + '</b> sealed product' + (m.sealedProducts === 1 ? '' : 's') : '') : (m.sealedProducts > 0 ? '<b>' + m.sealedProducts + '</b> sealed product' + (m.sealedProducts === 1 ? '' : 's') : '<b>0</b> cards')) +
     (m.asOf ? ' · snapshot ' + escHtml(m.asOf) : '');
   document.getElementById('scTop').innerHTML = m.top.map(function (c) {
     return '<div class="card">' + cardArtHTML(c) +
       '<div class="ci"><div class="nm">' + escHtml(c.name) + '</div>' +
       (c.set ? '<div class="st">' + escHtml(c.set) + '</div>' : '') +
-      '<div class="vl">' + escHtml(fmtUSD(c.value)) + '</div></div></div>';
+      '<div class="vl">' + escHtml(cardValueText(c.value, m)) + '</div></div></div>';
   }).join('');
+  // (2026-10-28 loop-r4) Sealed-only shares have an empty top list: hide
+  // the section instead of rendering a bare "Top cards" header grid
+  // (mirrors the movers section's hidden toggle below).
+  document.getElementById('scTopSec').classList.toggle('hidden', !m.top.length);
   var mvSec = document.getElementById('scMoversSec');
   if (m.movers.length) {
     mvSec.classList.remove('hidden');
     document.getElementById('scMovers').innerHTML = m.movers.map(function (r) {
-      var cls = r.delta > 0 ? 'up' : (r.delta < 0 ? 'down' : 'up');
+      /* (2026-10-28 loop-r8) A flat mover (0.0%) used to render with the green "up" pill. Flat gets its own neutral style. */
+      var cls = r.delta > 0 ? 'up' : (r.delta < 0 ? 'down' : 'flat');
       return '<div class="mrow"><span class="mn">' + escHtml(r.name) + '</span>' +
         '<span class="delta ' + cls + '">' + escHtml(fmtDelta(r.delta)) + '</span></div>';
     }).join('');
@@ -228,6 +270,8 @@ if (typeof document !== 'undefined' && typeof window !== 'undefined') {
   } else {
     renderShowcase();
   }
+  // (2026-10-28 loop-r5) Same-tab fragment switches never re-ran the render: opening link B in the tab showing link A kept showing A. LOCAL-ONLY (staged, unpushed).
+  window.addEventListener('hashchange', renderShowcase);
 }
 </script>
 </body>
